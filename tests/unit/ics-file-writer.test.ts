@@ -42,7 +42,10 @@ describe("IcsFileWriter", () => {
     const writer = new IcsFileWriter({ outputDir });
     await writer.write("test-source", [makeCalendar()]);
 
-    const content = await readFile(join(outputDir, "test-source", "venue", "music-hall.ics"), "utf-8");
+    const content = await readFile(
+      join(outputDir, "test-source", "venue", "music-hall.ics"),
+      "utf-8",
+    );
     expect(content).toMatch(/^BEGIN:VCALENDAR/);
     expect(content).toContain("END:VCALENDAR");
   });
@@ -62,7 +65,10 @@ describe("IcsFileWriter", () => {
       makeCalendar({ events: [makeEvent({ description: "A great show" })] }),
     ]);
 
-    const content = await readFile(join(outputDir, "test-source", "venue", "music-hall.ics"), "utf-8");
+    const content = await readFile(
+      join(outputDir, "test-source", "venue", "music-hall.ics"),
+      "utf-8",
+    );
     expect(content).toContain("A great show");
     expect(content).toContain("https://www.cincinnatiarts.org/events/detail/test");
   });
@@ -73,7 +79,10 @@ describe("IcsFileWriter", () => {
       makeCalendar({ events: [makeEvent({ description: undefined })] }),
     ]);
 
-    const content = await readFile(join(outputDir, "test-source", "venue", "music-hall.ics"), "utf-8");
+    const content = await readFile(
+      join(outputDir, "test-source", "venue", "music-hall.ics"),
+      "utf-8",
+    );
     expect(content).toContain("https://www.cincinnatiarts.org/events/detail/test");
   });
 
@@ -81,7 +90,10 @@ describe("IcsFileWriter", () => {
     const writer = new IcsFileWriter({ outputDir });
     await writer.write("test-source", [makeCalendar({ events: [makeEvent({ end: undefined })] })]);
 
-    const content = await readFile(join(outputDir, "test-source", "venue", "music-hall.ics"), "utf-8");
+    const content = await readFile(
+      join(outputDir, "test-source", "venue", "music-hall.ics"),
+      "utf-8",
+    );
     expect(content).toContain("DURATION:PT2H");
   });
 
@@ -91,7 +103,10 @@ describe("IcsFileWriter", () => {
       makeCalendar({ events: [makeEvent({ end: "2026-09-30T22:00:00.000Z" })] }),
     ]);
 
-    const content = await readFile(join(outputDir, "test-source", "venue", "music-hall.ics"), "utf-8");
+    const content = await readFile(
+      join(outputDir, "test-source", "venue", "music-hall.ics"),
+      "utf-8",
+    );
     expect(content).toContain("DTEND");
     expect(content).not.toContain("DURATION");
   });
@@ -102,7 +117,10 @@ describe("IcsFileWriter", () => {
       makeCalendar({ events: [makeEvent({ organizer: "Cincinnati Symphony" })] }),
     ]);
 
-    const content = await readFile(join(outputDir, "test-source", "venue", "music-hall.ics"), "utf-8");
+    const content = await readFile(
+      join(outputDir, "test-source", "venue", "music-hall.ics"),
+      "utf-8",
+    );
     expect(content).toContain("Cincinnati Symphony");
   });
 
@@ -112,7 +130,10 @@ describe("IcsFileWriter", () => {
       makeCalendar({ events: [makeEvent({ organizer: undefined })] }),
     ]);
 
-    const content = await readFile(join(outputDir, "test-source", "venue", "music-hall.ics"), "utf-8");
+    const content = await readFile(
+      join(outputDir, "test-source", "venue", "music-hall.ics"),
+      "utf-8",
+    );
     expect(content).not.toContain("ORGANIZER");
   });
 

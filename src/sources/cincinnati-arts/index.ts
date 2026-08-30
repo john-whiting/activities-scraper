@@ -27,16 +27,16 @@ export const cincinnatiArtsSource: Source = {
       const start = p.productionStart ? new Date(p.productionStart) : null;
       const end = p.productionEnd ? new Date(p.productionEnd) : start;
       if (!start) return true; // no date info — include and let normalize handle it
-      if (to && start >= to) return false;      // production starts after window
+      if (to && start >= to) return false; // production starts after window
       if (from && end && end < from) return false; // production ended before window
       return true;
     });
 
     console.log(
       `[cincinnati-arts] ${productions.length} productions overlap the window` +
-      (from || to
-        ? ` (${from?.toISOString().slice(0, 10) ?? "∞"} → ${to?.toISOString().slice(0, 10) ?? "∞"})`
-        : ""),
+        (from || to
+          ? ` (${from?.toISOString().slice(0, 10) ?? "∞"} → ${to?.toISOString().slice(0, 10) ?? "∞"})`
+          : ""),
     );
 
     const allEvents: Event[] = [];
@@ -50,9 +50,7 @@ export const cincinnatiArtsSource: Source = {
           detail = parseDetail(detailRes.body);
         }
       } catch (err) {
-        console.warn(
-          `[cincinnati-arts] Failed to fetch detail for ${production.title}: ${err}`,
-        );
+        console.warn(`[cincinnati-arts] Failed to fetch detail for ${production.title}: ${err}`);
       }
 
       const events = normalizeEvents(production, detail, scrapedAt);
@@ -71,5 +69,4 @@ export const cincinnatiArtsSource: Source = {
     console.log(`[cincinnati-arts] ${allEvents.length} showings within window`);
     return allEvents;
   },
-
 };

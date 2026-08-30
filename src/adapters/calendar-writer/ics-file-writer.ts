@@ -1,8 +1,8 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
-import { createEvents } from "ics";
-import type { EventAttributes } from "ics";
 import { fromZonedTime } from "date-fns-tz";
+import type { EventAttributes } from "ics";
+import { createEvents } from "ics";
 import type { Calendar } from "../../core/calendar.js";
 import type { CalendarWriter } from "../../core/ports/calendar-writer.js";
 
@@ -49,9 +49,7 @@ export class IcsFileWriter implements CalendarWriter {
           start: startArray,
           startInputType: "utc" as const,
           startOutputType: "utc" as const,
-          description: event.description
-            ? `${event.description}\n\n${event.url}`
-            : event.url,
+          description: event.description ? `${event.description}\n\n${event.url}` : event.url,
           location: event.location,
           url: event.url,
           categories: event.categories,

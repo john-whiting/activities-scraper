@@ -20,9 +20,13 @@ jobs:
           node-version-file: .node-version
           cache: pnpm
 
+      - uses: biomejs/setup-biome@v2
+        with:
+          version: latest
+
       - run: pnpm install --frozen-lockfile
 
-      - run: pnpm check
+      - run: biome check .
 
       - run: pnpm typecheck
 

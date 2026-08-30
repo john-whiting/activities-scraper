@@ -3,7 +3,7 @@ import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { beforeEach, describe, expect, it, vi } from "vitest";
 import { CachedFetcher } from "../../src/adapters/fetcher/cached-fetcher.js";
-import type { FetchResponse, Fetcher } from "../../src/core/ports/fetcher.js";
+import type { Fetcher, FetchResponse } from "../../src/core/ports/fetcher.js";
 
 function makeFetcher(response: FetchResponse): Fetcher {
   return { fetch: vi.fn().mockResolvedValue(response) };

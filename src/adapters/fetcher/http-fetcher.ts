@@ -1,8 +1,7 @@
 import { setTimeout as sleep } from "node:timers/promises";
-import type { FetchOptions, FetchResponse, Fetcher } from "../../core/ports/fetcher.js";
+import type { Fetcher, FetchOptions, FetchResponse } from "../../core/ports/fetcher.js";
 
-const DEFAULT_UA =
-  "activities-scraper/0.1 (+https://github.com/john-whiting/activities-scraper)";
+const DEFAULT_UA = "activities-scraper/0.1 (+https://github.com/john-whiting/activities-scraper)";
 const DEFAULT_MIN_DELAY_MS = 1000;
 const DEFAULT_MAX_RETRIES = 3;
 
@@ -55,7 +54,7 @@ export class HttpFetcher implements Fetcher {
       } catch (err) {
         lastError = err instanceof Error ? err : new Error(String(err));
         if (attempt < this.maxRetries) {
-          await sleep(Math.pow(2, attempt) * 500);
+          await sleep(2 ** attempt * 500);
           await this.politeDelay();
         }
       } finally {

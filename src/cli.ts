@@ -1,8 +1,8 @@
 import { IcsFileWriter } from "./adapters/calendar-writer/ics-file-writer.js";
 import { CachedFetcher } from "./adapters/fetcher/cached-fetcher.js";
 import { HttpFetcher } from "./adapters/fetcher/http-fetcher.js";
-import { systemClock } from "./core/ports/clock.js";
 import { runSource } from "./app/run-source.js";
+import { systemClock } from "./core/ports/clock.js";
 import { getSource, sources } from "./sources/index.js";
 
 const args = process.argv.slice(2);
@@ -36,7 +36,9 @@ const now = new Date(systemClock.now());
 const to = new Date(now);
 to.setDate(to.getDate() + days);
 
-console.log(`[cli] Window: ${now.toISOString().slice(0, 10)} → ${to.toISOString().slice(0, 10)} (${days} days)`);
+console.log(
+  `[cli] Window: ${now.toISOString().slice(0, 10)} → ${to.toISOString().slice(0, 10)} (${days} days)`,
+);
 
 for (const source of targets) {
   await runSource(source, { fetcher, clock: systemClock, writer, from: now, to });

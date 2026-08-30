@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import type { FetchOptions, FetchResponse, Fetcher } from "../../core/ports/fetcher.js";
+import type { Fetcher, FetchOptions, FetchResponse } from "../../core/ports/fetcher.js";
 
 export interface CachedFetcherOptions {
   cacheDir?: string;
@@ -27,10 +27,7 @@ export class CachedFetcher implements Fetcher {
   }
 
   async fetch(url: string, options: FetchOptions = {}): Promise<FetchResponse> {
-    const key = createHash("sha256")
-      .update(url)
-      .update(JSON.stringify(options))
-      .digest("hex");
+    const key = createHash("sha256").update(url).update(JSON.stringify(options)).digest("hex");
     const cachePath = join(this.cacheDir, `${key}.json`);
 
     try {

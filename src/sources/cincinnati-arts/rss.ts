@@ -33,8 +33,7 @@ const RssItemSchema = z.object({
 
 const ProductionSchema = RssItemSchema.transform((item) => {
   const rawText =
-    item.contentSnippet ??
-    (item.content ? cheerio.load(item.content).root().text() : "");
+    item.contentSnippet ?? (item.content ? cheerio.load(item.content).root().text() : "");
   return {
     title: item.title,
     detailUrl: item.link,

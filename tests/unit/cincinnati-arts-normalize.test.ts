@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
-import type { Production } from "../../src/sources/cincinnati-arts/rss.js";
 import { normalizeEvents } from "../../src/sources/cincinnati-arts/normalize.js";
+import type { Production } from "../../src/sources/cincinnati-arts/rss.js";
 
 const sampleProduction: Production = {
   title: "Ghost Tours of Music Hall",
@@ -100,7 +100,9 @@ describe("normalizeEvents — venue fallback", () => {
   it("uses production venue when showing venueName is empty", () => {
     const [event] = normalizeEvents(
       sampleProduction,
-      { showings: [{ showingId: "x", dateTimeRaw: "September 30 2026 at 8:00 PM", venueName: "" }] },
+      {
+        showings: [{ showingId: "x", dateTimeRaw: "September 30 2026 at 8:00 PM", venueName: "" }],
+      },
       scrapedAt,
     );
     expect(event.venue.name).toBe("Music Hall");
@@ -109,7 +111,15 @@ describe("normalizeEvents — venue fallback", () => {
   it("uses showing venueName when present", () => {
     const [event] = normalizeEvents(
       sampleProduction,
-      { showings: [{ showingId: "x", dateTimeRaw: "September 30 2026 at 8:00 PM", venueName: "Aronoff Center" }] },
+      {
+        showings: [
+          {
+            showingId: "x",
+            dateTimeRaw: "September 30 2026 at 8:00 PM",
+            venueName: "Aronoff Center",
+          },
+        ],
+      },
       scrapedAt,
     );
     expect(event.venue.name).toBe("Aronoff Center");
@@ -118,7 +128,11 @@ describe("normalizeEvents — venue fallback", () => {
 
 describe("normalizeEvents — subVenue", () => {
   const aronoffProduction = { ...sampleProduction, venue: "Aronoff Center" };
-  const aronoffShowing = { showingId: "x", dateTimeRaw: "September 30 2026 at 8:00 PM", venueName: "Aronoff Center" };
+  const aronoffShowing = {
+    showingId: "x",
+    dateTimeRaw: "September 30 2026 at 8:00 PM",
+    venueName: "Aronoff Center",
+  };
 
   it("includes subVenue when it differs from venue name", () => {
     const [event] = normalizeEvents(

@@ -81,19 +81,25 @@ describe("splitByVenueAndType —edge cases", () => {
 
 describe("splitByVenueAndType —slug generation", () => {
   it("lowercases and hyphenates venue names", () => {
-    const events = [makeEvent({ id: "1", venue: { name: "Aronoff Center" }, categories: ["Other"] })];
+    const events = [
+      makeEvent({ id: "1", venue: { name: "Aronoff Center" }, categories: ["Other"] }),
+    ];
     const ids = splitByVenueAndType(events, "Cincinnati Arts").map((c) => c.id);
     expect(ids).toContain("venue/aronoff-center");
   });
 
   it("strips special characters from venue names", () => {
-    const events = [makeEvent({ id: "1", venue: { name: "Procter & Gamble Hall" }, categories: ["Other"] })];
+    const events = [
+      makeEvent({ id: "1", venue: { name: "Procter & Gamble Hall" }, categories: ["Other"] }),
+    ];
     const ids = splitByVenueAndType(events, "Cincinnati Arts").map((c) => c.id);
     expect(ids).toContain("venue/procter-gamble-hall");
   });
 
   it("collapses multiple non-alphanumeric characters to a single hyphen", () => {
-    const events = [makeEvent({ id: "1", venue: { name: "21c Museum & Hotel" }, categories: ["Other"] })];
+    const events = [
+      makeEvent({ id: "1", venue: { name: "21c Museum & Hotel" }, categories: ["Other"] }),
+    ];
     const ids = splitByVenueAndType(events, "Cincinnati Arts").map((c) => c.id);
     expect(ids).toContain("venue/21c-museum-hotel");
   });
@@ -102,7 +108,9 @@ describe("splitByVenueAndType —slug generation", () => {
 describe("splitByVenueAndType —calendar metadata", () => {
   it("sets human-readable name for venue calendar", () => {
     const events = [makeEvent({ venue: { name: "Music Hall" }, categories: ["Dance"] })];
-    const cal = splitByVenueAndType(events, "Cincinnati Arts").find((c) => c.id === "venue/music-hall");
+    const cal = splitByVenueAndType(events, "Cincinnati Arts").find(
+      (c) => c.id === "venue/music-hall",
+    );
     expect(cal?.name).toBe("Cincinnati Arts – Music Hall");
     expect(cal?.description).toBe("Events at Music Hall");
   });

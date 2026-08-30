@@ -20,14 +20,10 @@ export function parseDetail(html: string): DetailData {
   const descEl = $("div.event_description");
   let description: string | undefined;
   if (descEl.length) {
-    description =
-      descEl.text().replace(/\s+/g, " ").trim().slice(0, 2000) || undefined;
+    description = descEl.text().replace(/\s+/g, " ").trim().slice(0, 2000) || undefined;
   }
 
-  const subVenue = $("li.sidebar_location span:not(.label)")
-    .first()
-    .text()
-    .trim() || undefined;
+  const subVenue = $("li.sidebar_location span:not(.label)").first().text().trim() || undefined;
 
   const showings: DetailShowing[] = [];
   $("div.showings_list[data-showing-id]").each((_, el) => {
@@ -35,12 +31,7 @@ export function parseDetail(html: string): DetailData {
     const showingId = $show.attr("data-showing-id") ?? "";
     const icalTitle = $show.find("a.ical").attr("title") ?? "";
     const dateTimeRaw = icalTitle.replace(/^Add to Calendar for\s*/i, "").trim();
-    const venueName = $show
-      .find("div.edp_venue_title")
-      .first()
-      .text()
-      .replace(/\s+/g, " ")
-      .trim();
+    const venueName = $show.find("div.edp_venue_title").first().text().replace(/\s+/g, " ").trim();
 
     if (showingId && dateTimeRaw) {
       showings.push({ showingId, dateTimeRaw, venueName });

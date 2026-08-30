@@ -70,7 +70,10 @@ export function normalizeEvents(
           name: venueName,
           subVenue: subVenueName !== venueName ? subVenueName : undefined,
         },
-        location: [subVenueName, venueName].filter((p) => p && p !== venueName).concat(venueName).join(", "),
+        location: [subVenueName, venueName]
+          .filter((p) => p && p !== venueName)
+          .concat(venueName)
+          .join(", "),
         url: production.detailUrl,
         categories: [production.eventType],
         scrapedAt,
@@ -96,9 +99,7 @@ export function normalizeEvents(
       scrapedAt,
     });
   } else {
-    console.warn(
-      `[cincinnati-arts] No showings or production start date for: ${production.title}`,
-    );
+    console.warn(`[cincinnati-arts] No showings or production start date for: ${production.title}`);
   }
 
   return events;

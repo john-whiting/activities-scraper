@@ -73,13 +73,22 @@ describe("parseRss — fixture (full season)", async () => {
 
 describe("parseRss — field defaults", () => {
   it("defaults eventType to 'Other' when ev:type is absent", async () => {
-    const xml = buildRss(item({ title: "A Show", link: VALID_LINK, "ev:startdate": "2026-09-01T00:00:00Z" }));
+    const xml = buildRss(
+      item({ title: "A Show", link: VALID_LINK, "ev:startdate": "2026-09-01T00:00:00Z" }),
+    );
     const [p] = await parseRss(xml);
     expect(p.eventType).toBe("Other");
   });
 
   it("defaults venue to empty string when ev:location is absent", async () => {
-    const xml = buildRss(item({ title: "A Show", link: VALID_LINK, "ev:type": "Dance", "ev:startdate": "2026-09-01T00:00:00Z" }));
+    const xml = buildRss(
+      item({
+        title: "A Show",
+        link: VALID_LINK,
+        "ev:type": "Dance",
+        "ev:startdate": "2026-09-01T00:00:00Z",
+      }),
+    );
     const [p] = await parseRss(xml);
     expect(p.venue).toBe("");
   });
@@ -93,14 +102,18 @@ describe("parseRss — field defaults", () => {
 
 describe("parseRss — description handling", () => {
   it("sets description to undefined when content is blank", async () => {
-    const xml = buildRss(item({ title: "A Show", link: VALID_LINK, "ev:type": "Other", description: "   " }));
+    const xml = buildRss(
+      item({ title: "A Show", link: VALID_LINK, "ev:type": "Other", description: "   " }),
+    );
     const [p] = await parseRss(xml);
     expect(p.description).toBeUndefined();
   });
 
   it("truncates description to 2000 characters", async () => {
     const longText = "a".repeat(3000);
-    const xml = buildRss(item({ title: "A Show", link: VALID_LINK, "ev:type": "Other", description: longText }));
+    const xml = buildRss(
+      item({ title: "A Show", link: VALID_LINK, "ev:type": "Other", description: longText }),
+    );
     const [p] = await parseRss(xml);
     expect(p.description).toBeDefined();
     expect(p.description!.length).toBeLessThanOrEqual(2000);
@@ -121,7 +134,11 @@ describe("parseRss — malformed items", () => {
   it("includes valid items even when a sibling item is malformed", async () => {
     const xml = buildRss(
       item({ link: VALID_LINK, "ev:type": "Dance" }), // no title — invalid
-      item({ title: "Valid Show", link: "https://www.cincinnatiarts.org/events/detail/valid", "ev:type": "Theater" }),
+      item({
+        title: "Valid Show",
+        link: "https://www.cincinnatiarts.org/events/detail/valid",
+        "ev:type": "Theater",
+      }),
     );
     const productions = await parseRss(xml);
     expect(productions).toHaveLength(1);
