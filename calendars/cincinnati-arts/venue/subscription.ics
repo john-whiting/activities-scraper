@@ -8,8 +8,9 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ee08fb3a10610cc192ff1ead
 SUMMARY:Mutual Dance Theatre 26-27 Subscription
-DTSTAMP:20260830T080329Z
+DTSTAMP:20260830T180224Z
 DTSTART:20260911T141500Z
+DTEND:20260911T141500Z
 DESCRIPTION:A season about what we carry forward Modern and Contemporary Da
 	nce in Cincinnati for its 55th year! Mutual Dance Theatre (formerly known 
 	as Contemporary Dance Theater and MamLuft&Co. Dance) puts powerful dance o
@@ -44,6 +45,5 @@ URL:https://www.cincinnatiarts.org/events/detail/mutual-dance-theatre-26-27
 LOCATION:Subscription
 STATUS:CONFIRMED
 CATEGORIES:Dance
-DURATION:PT2H
 END:VEVENT
 END:VCALENDAR
