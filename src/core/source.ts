@@ -5,10 +5,10 @@ import type { Fetcher } from "./ports/fetcher.js";
 export interface ScrapeDeps {
   fetcher: Fetcher;
   clock: Clock;
-  /** Exclude events that start before this date. */
-  from?: Date;
-  /** Exclude events that start on or after this date. */
-  to?: Date;
+  /** Exclude events that start before this instant. */
+  from?: Temporal.Instant;
+  /** Exclude events that start on or after this instant. */
+  to?: Temporal.Instant;
 }
 
 export interface Source {

@@ -4,7 +4,7 @@
   "description": "Daily scraper that converts public event calendars to subscribable ICS feeds",
   "type": "module",
   "engines": {
-    "node": ">=22"
+    "node": ">=26"
   },
   "scripts": {
     "scrape": "tsx src/cli.ts",
@@ -27,8 +27,6 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0",
-    "date-fns": "^4.1.0",
-    "date-fns-tz": "^3.2.0",
     "ics": "^3.8.1",
     "rss-parser": "^3.13.0",
     "undici": "^7.10.0",
@@ -36,6 +34,7 @@
   },
   "devDependencies": {
     "@types/node": "^26.4.0",
+    "temporal-polyfill": "^0.3.0",
     "tsx": "^4.20.3",
     "typescript": "^5.8.3",
     "vitest": "^3.2.4"

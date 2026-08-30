@@ -10,13 +10,12 @@ function makeEvent(overrides: Partial<Event> = {}): Event {
   return {
     id: "abc123",
     title: "Test Show",
-    start: "2026-09-30T20:00:00.000Z",
-    timezone: "America/New_York",
+    start: Temporal.ZonedDateTime.from("2026-09-30T20:00:00-04:00[America/New_York]"),
     venue: { name: "Music Hall" },
     location: "Music Hall",
     url: "https://www.cincinnatiarts.org/events/detail/test",
     categories: ["Classical Music"],
-    scrapedAt: "2026-08-29T00:00:00.000Z",
+    scrapedAt: Temporal.Instant.from("2026-08-29T00:00:00Z"),
     ...overrides,
   };
 }
@@ -48,6 +47,18 @@ describe("IcsFileWriter", () => {
     );
     expect(content).toMatch(/^BEGIN:VCALENDAR/);
     expect(content).toContain("END:VCALENDAR");
+  });
+
+  it("emits DTSTART in UTC matching the zoned start", async () => {
+    const writer = new IcsFileWriter({ outputDir });
+    await writer.write("test-source", [makeCalendar()]);
+
+    const content = await readFile(
+      join(outputDir, "test-source", "venue", "music-hall.ics"),
+      "utf-8",
+    );
+    // Sept 30, 8:00 PM EDT (UTC-4) → midnight UTC on Oct 1
+    expect(content).toContain("DTSTART:20261001T000000Z");
   });
 
   it("skips calendars with no events", async () => {
@@ -100,7 +111,13 @@ describe("IcsFileWriter", () => {
   it("uses DTEND when an end time is provided", async () => {
     const writer = new IcsFileWriter({ outputDir });
     await writer.write("test-source", [
-      makeCalendar({ events: [makeEvent({ end: "2026-09-30T22:00:00.000Z" })] }),
+      makeCalendar({
+        events: [
+          makeEvent({
+            end: Temporal.ZonedDateTime.from("2026-09-30T22:00:00-04:00[America/New_York]"),
+          }),
+        ],
+      }),
     ]);
 
     const content = await readFile(

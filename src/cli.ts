@@ -32,14 +32,13 @@ if (Number.isNaN(days) || days <= 0) {
   process.exit(1);
 }
 
-const now = new Date(systemClock.now());
-const to = new Date(now);
-to.setDate(to.getDate() + days);
+const from = systemClock.now();
+const to = from.add({ hours: 24 * days });
 
 console.log(
-  `[cli] Window: ${now.toISOString().slice(0, 10)} → ${to.toISOString().slice(0, 10)} (${days} days)`,
+  `[cli] Window: ${from.toString().slice(0, 10)} → ${to.toString().slice(0, 10)} (${days} days)`,
 );
 
 for (const source of targets) {
-  await runSource(source, { fetcher, clock: systemClock, writer, from: now, to });
+  await runSource(source, { fetcher, clock: systemClock, writer, from, to });
 }

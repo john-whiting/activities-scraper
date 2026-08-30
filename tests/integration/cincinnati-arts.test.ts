@@ -13,7 +13,7 @@ describe("cincinnati-arts integration", () => {
 
     for (const event of events) {
       expect(event.title).toBeTruthy();
-      expect(event.start).toMatch(/^\d{4}/);
+      expect(event.start.year).toBeGreaterThanOrEqual(2020);
       expect(event.venue.name).toBeTruthy();
       expect(event.categories.length).toBeGreaterThan(0);
       expect(event.url).toMatch(/cincinnatiarts\.org/);

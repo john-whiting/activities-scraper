@@ -1,8 +1,8 @@
 export interface Clock {
-  /** Returns the current time as an ISO 8601 string. */
-  now(): string;
+  /** Returns the current instant. */
+  now(): Temporal.Instant;
 }
 
 export const systemClock: Clock = {
-  now: () => new Date().toISOString(),
+  now: () => Temporal.Now.instant(),
 };

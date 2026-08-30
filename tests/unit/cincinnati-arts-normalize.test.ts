@@ -12,7 +12,7 @@ const sampleProduction: Production = {
   productionEnd: "2026-10-31T01:00:00Z",
 };
 
-const scrapedAt = "2026-08-29T00:00:00.000Z";
+const scrapedAt = Temporal.Instant.from("2026-08-29T00:00:00Z");
 
 const twoShowings = [
   { showingId: "9925", dateTimeRaw: "September 30 2026 at 8:00 PM", venueName: "Music Hall" },
@@ -38,18 +38,18 @@ describe("normalizeEvents — happy path", () => {
     expect(again[0].id).toBe(events[0].id);
   });
 
-  it("sets title, url, and timezone", () => {
+  it("sets title, url, and start timezone", () => {
     const [e] = events;
     expect(e.title).toBe("Ghost Tours of Music Hall");
     expect(e.url).toBe("https://www.cincinnatiarts.org/events/detail/ghost-tours-1");
-    expect(e.timezone).toBe("America/New_York");
+    expect(e.start.timeZoneId).toBe("America/New_York");
   });
 
   it("converts showing times to UTC correctly", () => {
     // "September 30 at 8:00 PM" EDT (UTC-4) = midnight UTC → Oct 1
-    expect(events[0].start).toMatch(/2026-10-01/);
+    expect(events[0].start.toInstant().toString()).toBe("2026-10-01T00:00:00Z");
     // "October 30 at 7:00 PM" EDT (UTC-4) = 23:00 UTC → Oct 30
-    expect(events[1].start).toMatch(/2026-10-30/);
+    expect(events[1].start.toInstant().toString()).toBe("2026-10-30T23:00:00Z");
   });
 
   it("uses eventType from RSS as the sole category", () => {
@@ -92,7 +92,8 @@ describe("normalizeEvents — date parse failures", () => {
     ];
     const events = normalizeEvents(sampleProduction, { showings: mixed }, scrapedAt);
     expect(events).toHaveLength(1);
-    expect(events[0].start).toMatch(/2026-10/);
+    expect(events[0].start.year).toBe(2026);
+    expect(events[0].start.month).toBe(10);
   });
 });
 
@@ -162,7 +163,7 @@ describe("normalizeEvents — productionStart fallback", () => {
   it("produces one event from productionStart when no showings exist", () => {
     const events = normalizeEvents(sampleProduction, { showings: [] }, scrapedAt);
     expect(events).toHaveLength(1);
-    expect(events[0].start).toMatch(/2026/);
+    expect(events[0].start.year).toBe(2026);
   });
 
   it("uses 'production' as the showing key in the stable ID", () => {

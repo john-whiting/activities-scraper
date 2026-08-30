@@ -8,12 +8,10 @@ export interface Event {
   id: string;
   title: string;
   description?: string;
-  /** ISO 8601 string in the event's local timezone. */
-  start: string;
-  /** ISO 8601 string in the event's local timezone. Optional (all-day-ish). */
-  end?: string;
-  /** IANA tz identifier, e.g. "America/New_York" */
-  timezone: string;
+  /** Zoned wall-clock start — carries its own IANA tz. */
+  start: Temporal.ZonedDateTime;
+  /** Zoned wall-clock end. Optional (all-day-ish). */
+  end?: Temporal.ZonedDateTime;
   venue: EventVenue;
   /** Human-readable "Sub-Venue, Top Venue" for LOCATION field. */
   location?: string;
@@ -22,6 +20,6 @@ export interface Event {
   /** e.g. ["Theater", "Comedy"] — source-defined taxonomy values */
   categories: string[];
   organizer?: string;
-  /** ISO 8601 — when this record was last scraped. */
-  scrapedAt: string;
+  /** When this record was last scraped. */
+  scrapedAt: Temporal.Instant;
 }

@@ -8,10 +8,10 @@ export interface RunSourceOptions {
   fetcher: Fetcher;
   clock: Clock;
   writer: CalendarWriter;
-  /** Only include events at or after this date. */
-  from?: Date;
-  /** Only include events strictly before this date. */
-  to?: Date;
+  /** Only include events at or after this instant. */
+  from?: Temporal.Instant;
+  /** Only include events strictly before this instant. */
+  to?: Temporal.Instant;
 }
 
 export async function runSource(source: Source, opts: RunSourceOptions): Promise<void> {

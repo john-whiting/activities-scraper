@@ -6,13 +6,12 @@ function makeEvent(overrides: Partial<Event> = {}): Event {
   return {
     id: "test-id",
     title: "Test Show",
-    start: "2026-09-30T20:00:00.000Z",
-    timezone: "America/New_York",
+    start: Temporal.ZonedDateTime.from("2026-09-30T20:00:00-04:00[America/New_York]"),
     venue: { name: "Music Hall" },
     location: "Music Hall",
     url: "https://www.cincinnatiarts.org/events/detail/test",
     categories: ["Classical Music"],
-    scrapedAt: "2026-08-29T00:00:00.000Z",
+    scrapedAt: Temporal.Instant.from("2026-08-29T00:00:00Z"),
     ...overrides,
   };
 }

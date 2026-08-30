@@ -1,5 +1,4 @@
 import { createHash } from "node:crypto";
-import { fromZonedTime } from "date-fns-tz";
 import type { Event } from "../../core/event.js";
 import type { DetailData } from "./detail.js";
 import type { Production } from "./rss.js";
@@ -7,17 +6,57 @@ import type { Production } from "./rss.js";
 const TIMEZONE = "America/New_York";
 const SOURCE_ID = "cincinnati-arts";
 
+const MONTHS: Record<string, number> = {
+  january: 1,
+  february: 2,
+  march: 3,
+  april: 4,
+  may: 5,
+  june: 6,
+  july: 7,
+  august: 8,
+  september: 9,
+  october: 10,
+  november: 11,
+  december: 12,
+};
+
+const SHOWING_RE = /^([A-Za-z]+)\s+(\d{1,2})\s+(\d{4})\s+at\s+(\d{1,2}):(\d{2})\s*(AM|PM)$/i;
+
 /**
- * Parse a raw date/time string like "September 30 2026 at 8:00 PM"
- * and return an ISO 8601 string in TIMEZONE. Returns null on failure.
+ * Parse a raw showing string like "September 30 2026 at 8:00 PM"
+ * into a ZonedDateTime in TIMEZONE. Returns null on failure.
  */
-function parseDateTimeRaw(raw: string): string | null {
-  const withoutAt = raw.replace(/\s+/g, " ").trim().replace(/ at /, " ");
-  const d = new Date(withoutAt);
-  if (!Number.isNaN(d.getTime())) {
-    return fromZonedTime(d, TIMEZONE).toISOString();
+function parseShowingRaw(raw: string): Temporal.ZonedDateTime | null {
+  const cleaned = raw.replace(/\s+/g, " ").trim();
+  const match = SHOWING_RE.exec(cleaned);
+  if (!match) return null;
+
+  const [, monthName, dayStr, yearStr, hourStr, minuteStr, meridiem] = match;
+  const month = MONTHS[monthName.toLowerCase()];
+  if (!month) return null;
+
+  const hour12 = Number(hourStr);
+  const hour24 =
+    meridiem.toUpperCase() === "PM"
+      ? hour12 === 12
+        ? 12
+        : hour12 + 12
+      : hour12 === 12
+        ? 0
+        : hour12;
+
+  try {
+    return Temporal.PlainDateTime.from({
+      year: Number(yearStr),
+      month,
+      day: Number(dayStr),
+      hour: hour24,
+      minute: Number(minuteStr),
+    }).toZonedDateTime(TIMEZONE);
+  } catch {
+    return null;
   }
-  return null;
 }
 
 function stableId(detailUrl: string, showingId: string): string {
@@ -30,7 +69,7 @@ function stableId(detailUrl: string, showingId: string): string {
 export function normalizeEvents(
   production: Production,
   detail: DetailData,
-  scrapedAt: string,
+  scrapedAt: Temporal.Instant,
 ): Event[] {
   const events: Event[] = [];
 
@@ -51,7 +90,7 @@ export function normalizeEvents(
 
   if (showings.length > 0) {
     for (const showing of showings) {
-      const start = parseDateTimeRaw(showing.dateTimeRaw);
+      const start = parseShowingRaw(showing.dateTimeRaw);
       if (!start) {
         console.warn(
           `[cincinnati-arts] Could not parse date "${showing.dateTimeRaw}" for ${production.title}`,
@@ -65,7 +104,6 @@ export function normalizeEvents(
         title: production.title,
         description,
         start,
-        timezone: TIMEZONE,
         venue: {
           name: venueName,
           subVenue: subVenueName !== venueName ? subVenueName : undefined,
@@ -80,15 +118,15 @@ export function normalizeEvents(
       });
     }
   } else if (production.productionStart) {
-    // No individual showings — use the production start date from RSS
-    const start = new Date(production.productionStart).toISOString();
+    // No individual showings — use the production start date from RSS.
+    // productionStart is an absolute ISO timestamp; render it in the source's tz.
+    const start = Temporal.Instant.from(production.productionStart).toZonedDateTimeISO(TIMEZONE);
     const venueName = subVenueName || topVenueName;
     events.push({
       id: stableId(production.detailUrl, "production"),
       title: production.title,
       description,
       start,
-      timezone: TIMEZONE,
       venue: {
         name: topVenueName || venueName,
         subVenue: subVenueName,

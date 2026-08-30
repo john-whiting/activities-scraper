@@ -24,18 +24,18 @@ export const cincinnatiArtsSource: Source = {
     // Pre-filter by window using the production date range so we only fetch
     // detail pages for productions that overlap the requested window.
     const productions = allProductions.filter((p) => {
-      const start = p.productionStart ? new Date(p.productionStart) : null;
-      const end = p.productionEnd ? new Date(p.productionEnd) : start;
+      const start = p.productionStart ? Temporal.Instant.from(p.productionStart) : null;
+      const end = p.productionEnd ? Temporal.Instant.from(p.productionEnd) : start;
       if (!start) return true; // no date info — include and let normalize handle it
-      if (to && start >= to) return false; // production starts after window
-      if (from && end && end < from) return false; // production ended before window
+      if (to && Temporal.Instant.compare(start, to) >= 0) return false;
+      if (from && end && Temporal.Instant.compare(end, from) < 0) return false;
       return true;
     });
 
     console.log(
       `[cincinnati-arts] ${productions.length} productions overlap the window` +
         (from || to
-          ? ` (${from?.toISOString().slice(0, 10) ?? "∞"} → ${to?.toISOString().slice(0, 10) ?? "∞"})`
+          ? ` (${from?.toString().slice(0, 10) ?? "∞"} → ${to?.toString().slice(0, 10) ?? "∞"})`
           : ""),
     );
 
@@ -57,9 +57,9 @@ export const cincinnatiArtsSource: Source = {
 
       // Filter individual showings to the window
       const windowed = events.filter((e) => {
-        const start = new Date(e.start);
-        if (from && start < from) return false;
-        if (to && start >= to) return false;
+        const startInstant = e.start.toInstant();
+        if (from && Temporal.Instant.compare(startInstant, from) < 0) return false;
+        if (to && Temporal.Instant.compare(startInstant, to) >= 0) return false;
         return true;
       });
 
