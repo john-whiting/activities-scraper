@@ -8,8 +8,8 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:5e68eb29775bc9989a29cf0c
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20260830T031104Z
-DTSTART:20261001T040000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261001T000000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
 	 Landmark since 1975. It's also well known to paranormal enthusiasts as on
@@ -43,8 +43,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b716dbf0adb15be807aa38eb
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20260830T031104Z
-DTSTART:20261031T030000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261030T230000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
 	 Landmark since 1975. It's also well known to paranormal enthusiasts as on
@@ -78,8 +78,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4d030e46d681bb5993c9f2ec
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20260830T031104Z
-DTSTART:20261031T050000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261031T010000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
 	 Landmark since 1975. It's also well known to paranormal enthusiasts as on
@@ -113,8 +113,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:82bdda152b5b7ad78285baf2
 SUMMARY:La La Land in Concert
-DTSTAMP:20260830T031104Z
-DTSTART:20260906T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20260905T233000Z
 DESCRIPTION:Performance Times September 5\, 2026 7:30PM September 6\, 2026 
 	2:00PM Here’s to the fools who dream. Celebrate the 10th anniversary of Li
 	onsgate’s 2016 Academy Award-winning film\, La La Land\, in a swoon-worthy
@@ -140,8 +140,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8b4ba7e2501597752eec161b
 SUMMARY:Bricks & Beer: Cincinnati Music Hall History and Hops
-DTSTAMP:20260830T031104Z
-DTSTART:20260911T013000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20260910T213000Z
 DESCRIPTION:Friends of Music Hall partners with Cincinnati breweries to bri
 	ng you a unique tour experience. Enter the world of late nineteenth-centur
 	y history as the tour uncovers the surprising intersection of the Cincinna
@@ -166,8 +166,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:50e8923c92b652fb26cdc156
 SUMMARY:Bricks & Beer: Cincinnati Music Hall History and Hops
-DTSTAMP:20260830T031104Z
-DTSTART:20261024T013000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261023T213000Z
 DESCRIPTION:Friends of Music Hall partners with Cincinnati breweries to bri
 	ng you a unique tour experience. Enter the world of late nineteenth-centur
 	y history as the tour uncovers the surprising intersection of the Cincinna
@@ -192,8 +192,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:69f8b8c01ed55b8c5b47cca1
 SUMMARY:Lea Salonga
-DTSTAMP:20260830T031104Z
-DTSTART:20260913T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20260912T233000Z
 DESCRIPTION:Performance Times September 12\, 2026 7:30PM September 13\, 202
 	6 2:00PM Tony Award–winning Broadway icon Lea Salonga returns to the Cinci
 	nnati Pops for an unforgettable evening of music and storytelling. Celebra
@@ -216,8 +216,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:511c03a9f232cf85ad793b25
 SUMMARY:Boyz II Men with the Cincinnati Pops
-DTSTAMP:20260830T031104Z
-DTSTART:20260917T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20260916T233000Z
 DESCRIPTION:Performance Times September 16\, 2026 7:30PM Grammy-winning R&B
 	 legends Boyz II Men bring their silky harmonies and unmatched charisma to
 	 the Cincinnati Pops stage for a night of pure musical magic. Known for th
@@ -238,8 +238,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:afee76ae49e27b90b428c814
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20260830T031104Z
-DTSTART:20260919T180000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20260919T140000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
 	le guides for a 75-90 minute outdoor tour of this National Historic Landma
@@ -269,8 +269,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fa2886edd59b54a2cb4a57a6
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20260830T031104Z
-DTSTART:20261017T190000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261017T150000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
 	le guides for a 75-90 minute outdoor tour of this National Historic Landma
@@ -300,8 +300,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f573a5f1273363a8bca3c0b8
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20260830T031104Z
-DTSTART:20261024T000000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261023T200000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
 	le guides for a 75-90 minute outdoor tour of this National Historic Landma
@@ -331,8 +331,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3e44f0c04ed5ba4f3612e571
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20260830T031104Z
-DTSTART:20261106T210000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261106T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
 	le guides for a 75-90 minute outdoor tour of this National Historic Landma
@@ -362,8 +362,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d6fafbe6b36ee71f4ef16289
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20260830T031104Z
-DTSTART:20261114T210000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261114T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
 	le guides for a 75-90 minute outdoor tour of this National Historic Landma
@@ -393,8 +393,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1ec5d687f2854d5d8f6a9320
 SUMMARY:The Music of Hans Zimmer
-DTSTAMP:20260830T031104Z
-DTSTART:20260920T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20260919T233000Z
 DESCRIPTION:Performance Times September 19\, 2026 7:30PM The Cincinnati Pop
 	s presents the music of one of cinema's greatest living composers — Hans Z
 	immer. From the antics of Captain Jack Sparrow in Pirates of the Caribbean
@@ -419,8 +419,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9245510fd417a4b7b0a7fce8
 SUMMARY:JMR's Orchestral Canvas
-DTSTAMP:20260830T031104Z
-DTSTART:20260926T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20260925T233000Z
 DESCRIPTION:Performance Times September 25\, 2026 7:30PM September 26\, 202
 	6 7:30PM September 27\, 2026 2:00PM A true masterpiece for the senses\, th
 	is unique live music experience takes orchestral classics like Gershwin's 
@@ -444,8 +444,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f1b0d3e3c6fe5ebd9fc86752
 SUMMARY:Marsalis Premiere & Bruch's Violin Concerto
-DTSTAMP:20260830T031104Z
-DTSTART:20261003T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261002T233000Z
 DESCRIPTION:Performance Times October 2\, 2026 7:30PM Wynton Marsalis’ Libe
 	rty promises a vivid musical portrait of America at 250\, told in the sing
 	ular voice of a composer who uses the language of jazz to illuminate the n
@@ -474,8 +474,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9727cd29b62113432ede3e57
 SUMMARY:Marsalis & Mussorgsky Reimagined
-DTSTAMP:20260830T031104Z
-DTSTART:20261004T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261003T233000Z
 DESCRIPTION:Performance Times October 3\, 2026 7:30PM Nicola Benedetti\, Cr
 	istian Măcelaru and the CSO ignite Wynton Marsalis’ Grammy Award-winning V
 	iolin Concerto\, moving seamlessly from a blues-infused dream and Mardi Gr
@@ -501,8 +501,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8311ac6500fcf28727248078
 SUMMARY:Jazz at Lincoln Center Orchestra with Wynton Marsalis
-DTSTAMP:20260830T031104Z
-DTSTART:20261005T010000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261004T210000Z
 DESCRIPTION:Performance Times October 4\, 2026 7:30PM The world's premier j
 	azz ensemble brings their unparalleled energy and unmistakable swing to th
 	e Music Hall stage. This festival finale will remind you why the JLCO rema
@@ -524,8 +524,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1f36824e4e90a548b99db14d
 SUMMARY:Ferdinand and the Bull
-DTSTAMP:20260830T031104Z
-DTSTART:20261010T183000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261010T143000Z
 DESCRIPTION:Performance Times October 10\, 2026 10:30AM October 10\, 2026 2
 	:00PM Step into the gentle world of Ferdinand the Bull\, where a soft-hear
 	ted bull would rather smell flowers than charge into action. Through livel
@@ -548,8 +548,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:43a1d1eb8018410bdfac71fe
 SUMMARY:Songs of Destiny
-DTSTAMP:20260830T031104Z
-DTSTART:20261018T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261017T233000Z
 DESCRIPTION:Performance Times October 17\, 2026 7:30PM October 18\, 2026 2:
 	00PM From myth to fire to consolation\, this program traces a journey thro
 	ugh passion\, virtuosity and reflection. Dorothy Howell’s Lamia opens with
@@ -577,8 +577,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e5710ad0d46215d66f573e5d
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261024T160000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261024T120000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -618,8 +618,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:084b461cdd3ae4b8e9843bc1
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261024T170000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261024T130000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -659,8 +659,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6c65395c804042cb867b9f95
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261024T180000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261024T140000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -700,8 +700,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cf394c89446329d45e3d075d
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261024T190000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261024T150000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -741,8 +741,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:88ac025b79e74adb974e6e96
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261024T200000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261024T160000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -782,8 +782,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6d762173a3057028cb755e72
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261024T210000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261024T170000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -823,8 +823,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46525de6f2bd22be4e31356e
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261024T220000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261024T180000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -864,8 +864,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df7995d67c42f632e5193568
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261024T230000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261024T190000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -905,8 +905,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d481789501d69aa089581621
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261025T160000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261025T120000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -946,8 +946,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8521b8c59c43cd976cbbae4b
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261025T170000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261025T130000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -987,8 +987,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2c634c8146782bc0d92ca8ca
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261025T180000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261025T140000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -1028,8 +1028,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e01ada7b30aa44e05226f979
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261025T190000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261025T150000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -1069,8 +1069,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:667d8fac2d4ba7ee9cbdd848
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261025T200000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261025T160000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -1110,8 +1110,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7f9cb15e8fed6780fd55a20c
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261025T210000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261025T170000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -1151,8 +1151,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:92513e6ef6412061cedc0788
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261025T220000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261025T180000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -1192,8 +1192,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c28c202e96fd714a9988f1fc
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260830T031104Z
-DTSTART:20261025T230000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261025T190000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
 	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
@@ -1233,8 +1233,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0ca8e8effe336425632fcd2a
 SUMMARY:Psycho in Concert
-DTSTAMP:20260830T031104Z
-DTSTART:20261028T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261027T233000Z
 DESCRIPTION:Performance Times October 27\, 2026 7:30PM This Halloween\, you
 	’re invited into the shadows for a chilling cinematic experience. Alfred H
 	itchcock’s legendary thriller Psycho comes alive on the big screen as its 
@@ -1257,8 +1257,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ef75dd869ad4bfdfa3eb74ac
 SUMMARY:Gil Shaham Plays Tchaikovsky
-DTSTAMP:20260830T031104Z
-DTSTART:20261030T190000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261030T150000Z
 DESCRIPTION:Performance Times October 30\, 2026 11:00AM October 31\, 2026 7
 	:30PM Conductor Kwamé Ryan returns for a program of passion\, virtuosity a
 	nd expansive Romantic expression. Legendary violinist Gil Shaham showcases
@@ -1287,8 +1287,8 @@ BEGIN:VEVENT
 UID:b98ad1070bcfbe93c9b0802e
 SUMMARY:LIVE! In Concert with Over the Rhine and the Cincinnati Symphony Or
 	chestra
-DTSTAMP:20260830T031104Z
-DTSTART:20261107T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261107T003000Z
 DESCRIPTION:Performance Times November 6\, 2026 7:30PM November 7\, 2026 2:
 	00PM November 7\, 2026 7:30PM LIVE! celebrates the music of Over the Rhine
 	\, the sound of the CSO\, and the artistry of Cincinnati Ballet\; a powerf
@@ -1308,8 +1308,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7a82c8c2c36d9474fa491c99
 SUMMARY:Louis Langrée Conducts Ravel
-DTSTAMP:20260830T031104Z
-DTSTART:20261114T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261114T003000Z
 DESCRIPTION:Performance Times November 13\, 2026 7:30PM November 14\, 2026 
 	7:30PM The return of Music Director Laureate Louis Langrée brings us a foc
 	us on Ravel’s music\, showing us the different styles in which Ravel compo
@@ -1339,8 +1339,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2a5f9364d6346c487c5b7577
 SUMMARY:Strauss Spectacular
-DTSTAMP:20260830T031104Z
-DTSTART:20261122T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261122T003000Z
 DESCRIPTION:Performance Times November 21\, 2026 7:30PM November 22\, 2026 
 	2:00PM Conductor Phillipe Jordan\, in his highly-anticipated CSO debut\, l
 	eads a Strauss spectacular for the senses. Also sprach Zarathustra opens w
@@ -1367,8 +1367,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:54d468efb0a0d8f2d4c6ab74
 SUMMARY:Disney's The Muppet Christmas Carol in Concert Live to Film
-DTSTAMP:20260830T031104Z
-DTSTART:20261129T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261129T003000Z
 DESCRIPTION:Performance Times November 28\, 2026 7:30PM November 29\, 2026 
 	2:00PM The Cincinnati Pops presents Disney’s The Muppet Christmas Carol in
 	 concert featuring the complete film with the score performed live-to-pict
@@ -1393,8 +1393,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:688c6b4d8c750f33674d90eb
 SUMMARY:Conrad Tao\, Mozart & Prokofiev
-DTSTAMP:20260830T031104Z
-DTSTART:20261204T210000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261204T160000Z
 DESCRIPTION:Performance Times December 4\, 2026 11:00AM December 5\, 2026 7
 	:30PM Gemma New’s magnetic artistry guides the CSO in a century-spanning c
 	elebration of musical imagination. Maria Grenfell’s Bach-infused fugue\, C
@@ -1422,8 +1422,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:32f833a88f1a592b3b47217c
 SUMMARY:Holiday Pops
-DTSTAMP:20260830T031104Z
-DTSTART:20261211T210000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261211T160000Z
 DESCRIPTION:Performance Times December 11\, 2026 11:00AM December 11\, 2026
 	 7:30PM December 12\, 2026 2:00PM December 12\, 2026 7:30PM December 13\, 
 	2026 2:00PM December 13\, 2026 7:30PM Celebrate the magic of the season wi
@@ -1447,8 +1447,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:afe598f0e6ca04d42cb134af
 SUMMARY:The Nutcracker
-DTSTAMP:20260830T031104Z
-DTSTART:20261218T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20261218T003000Z
 DESCRIPTION:Performance Times December 17\, 2026 7:30PM December 18\, 2026 
 	7:30PM December 19\, 2026 2:00PM\, 7:30PM December 20\, 2026 1:00PM\, 6:30
 	PM December 21\, 2026 2:00PM\, 7:30PM December 22\, 2026 2:00PM\, 7:30PM D
@@ -1469,8 +1469,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:660fbf2e1299d9715ca8e88b
 SUMMARY:NYE: Dancing in the Street: Music of Motown
-DTSTAMP:20260830T031104Z
-DTSTART:20270101T060000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270101T010000Z
 DESCRIPTION:Performance Times December 31\, 2026 8:00PM On New Year’s Eve\,
 	 the Cincinnati Pops becomes a soul-powered time machine and a living juke
 	box of some of Motown’s greatest hits. From the very first downbeat\, the 
@@ -1498,8 +1498,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5296f3ec8e6313861fa8b4f9
 SUMMARY:Hook in Concert
-DTSTAMP:20260830T031104Z
-DTSTART:20270103T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270103T003000Z
 DESCRIPTION:Performance Times January 2\, 2027 7:30PM January 3\, 2027 2:00
 	PM Steven Spielberg’s beloved 1991 classic Hook comes to life on stage as 
 	the Pops performs John Williams’ iconic score live-to-picture as the full 
@@ -1525,8 +1525,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dcb26b7738a8ebe9239f46cb
 SUMMARY:Cristi Conducts Brahms Symphony No. 3
-DTSTAMP:20260830T031104Z
-DTSTART:20270109T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270109T003000Z
 DESCRIPTION:Performance Times January 8\, 2027 7:30PM January 9\, 2027 7:30
 	PM A chance discovery led to the revival of Florence Price’s music\, inclu
 	ding her Ethiopia’s Shadow in America\, a full-bodied orchestral work whic
@@ -1555,8 +1555,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a4261f833af55f95050a7c2
 SUMMARY:Come As You Are
-DTSTAMP:20260830T031104Z
-DTSTART:20270116T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270116T003000Z
 DESCRIPTION:Performance Times January 15\, 2027 7:30PM January 16\, 2027 7:
 	30PM To tell the story of the American cultural tapestry\, we use love\, s
 	pirituality\, innovation and diversity. Bernstein’s musical retelling of t
@@ -1584,8 +1584,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3c0142abe120ff785dda0909
 SUMMARY:Don Quixote & Enescu Symphony No. 3
-DTSTAMP:20260830T031104Z
-DTSTART:20270123T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270123T003000Z
 DESCRIPTION:Performance Times January 22\, 2027 7:30PM January 23\, 2027 7:
 	30PM Richard Strauss’ blends motifs depicting humor and heroism to reflect
 	 Don Quixote’s quixotic adventures\, brought vividly to life by Alisa Weil
@@ -1615,8 +1615,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:918d37f58f16fe79079b118a
 SUMMARY:A. R. Rahman
-DTSTAMP:20260830T031104Z
-DTSTART:20270126T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270126T003000Z
 DESCRIPTION:Performance Times January 25\, 2027 7:30PM January 26\, 2027 7:
 	30PM The Cincinnati Pops presents an extraordinary symphonic celebration o
 	f music with the global icon A.R. Rahman. A Grammy and two-time academy aw
@@ -1638,8 +1638,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6cc5885b50ee592b800e726a
 SUMMARY:Stravinsky X Kendrick Lamar
-DTSTAMP:20260830T031104Z
-DTSTART:20270130T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270130T003000Z
 DESCRIPTION:Performance Times January 29\, 2027 7:30PM January 30\, 2027 7:
 	30PM Who bears the curse — the puppet or its master? Steve Hackman’s Strav
 	insky X Kendrick Lamar confronts this question in a daring fusion of Strav
@@ -1664,8 +1664,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0063e841388d6d1c73867a96
 SUMMARY:Tchaikovsky & Bruckner: Epic Romantic
-DTSTAMP:20260830T031104Z
-DTSTART:20270205T210000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270205T160000Z
 DESCRIPTION:Performance Times Feburary 5\, 2027 11:00AM February 6\, 2027 7
 	:30PM Tchaikovsky’s Romeo and Juliet\, aptly described by its composer as 
 	a fantasy\, offers some of the most unforgettable love themes ever written
@@ -1690,8 +1690,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2902349a5c58c6b09ecb3d8b
 SUMMARY:Romeo and Juliet
-DTSTAMP:20260830T031105Z
-DTSTART:20270213T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270213T003000Z
 DESCRIPTION:Performance Times February 12\, 2027 7:30PM February 13\, 2027 
 	2:00PM February 13\, 2027 7:30PM February 14\, 2027 1:00PM February 19\, 2
 	027 7:30PM February 20\, 2027 2:00PM February 20\, 2027 7:30PM Ballet meet
@@ -1712,8 +1712,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7189fa248f96bf2d52c36e52
 SUMMARY:Extraordinary Women
-DTSTAMP:20260830T031105Z
-DTSTART:20270306T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270306T003000Z
 DESCRIPTION:Performance Times March 5\, 2027 7:30PM March 6\, 2027 7:30PM C
 	elebrate the extraordinary voices of women in music\, from pioneers of the
 	 19th-century to trailblazers of today. Fanny Mendelssohn’s Overture in C 
@@ -1744,8 +1744,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:467e2eef156de6a1957e1cc4
 SUMMARY:Bach St. Matthew Passion
-DTSTAMP:20260830T031105Z
-DTSTART:20270314T053000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270314T003000Z
 DESCRIPTION:Performance Times March 13\, 2027 7:30PM March 14\, 2027 2:00PM
 	 Bach’s St. Matthew Passion is one of the most profound and moving works i
 	n the choral repertoire. From the opening chorus to the final chorale\, Ba
@@ -1771,8 +1771,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecf1f628af23ecb6546b7fea
 SUMMARY:Billy Joel Songbook by Tony DeSare
-DTSTAMP:20260830T031105Z
-DTSTART:20270320T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270319T233000Z
 DESCRIPTION:Performance Times March 19\, 2027 7:30PM March 20\, 2027 7:30PM
 	 March 21\, 2027 2:00PM A concert for all generations of music fans: exper
 	ience the legendary songs of Billy Joel backed by the power of the Cincinn
@@ -1798,8 +1798,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f0c096dd509768338e4c2212
 SUMMARY:The Uninhabited Island
-DTSTAMP:20260830T031105Z
-DTSTART:20270402T190000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270402T150000Z
 DESCRIPTION:Performance Times April 2\, 2027 11:00AM April 3\, 2027 7:30PM 
 	What music would Louis Langrée have if he was stranded on a desert island?
 	 This concert answers that question! Bookended by two very different dance
@@ -1825,8 +1825,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:42d645323c5c8bea5b219f1c
 SUMMARY:Special Event! Lang Lang Plays Rachmaninoff
-DTSTAMP:20260830T031105Z
-DTSTART:20270408T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270407T233000Z
 DESCRIPTION:Performance Times April 7\, 2027 7:30PM A once-in-a-generation 
 	musician\, world phenomenon Lang Lang brings his artistic flair to the CSO
 	 in a performance of Rachmaninoff’s Second Piano Concerto. The Orchestra’s
@@ -1849,8 +1849,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:44b7508742e59a6d8ee39164
 SUMMARY:Mozart & Prokofiev
-DTSTAMP:20260830T031105Z
-DTSTART:20270411T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270410T233000Z
 DESCRIPTION:Performance Times April 10\, 2027 7:30PM April 11\, 2027 2:00PM
 	 It’s rare that two such in-demand artists make their CSO debuts on the sa
 	me program\, one that takes the listener on a journey from spark\, to inti
@@ -1878,8 +1878,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1a9ec0833788794efa7c4fd5
 SUMMARY:Classical Roots
-DTSTAMP:20260830T031105Z
-DTSTART:20270418T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270417T233000Z
 DESCRIPTION:Performance Times April 17\, 2027 7:30PM For more than two deca
 	des\, Classical Roots has stood as a beloved Cincinnati tradition\, honori
 	ng the powerful legacy and enduring influence of African American music. T
@@ -1904,8 +1904,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3760054df62071f5ac77e30b
 SUMMARY:Rachmaninoff Symphonic Dances
-DTSTAMP:20260830T031105Z
-DTSTART:20270423T190000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270423T150000Z
 DESCRIPTION:Performance Times April 23\, 2027 11:00AM April 24\, 2027 7:30P
 	M Written within a few years of one another and from three distinct points
 	 of view\, these works illuminate contrasting inner worlds. For Szymanowsk
@@ -1936,8 +1936,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5eb1dcdbfda9ed439c95a18b
 SUMMARY:American Originals: Bluegrass Summit
-DTSTAMP:20260830T031105Z
-DTSTART:20270501T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270430T233000Z
 DESCRIPTION:Performance Times April 30\, 2027 7:30PM May 1\, 2027 7:30PM Ma
 	y 2\, 2027 2:00PM John Morris Russell and the Cincinnati Pops celebrate Am
 	erican Roots music with a powerhouse gathering of today’s most electrifyin
@@ -1965,8 +1965,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b8cb5b9747b8b5eb5a55c7d2
 SUMMARY:May the Fourth: The Music of Star Wars
-DTSTAMP:20260830T031105Z
-DTSTART:20270505T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270504T233000Z
 DESCRIPTION:Performance Times May 4\, 2027 7:30PM May the Force be with you
 	! Celebrate the greatest day in the Star Wars universe — May the Fourth — 
 	with the Cincinnati Pops as they perform John Williams’ unforgettable scor
@@ -1989,8 +1989,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd60d958f47766e85acc8e53
 SUMMARY:Cristi Conducts Mahler Symphony No. 9
-DTSTAMP:20260830T031105Z
-DTSTART:20270509T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270508T233000Z
 DESCRIPTION:Performance Times May 8\, 2027 7:30PM May 9\, 2027 2:00PM Mahle
 	r’s final completed symphony is a farewell to life. His vulnerability\, fe
 	lt throughout the entire work\, gives way to the humor and tumult of the e
@@ -2013,8 +2013,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:308f9c8f5b4136a1291ec280
 SUMMARY:Ray Chen\, Korngold & Shostakovich
-DTSTAMP:20260830T031105Z
-DTSTART:20270515T033000Z
+DTSTAMP:20260830T034442Z
+DTSTART:20270514T233000Z
 DESCRIPTION:Performance Times May 14\, 2027 7:30PM May 15\, 2027 7:30PM Eac
 	h of these three composers\, though it may not be evident at first\, made 
 	significant contributions to diverse forms of musical entertainment. Eunik

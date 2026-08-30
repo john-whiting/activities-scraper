@@ -8,8 +8,8 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:2b995cdb1037a60d3ed6eec6
 SUMMARY:Branford Marsalis & Dianne Reeves Celebrate John Coltrane
-DTSTAMP:20260830T031105Z
-DTSTART:20260911T033000Z
+DTSTAMP:20260830T034443Z
+DTSTART:20260910T233000Z
 DESCRIPTION:September 2026 marks the centennial of John Coltrane’s birth. T
 	o honor the enduring legacy of one of jazz’s most transcendent voices\, th
 	e Branford Marsalis Quartet and Dianne Reeves will release a tribute album
@@ -48,8 +48,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:90978ebdc5c17ad6faa8da32
 SUMMARY:Jim Henson’s Fraggle Rock: Back to the Rock LIVE
-DTSTAMP:20260830T031105Z
-DTSTART:20261003T220000Z
+DTSTAMP:20260830T034443Z
+DTSTART:20261003T180000Z
 DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the 
 	legend of the Celebration Stone – an ancient Fraggle treasure that has the
 	 power to bring everyone together for the greatest party of all time but w
@@ -88,8 +88,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1b647eed248eb77c1cf1e936
 SUMMARY:Niladri Kumaar: The Space Between the Notes 
-DTSTAMP:20260830T031105Z
-DTSTART:20261015T033000Z
+DTSTAMP:20260830T034443Z
+DTSTART:20261014T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Sitar 
 	Maestro Niladri Kumaar is hailed as a maverick musician and composer\, a c
@@ -121,8 +121,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a6d01202242bd4ce32ae62db
 SUMMARY:The Sixties Show
-DTSTAMP:20260830T031105Z
-DTSTART:20261017T033000Z
+DTSTAMP:20260830T034443Z
+DTSTART:20261016T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } The Si
 	xties Show from New York City is hailed as “The Greatest 1960s Musical Re-
@@ -161,8 +161,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:96fcb436814e8e321f448d1f
 SUMMARY:Outlander in Concert: Echoes Through the Highlands
-DTSTAMP:20260830T031105Z
-DTSTART:20261031T033000Z
+DTSTAMP:20260830T034443Z
+DTSTART:20261030T233000Z
 DESCRIPTION:Experience the official Outlander in-concert event! A live orch
 	estra performs Bear McCreary’s acclaimed score\, curated by showrunner Mat
 	thew B. Roberts\, while highlights from eight seasons illuminate the scree
@@ -183,8 +183,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a9586b7213787bdc94971f0
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260830T031105Z
-DTSTART:20261107T230000Z
+DTSTAMP:20260830T034443Z
+DTSTART:20261107T180000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
 	Along Live! brings Disney’s beloved hit Frozen to the big screen — complet
@@ -210,8 +210,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d11409d2e15236f2161d35ea
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260830T031105Z
-DTSTART:20261108T020000Z
+DTSTAMP:20260830T034443Z
+DTSTART:20261107T210000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
 	Along Live! brings Disney’s beloved hit Frozen to the big screen — complet
@@ -237,8 +237,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e8cc66330853af02800175c
 SUMMARY:The Rock Orchestra by Candlelight
-DTSTAMP:20260830T031105Z
-DTSTART:20261119T060000Z
+DTSTAMP:20260830T034443Z
+DTSTART:20261119T010000Z
 DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	 Orchestra by Candlelight is set to electrify the USA once again. Prepare 
 	for a spellbinding spectacle that infuses iconic rock and metal anthems wi
