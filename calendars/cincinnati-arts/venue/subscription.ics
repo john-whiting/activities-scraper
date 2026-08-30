@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Cincinnati Arts – Subscription
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ee08fb3a10610cc192ff1ead
+SUMMARY:Mutual Dance Theatre 26-27 Subscription
+DTSTAMP:20260830T031105Z
+DTSTART:20260911T181500Z
+DESCRIPTION:A season about what we carry forward Modern and Contemporary Da
+	nce in Cincinnati for its 55th year! Mutual Dance Theatre (formerly known 
+	as Contemporary Dance Theater and MamLuft&Co. Dance) puts powerful dance o
+	n Cincinnati stages via touring troupes and Mutual's own thrilling company
+	. Join Mutual Dance Theatre for its 26-27 season: Heritage\, Unfolding: A 
+	Season of Histories. Through captivating and supercharged dance\, we will 
+	leap\, unfurl\, and reach through personal and collective histories\, exam
+	ining what we carry forward. This year's lineup brings together impressive
+	 craft and immense talent. Two highly-acclaimed companies make their Cinci
+	nnati debut: South Chicago Dance Theatre with rigor and vulnerability at t
+	he heart of their dancing\, and the daring yet seamless Boca Tuya of New Y
+	ork City. Our own tour-de-force Mutual Dance Theatre will perform 3 new co
+	mmissions and 3 reprisals at the immersive\, always sold-out Up-Close and 
+	its mainstage concert\, Modern Mix. Heritage\, Unfolding also coincides wi
+	th America250\, the nation's 250th anniversary\, asking what we inherit: f
+	rom family we knew and family we didn't\, from communities\, and from a na
+	tion. Across four programs\, that inheritance is found in our values\, in 
+	customs\, and in movement itself. WHY SUBSCRIBE? 1) Secure your favorite s
+	eats and get first access to "Director's Choice Seats" that Artistic Direc
+	tor Jeanne Mam-Luft has hand-picked as the best seats in the house. 2) Sav
+	e time and money up-front while squaring yourself for the whole season: be
+	at the rush before each show and get yourself sorted for the year. 3) The 
+	immersive Up-Close series sells-out more than a month in advance every yea
+	r. It's now featured as an optional add-on: subscribers get first access t
+	o the limited studio experience. 4) Did you know that the earlier you purc
+	hase your tickets\, the more we can do as a non-profit organization? The b
+	etter ticket sales are leading up to a production\, the less marketing we 
+	have to do\, and thus\, the more \n\nhttps://www.cincinnatiarts.org/events
+	/detail/mutual-dance-theatre-26-27-subscription
+URL:https://www.cincinnatiarts.org/events/detail/mutual-dance-theatre-26-27
+	-subscription
+LOCATION:Subscription
+STATUS:CONFIRMED
+CATEGORIES:Dance
+DURATION:PT2H
+END:VEVENT
+END:VCALENDAR
