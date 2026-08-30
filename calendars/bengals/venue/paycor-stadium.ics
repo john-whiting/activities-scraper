@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Cincinnati Bengals (Home) – Paycor Stadium
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:4e5e86fab2637770c2de2d24
+SUMMARY:Tampa Bay Buccaneers at Cincinnati Bengals
+DTSTAMP:20260830T182559Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+DESCRIPTION:Watch the game on FOX or Game Pass: https://www.bengals.com/gam
+	e-day/2026/regular-season/week-1-buccaneers/\n--\nDownload official Cincin
+	nati Bengals app:\niOS (https://apps.apple.com/app/cincinnati-bengals/id49
+	2570103)\n\nAndroid (https://play.google.com/store/apps/details?id=com.yin
+	zcam.nfl.bengals&hl=en_US)\n\nhttps://www.bengals.com\n\n\nhttps://www.ben
+	gals.com/schedule/
+URL:https://www.bengals.com/schedule/
+LOCATION:Paycor Stadium\, Cincinnati
+STATUS:CONFIRMED
+CATEGORIES:Football,Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:b8bb831dae491b551e543a63
+SUMMARY:Jacksonville Jaguars at Cincinnati Bengals
+DTSTAMP:20260830T182559Z
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+DESCRIPTION:Watch the game on CBS or Game Pass: https://www.bengals.com/gam
+	e-day/2026/regular-season/week-4-jaguars/\n--\nDownload official Cincinnat
+	i Bengals app:\niOS (https://apps.apple.com/app/cincinnati-bengals/id49257
+	0103)\n\nAndroid (https://play.google.com/store/apps/details?id=com.yinzca
+	m.nfl.bengals&hl=en_US)\n\nhttps://www.bengals.com\n\n\nhttps://www.bengal
+	s.com/schedule/
+URL:https://www.bengals.com/schedule/
+LOCATION:Paycor Stadium\, Cincinnati
+STATUS:CONFIRMED
+CATEGORIES:Football,Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:713fcdb573e6dbffc08f1f59
+SUMMARY:Tennessee Titans at Cincinnati Bengals
+DTSTAMP:20260830T182559Z
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+DESCRIPTION:Watch the game on CBS or Game Pass: https://www.bengals.com/gam
+	e-day/2026/regular-season/week-8-titans/\n--\nDownload official Cincinnati
+	 Bengals app:\niOS (https://apps.apple.com/app/cincinnati-bengals/id492570
+	103)\n\nAndroid (https://play.google.com/store/apps/details?id=com.yinzcam
+	.nfl.bengals&hl=en_US)\n\nhttps://www.bengals.com\n\n\nhttps://www.bengals
+	.com/schedule/
+URL:https://www.bengals.com/schedule/
+LOCATION:Paycor Stadium\, Cincinnati
+STATUS:CONFIRMED
+CATEGORIES:Football,Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:405460984353b30ca278b711
+SUMMARY:Pittsburgh Steelers at Cincinnati Bengals
+DTSTAMP:20260830T182559Z
+DTSTART:20261116T012000Z
+DTEND:20261116T042000Z
+DESCRIPTION:Watch the game on NBC / UNIVERSO or Game Pass: https://www.beng
+	als.com/game-day/2026/regular-season/week-10-steelers/\n--\nDownload offic
+	ial Cincinnati Bengals app:\niOS (https://apps.apple.com/app/cincinnati-be
+	ngals/id492570103)\n\nAndroid (https://play.google.com/store/apps/details?
+	id=com.yinzcam.nfl.bengals&hl=en_US)\n\nhttps://www.bengals.com\n\n\nhttps
+	://www.bengals.com/schedule/
+URL:https://www.bengals.com/schedule/
+LOCATION:Paycor Stadium\, Cincinnati
+STATUS:CONFIRMED
+CATEGORIES:Football,Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3821b2ac430a6dc236103d
+SUMMARY:New Orleans Saints at Cincinnati Bengals
+DTSTAMP:20260830T182559Z
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+DESCRIPTION:Watch the game on CBS or Game Pass: https://www.bengals.com/gam
+	e-day/2026/regular-season/week-12-saints/\n--\nDownload official Cincinnat
+	i Bengals app:\niOS (https://apps.apple.com/app/cincinnati-bengals/id49257
+	0103)\n\nAndroid (https://play.google.com/store/apps/details?id=com.yinzca
+	m.nfl.bengals&hl=en_US)\n\nhttps://www.bengals.com\n\n\nhttps://www.bengal
+	s.com/schedule/
+URL:https://www.bengals.com/schedule/
+LOCATION:Paycor Stadium\, Cincinnati
+STATUS:CONFIRMED
+CATEGORIES:Football,Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:d7e395878246971dd7013b0a
+SUMMARY:Kansas City Chiefs at Cincinnati Bengals
+DTSTAMP:20260830T182559Z
+DTSTART:20261213T212500Z
+DTEND:20261214T002500Z
+DESCRIPTION:Watch the game on FOX or Game Pass: https://www.bengals.com/gam
+	e-day/2026/regular-season/week-14-chiefs/\n--\nDownload official Cincinnat
+	i Bengals app:\niOS (https://apps.apple.com/app/cincinnati-bengals/id49257
+	0103)\n\nAndroid (https://play.google.com/store/apps/details?id=com.yinzca
+	m.nfl.bengals&hl=en_US)\n\nhttps://www.bengals.com\n\n\nhttps://www.bengal
+	s.com/schedule/
+URL:https://www.bengals.com/schedule/
+LOCATION:Paycor Stadium\, Cincinnati
+STATUS:CONFIRMED
+CATEGORIES:Football,Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:9ce6f7abd42bb022bfe88398
+SUMMARY:Baltimore Ravens at Cincinnati Bengals
+DTSTAMP:20260830T182559Z
+DTSTART:20270101T011500Z
+DTEND:20270101T041500Z
+DESCRIPTION:Watch the game on Prime Video or Game Pass: https://www.bengals
+	.com/game-day/2026/regular-season/week-17-ravens/\n--\nDownload official C
+	incinnati Bengals app:\niOS (https://apps.apple.com/app/cincinnati-bengals
+	/id492570103)\n\nAndroid (https://play.google.com/store/apps/details?id=co
+	m.yinzcam.nfl.bengals&hl=en_US)\n\nhttps://www.bengals.com\n\n\nhttps://ww
+	w.bengals.com/schedule/
+URL:https://www.bengals.com/schedule/
+LOCATION:Paycor Stadium\, Cincinnati
+STATUS:CONFIRMED
+CATEGORIES:Football,Regular Season
+END:VEVENT
+END:VCALENDAR
