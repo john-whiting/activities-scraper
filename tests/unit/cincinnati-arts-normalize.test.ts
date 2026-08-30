@@ -171,6 +171,19 @@ describe("normalizeEvents — productionStart fallback", () => {
     expect(event.id).toHaveLength(24);
   });
 
+  it("sets end from productionEnd when falling back", () => {
+    const [event] = normalizeEvents(sampleProduction, { showings: [] }, scrapedAt);
+    expect(event.end).toBeDefined();
+    expect(event.end?.year).toBe(2026);
+    expect(event.end?.month).toBe(10);
+  });
+
+  it("leaves end undefined when productionEnd is missing", () => {
+    const noEnd = { ...sampleProduction, productionEnd: undefined };
+    const [event] = normalizeEvents(noEnd, { showings: [] }, scrapedAt);
+    expect(event.end).toBeUndefined();
+  });
+
   it("returns empty array when there are no showings and no productionStart", () => {
     const noStart = { ...sampleProduction, productionStart: undefined };
     expect(normalizeEvents(noStart, { showings: [] }, scrapedAt)).toHaveLength(0);

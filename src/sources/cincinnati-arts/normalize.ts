@@ -118,15 +118,19 @@ export function normalizeEvents(
       });
     }
   } else if (production.productionStart) {
-    // No individual showings — use the production start date from RSS.
-    // productionStart is an absolute ISO timestamp; render it in the source's tz.
+    // No individual showings — use the production start/end dates from RSS.
+    // These are absolute ISO timestamps; render them in the source's tz.
     const start = Temporal.Instant.from(production.productionStart).toZonedDateTimeISO(TIMEZONE);
+    const end = production.productionEnd
+      ? Temporal.Instant.from(production.productionEnd).toZonedDateTimeISO(TIMEZONE)
+      : undefined;
     const venueName = subVenueName || topVenueName;
     events.push({
       id: stableId(production.detailUrl, "production"),
       title: production.title,
       description,
       start,
+      end,
       venue: {
         name: topVenueName || venueName,
         subVenue: subVenueName,
