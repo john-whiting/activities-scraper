@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { HttpFetcher } from "../../src/adapters/fetcher/http-fetcher.js";
 import { systemClock } from "../../src/core/ports/clock.js";
+import { splitByVenueAndType } from "../../src/core/split.js";
 import { cincinnatiArtsSource } from "../../src/sources/cincinnati-arts/index.js";
 
 describe("cincinnati-arts integration", () => {
@@ -28,10 +29,10 @@ describe("cincinnati-arts integration", () => {
   it("split produces non-empty venue and type calendars", async () => {
     const fetcher = new HttpFetcher({ minDelayMs: 500 });
     const events = await cincinnatiArtsSource.scrape({ fetcher, clock: systemClock });
-    const calendars = cincinnatiArtsSource.split(events);
+    const calendars = splitByVenueAndType(events, cincinnatiArtsSource.name);
 
-    const venueCals = calendars.filter((c) => c.id.startsWith("venue-"));
-    const typeCals = calendars.filter((c) => c.id.startsWith("type-"));
+    const venueCals = calendars.filter((c) => c.id.startsWith("venue/"));
+    const typeCals = calendars.filter((c) => c.id.startsWith("type/"));
 
     expect(venueCals.length).toBeGreaterThanOrEqual(1);
     expect(typeCals.length).toBeGreaterThanOrEqual(1);

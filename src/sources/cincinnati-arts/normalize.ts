@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import { toZonedTime } from "date-fns-tz";
+import { fromZonedTime } from "date-fns-tz";
 import type { Event } from "../../core/event.js";
 import type { DetailData } from "./detail.js";
 import type { Production } from "./rss.js";
@@ -15,7 +15,7 @@ function parseDateTimeRaw(raw: string): string | null {
   const withoutAt = raw.replace(/\s+/g, " ").trim().replace(/ at /, " ");
   const d = new Date(withoutAt);
   if (!Number.isNaN(d.getTime())) {
-    return toZonedTime(d, TIMEZONE).toISOString();
+    return fromZonedTime(d, TIMEZONE).toISOString();
   }
   return null;
 }
@@ -81,7 +81,7 @@ export function normalizeEvents(
     }
   } else if (production.productionStart) {
     // No individual showings — use the production start date from RSS
-    const start = toZonedTime(new Date(production.productionStart), TIMEZONE).toISOString();
+    const start = new Date(production.productionStart).toISOString();
     const venueName = subVenueName || topVenueName;
     events.push({
       id: stableId(production.detailUrl, "production"),

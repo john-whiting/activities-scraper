@@ -16,14 +16,21 @@ export function splitByVenueAndType(events: Event[], sourceName: string): Calend
   const byVenue = new Map<string, Event[]>();
   const byType = new Map<string, Event[]>();
 
+  const getOrCreate = <K>(map: Map<K, Event[]>, key: K): Event[] => {
+    let list = map.get(key);
+    if (!list) {
+      list = [];
+      map.set(key, list);
+    }
+    return list;
+  };
+
   for (const event of events) {
     const venueName = event.venue.name || "Various";
-    if (!byVenue.has(venueName)) byVenue.set(venueName, []);
-    byVenue.get(venueName)!.push(event);
+    getOrCreate(byVenue, venueName).push(event);
 
     const eventType = event.categories[0] ?? "Other";
-    if (!byType.has(eventType)) byType.set(eventType, []);
-    byType.get(eventType)!.push(event);
+    getOrCreate(byType, eventType).push(event);
   }
 
   const calendars: Calendar[] = [];

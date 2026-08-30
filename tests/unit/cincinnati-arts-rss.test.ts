@@ -116,7 +116,7 @@ describe("parseRss — description handling", () => {
     );
     const [p] = await parseRss(xml);
     expect(p.description).toBeDefined();
-    expect(p.description!.length).toBeLessThanOrEqual(2000);
+    expect(p.description?.length ?? 0).toBeLessThanOrEqual(2000);
   });
 });
 
