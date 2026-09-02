@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:2b995cdb1037a60d3ed6eec6
 SUMMARY:Branford Marsalis & Dianne Reeves Celebrate John Coltrane
-DTSTAMP:20260901T080404Z
+DTSTAMP:20260902T122154Z
 DTSTART:20260910T233000Z
 DESCRIPTION:September 2026 marks the centennial of John Coltrane’s birth. T
 	o honor the enduring legacy of one of jazz’s most transcendent voices\, th
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:90978ebdc5c17ad6faa8da32
 SUMMARY:Jim Henson’s Fraggle Rock: Back to the Rock LIVE
-DTSTAMP:20260901T080404Z
+DTSTAMP:20260902T122154Z
 DTSTART:20261003T180000Z
 DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the 
 	legend of the Celebration Stone – an ancient Fraggle treasure that has the
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1b647eed248eb77c1cf1e936
 SUMMARY:Niladri Kumaar: The Space Between the Notes 
-DTSTAMP:20260901T080404Z
+DTSTAMP:20260902T122154Z
 DTSTART:20261014T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Sitar 
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a6d01202242bd4ce32ae62db
 SUMMARY:The Sixties Show
-DTSTAMP:20260901T080404Z
+DTSTAMP:20260902T122154Z
 DTSTART:20261016T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } The Si
@@ -161,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:96fcb436814e8e321f448d1f
 SUMMARY:Outlander in Concert: Echoes Through the Highlands
-DTSTAMP:20260901T080404Z
+DTSTAMP:20260902T122154Z
 DTSTART:20261030T233000Z
 DESCRIPTION:Experience the official Outlander in-concert event! A live orch
 	estra performs Bear McCreary’s acclaimed score\, curated by showrunner Mat
@@ -183,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a9586b7213787bdc94971f0
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260901T080404Z
+DTSTAMP:20260902T122154Z
 DTSTART:20261107T180000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -210,7 +210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d11409d2e15236f2161d35ea
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260901T080405Z
+DTSTAMP:20260902T122154Z
 DTSTART:20261107T210000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -237,7 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e8cc66330853af02800175c
 SUMMARY:The Rock Orchestra by Candlelight
-DTSTAMP:20260901T080405Z
+DTSTAMP:20260902T122154Z
 DTSTART:20261119T010000Z
 DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	 Orchestra by Candlelight is set to electrify the USA once again. Prepare 
@@ -254,6 +254,41 @@ DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	-orchestra-by-candlelight
 URL:https://www.cincinnatiarts.org/events/detail/the-rock-orchestra-by-cand
 	lelight
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Concerts
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:06afd2d816a2b21770a22175
+SUMMARY:ELVIS TRIBUTE ARTIST SPECTACULAR
+DTSTAMP:20260902T122154Z
+DTSTART:20270117T003000Z
+DESCRIPTION:THE ELVIS TRIBUTE ARTIST SPECTACULAR is an era-by-era tribute c
+	oncert celebrating the music and magic of Elvis Presley. The concert begin
+	s with the early rockabilly years\, the military years\, the movie years\,
+	 the ’68 comeback special in black leather\, and closes with the Las Vegas
+	 concert years. The event stars the following acclaimed Elvis Tribute Arti
+	sts: SHAWN KLUSH: Shawn was named the first-ever Ultimate Elvis Tribute Ar
+	tist by Elvis Presley Enterprises and was named the World’s Greatest Elvis
+	 by BBC1 in London. Shawn brings all the electrifying magic of Elvis to th
+	e stage. Shawn was named a "Worldwide Ambassador of Elvis" and is “The Clo
+	sest Thing to The King in Concert” in Las Vegas. RYAN PELTON: Back by popu
+	lar demand\, Ryan is an international award-winning Elvis tribute artist a
+	nd actor. Ryan played Blake Rayne in the movie The Identical\, starring As
+	hley Judd\, Ray Liotta\, and Seth Green. Ryan continues to entertain audie
+	nces all over the world from casinos and theaters to festivals and sports 
+	matches. BILL CHERRY: New to this tour\, but certainly not to performing a
+	s The King\, Bill was named the Ultimate Elvis Tribute Artist from Elvis P
+	resley Enterprises in 2009. EMILIO SANTORO: Direct from the UK\, Emilio wa
+	s named the Ultimate Elvis Tribute Artist from Elvis Presley Enterprises i
+	n 2024. SPECIAL GUESTS: The Stamps Quartet - the Grammy and Dove award-win
+	ning gospel group\, featuring the legendary Ed Enoch\, and members of the 
+	Gospel Music Hall of Fame. The Elvis Tribute Artist Spectacular is backed 
+	by The Fabulous Ambassadors and The Nashville Dreams.\n\nhttps://www.cinci
+	nnatiarts.org/events/detail/elvis-tribute-artist-spectacular-2
+URL:https://www.cincinnatiarts.org/events/detail/elvis-tribute-artist-spect
+	acular-2
 LOCATION:Procter & Gamble Hall\, Aronoff Center
 STATUS:CONFIRMED
 CATEGORIES:Concerts
