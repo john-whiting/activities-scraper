@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:2b995cdb1037a60d3ed6eec6
 SUMMARY:Branford Marsalis & Dianne Reeves Celebrate John Coltrane
-DTSTAMP:20260902T122154Z
+DTSTAMP:20260903T122020Z
 DTSTART:20260910T233000Z
 DESCRIPTION:September 2026 marks the centennial of John Coltrane’s birth. T
 	o honor the enduring legacy of one of jazz’s most transcendent voices\, th
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:90978ebdc5c17ad6faa8da32
 SUMMARY:Jim Henson’s Fraggle Rock: Back to the Rock LIVE
-DTSTAMP:20260902T122154Z
+DTSTAMP:20260903T122020Z
 DTSTART:20261003T180000Z
 DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the 
 	legend of the Celebration Stone – an ancient Fraggle treasure that has the
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1b647eed248eb77c1cf1e936
 SUMMARY:Niladri Kumaar: The Space Between the Notes 
-DTSTAMP:20260902T122154Z
+DTSTAMP:20260903T122020Z
 DTSTART:20261014T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Sitar 
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a6d01202242bd4ce32ae62db
 SUMMARY:The Sixties Show
-DTSTAMP:20260902T122154Z
+DTSTAMP:20260903T122020Z
 DTSTART:20261016T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } The Si
@@ -161,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:96fcb436814e8e321f448d1f
 SUMMARY:Outlander in Concert: Echoes Through the Highlands
-DTSTAMP:20260902T122154Z
+DTSTAMP:20260903T122020Z
 DTSTART:20261030T233000Z
 DESCRIPTION:Experience the official Outlander in-concert event! A live orch
 	estra performs Bear McCreary’s acclaimed score\, curated by showrunner Mat
@@ -183,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a9586b7213787bdc94971f0
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260902T122154Z
+DTSTAMP:20260903T122020Z
 DTSTART:20261107T180000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -210,7 +210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d11409d2e15236f2161d35ea
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260902T122154Z
+DTSTAMP:20260903T122020Z
 DTSTART:20261107T210000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -237,7 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e8cc66330853af02800175c
 SUMMARY:The Rock Orchestra by Candlelight
-DTSTAMP:20260902T122154Z
+DTSTAMP:20260903T122020Z
 DTSTART:20261119T010000Z
 DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	 Orchestra by Candlelight is set to electrify the USA once again. Prepare 
@@ -262,7 +262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06afd2d816a2b21770a22175
 SUMMARY:ELVIS TRIBUTE ARTIST SPECTACULAR
-DTSTAMP:20260902T122154Z
+DTSTAMP:20260903T122020Z
 DTSTART:20270117T003000Z
 DESCRIPTION:THE ELVIS TRIBUTE ARTIST SPECTACULAR is an era-by-era tribute c
 	oncert celebrating the music and magic of Elvis Presley. The concert begin
