@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:acd134a8a709f1da2b1b8e7d
 SUMMARY:O Christmas Tea: A British Comedy 
-DTSTAMP:20260909T080406Z
+DTSTAMP:20260910T080355Z
 DTSTART:20261129T003000Z
 DTEND:20261129T200000Z
 DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
@@ -45,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:155a98c46477fffcb9e94652
 SUMMARY:Sister's Christmas Catechism
-DTSTAMP:20260909T080406Z
+DTSTAMP:20260910T080355Z
 DTSTART:20261206T190000Z
 DESCRIPTION:It's "CSI: Bethlehem" in this holiday mystery extravaganza by t
 	he author of the Late Nite Catechism series\, as Sister takes on the myste
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4b07c85508cf345756ffdcdf
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20260909T080406Z
+DTSTAMP:20260910T080355Z
 DTSTART:20261218T190000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7ae385245c276f6919f8794
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20260909T080406Z
+DTSTAMP:20260910T080355Z
 DTSTART:20261219T003000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -123,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:efff50593da57185a438d336
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20260909T080406Z
+DTSTAMP:20260910T080355Z
 DTSTART:20261219T190000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12fa81ed6720701bdc880e16
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20260909T080406Z
+DTSTAMP:20260910T080355Z
 DTSTART:20261220T003000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
