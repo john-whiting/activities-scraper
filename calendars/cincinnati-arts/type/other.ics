@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:5e68eb29775bc9989a29cf0c
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20260910T080354Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261001T000000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b716dbf0adb15be807aa38eb
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20260910T080354Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261030T230000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4d030e46d681bb5993c9f2ec
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20260910T080354Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261031T010000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -111,35 +111,9 @@ CATEGORIES:Other
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:8b4ba7e2501597752eec161b
-SUMMARY:Bricks & Beer: Cincinnati Music Hall History and Hops
-DTSTAMP:20260910T080355Z
-DTSTART:20260910T213000Z
-DESCRIPTION:Friends of Music Hall partners with Cincinnati breweries to bri
-	ng you a unique tour experience. Enter the world of late nineteenth-centur
-	y history as the tour uncovers the surprising intersection of the Cincinna
-	ti beer industry and its contributions to the development of Music Hall. T
-	our parts of the building and quench your thirst with beer selections from
-	 Rhinegeist or MadTree. Hops and history: a two-for-one activity that’s bo
-	und to please the palate and the intellect. TOUR DETAILS Tour length: one 
-	hour Limit four (4) tickets per transaction Age restriction: 21 and over P
-	roceeds benefit Friends of Music Hall\, a 501(c)(3) nonprofit organization
-	. For more information go to\, friendsofmusichall.org BREWERY SCHEDULE Thu
-	rsday\, September 10 - Rhinegeist Friday\, October 23 - Rhinegiest Friends
-	 of Music Hall Frequently Asked Questions By purchasing a ticket\, you are
-	 also agreeing to certain terms and conditions in connection with the Tour
-	. New tours are added every quarter. Please watch for additional dates.\n\
-	nhttps://www.cincinnatiarts.org/events/detail/bricks-beers
-URL:https://www.cincinnatiarts.org/events/detail/bricks-beers
-LOCATION:Music Hall
-STATUS:CONFIRMED
-CATEGORIES:Other
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:50e8923c92b652fb26cdc156
 SUMMARY:Bricks & Beer: Cincinnati Music Hall History and Hops
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261023T213000Z
 DESCRIPTION:Friends of Music Hall partners with Cincinnati breweries to bri
 	ng you a unique tour experience. Enter the world of late nineteenth-centur
@@ -165,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:afee76ae49e27b90b428c814
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20260919T140000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -196,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fa2886edd59b54a2cb4a57a6
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261017T150000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -227,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f573a5f1273363a8bca3c0b8
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261023T200000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -258,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3e44f0c04ed5ba4f3612e571
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261106T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -289,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d6fafbe6b36ee71f4ef16289
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261114T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -320,7 +294,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e5710ad0d46215d66f573e5d
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261024T120000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -361,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:084b461cdd3ae4b8e9843bc1
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261024T130000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -402,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6c65395c804042cb867b9f95
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261024T140000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -443,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cf394c89446329d45e3d075d
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261024T150000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -484,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:88ac025b79e74adb974e6e96
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261024T160000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -525,7 +499,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6d762173a3057028cb755e72
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261024T170000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -566,7 +540,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46525de6f2bd22be4e31356e
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261024T180000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -607,7 +581,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df7995d67c42f632e5193568
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261024T190000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -648,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d481789501d69aa089581621
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261025T120000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -689,7 +663,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8521b8c59c43cd976cbbae4b
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261025T130000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -730,7 +704,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2c634c8146782bc0d92ca8ca
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261025T140000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -771,7 +745,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e01ada7b30aa44e05226f979
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261025T150000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -812,7 +786,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:667d8fac2d4ba7ee9cbdd848
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261025T160000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -853,7 +827,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7f9cb15e8fed6780fd55a20c
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261025T170000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -894,7 +868,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:92513e6ef6412061cedc0788
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261025T180000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -935,7 +909,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c28c202e96fd714a9988f1fc
 SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261025T190000Z
 DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
 	, the premier caffeinated event in the Midwest! With two days of coffee\, 
@@ -976,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:adf916088e40be5564a989a2
 SUMMARY:Stern Lecture Series: Atul Gawande\, M.D.
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261027T230000Z
 DESCRIPTION:The Mary S. Stern Lecture with Atul Gawande\, M.D.: Rethinking 
 	Life\, Care\, and Dignity at the End What does it mean to live well — righ
@@ -1008,7 +982,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ad44cb8d291c5b49792a5f84
 SUMMARY:An Evening with David Sedaris
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20261122T003000Z
 DESCRIPTION:David Sedaris\, America’s best-selling humorist and social sati
 	rist\, returns following publication of his most recent book of short stor
@@ -1026,7 +1000,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1df72e9d4c072b498086c0cb
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20270306T210000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
@@ -1050,7 +1024,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3a5d5773c25fb40cdae7928e
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20260910T080355Z
+DTSTAMP:20260911T080350Z
 DTSTART:20270307T010000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
