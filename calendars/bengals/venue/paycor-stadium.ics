@@ -6,26 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Bengals (Home) – Paycor Stadium
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:b249b4ac32cde6a93481cffc
-SUMMARY:Tampa Bay Buccaneers at Cincinnati Bengals
-DTSTAMP:20260913T080338Z
-DTSTART:20260913T170000Z
-DTEND:20260913T200000Z
-DESCRIPTION:Watch the game on FOX or Game Pass: https://www.bengals.com/gam
-	e-day/2026/regular-season/week-1-buccaneers/\n--\nDownload official Cincin
-	nati Bengals app:\niOS (https://apps.apple.com/app/cincinnati-bengals/id49
-	2570103)\n\nAndroid (https://play.google.com/store/apps/details?id=com.yin
-	zcam.nfl.bengals&hl=en_US)\n\nhttps://www.bengals.com\n\n\nhttps://www.ben
-	gals.com/schedule/
-URL:https://www.bengals.com/schedule/
-LOCATION:Paycor Stadium\, Cincinnati
-STATUS:CONFIRMED
-CATEGORIES:Football,Regular Season
-END:VEVENT
-BEGIN:VEVENT
-UID:89070220b66700b11f3d09b3
+UID:ca51acc9279f9ede4258e421
 SUMMARY:Jacksonville Jaguars at Cincinnati Bengals
-DTSTAMP:20260913T080338Z
+DTSTAMP:20260914T080405Z
 DTSTART:20261004T170000Z
 DTEND:20261004T200000Z
 DESCRIPTION:Watch the game on CBS or Game Pass: https://www.bengals.com/gam
@@ -40,9 +23,9 @@ STATUS:CONFIRMED
 CATEGORIES:Football,Regular Season
 END:VEVENT
 BEGIN:VEVENT
-UID:45e4a2d5113c376c416856d9
+UID:19b420a7559f7590c80f93d3
 SUMMARY:Tennessee Titans at Cincinnati Bengals
-DTSTAMP:20260913T080338Z
+DTSTAMP:20260914T080405Z
 DTSTART:20261101T180000Z
 DTEND:20261101T210000Z
 DESCRIPTION:Watch the game on CBS or Game Pass: https://www.bengals.com/gam
@@ -57,9 +40,9 @@ STATUS:CONFIRMED
 CATEGORIES:Football,Regular Season
 END:VEVENT
 BEGIN:VEVENT
-UID:cb3de85f542eb9165886aec9
+UID:b78552ed3b6d23993b788972
 SUMMARY:Pittsburgh Steelers at Cincinnati Bengals
-DTSTAMP:20260913T080338Z
+DTSTAMP:20260914T080405Z
 DTSTART:20261116T012000Z
 DTEND:20261116T042000Z
 DESCRIPTION:Watch the game on NBC / UNIVERSO or Game Pass: https://www.beng
@@ -74,9 +57,9 @@ STATUS:CONFIRMED
 CATEGORIES:Football,Regular Season
 END:VEVENT
 BEGIN:VEVENT
-UID:0e4537087db67ab1c0fdaa07
+UID:482344781c71d9eada95fd0f
 SUMMARY:New Orleans Saints at Cincinnati Bengals
-DTSTAMP:20260913T080338Z
+DTSTAMP:20260914T080405Z
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 DESCRIPTION:Watch the game on CBS or Game Pass: https://www.bengals.com/gam
@@ -91,9 +74,9 @@ STATUS:CONFIRMED
 CATEGORIES:Football,Regular Season
 END:VEVENT
 BEGIN:VEVENT
-UID:8495dcba258a82a2c272c0af
+UID:79a0b423ace1d7c5e3a0cd6b
 SUMMARY:Kansas City Chiefs at Cincinnati Bengals
-DTSTAMP:20260913T080338Z
+DTSTAMP:20260914T080405Z
 DTSTART:20261213T212500Z
 DTEND:20261214T002500Z
 DESCRIPTION:Watch the game on FOX or Game Pass: https://www.bengals.com/gam
@@ -108,9 +91,9 @@ STATUS:CONFIRMED
 CATEGORIES:Football,Regular Season
 END:VEVENT
 BEGIN:VEVENT
-UID:6394d86ecbf4b3be4dad928c
+UID:7f4021c679654812f28fe0e2
 SUMMARY:Baltimore Ravens at Cincinnati Bengals
-DTSTAMP:20260913T080338Z
+DTSTAMP:20260914T080405Z
 DTSTART:20270101T011500Z
 DTEND:20270101T041500Z
 DESCRIPTION:Watch the game on Prime Video or Game Pass: https://www.bengals
