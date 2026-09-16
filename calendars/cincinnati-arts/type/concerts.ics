@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:90978ebdc5c17ad6faa8da32
 SUMMARY:Jim Henson’s Fraggle Rock: Back to the Rock LIVE
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080410Z
 DTSTART:20261003T180000Z
 DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the 
 	legend of the Celebration Stone – an ancient Fraggle treasure that has the
@@ -34,11 +34,11 @@ DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the
 	vity\, magical heartwarming moments\, hilarious and endearing new characte
 	rs\, and much more to make this stage production perfect for families with
 	 young first-time theater goers and for Fraggle Rock fans who remain young
-	 at heart. PRE-SHOW VIP MEET-AND-GREET EXPERIENCE – $60.00 The Fraggle Roc
-	k: Back to the Rock LIVE VIP meet-and-greet experience includes: Photo opp
-	ortunity with you and the Fraggles taken in front of a beautiful Fraggle R
-	ock background A one-of-a-kind Fraggle R\n\nhttps://www.cincinnatiarts.org
-	/events/detail/fraggle-rock-live
+	 at heart. a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
+	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Rock t
+	he Van Food Drive Join the Cincinnati Friars Club and Cincinnati Arts Asso
+	ciation in giving back during Jim Henson's Fr\n\nhttps://www.cincinnatiart
+	s.org/events/detail/fraggle-rock-live
 URL:https://www.cincinnatiarts.org/events/detail/fraggle-rock-live
 LOCATION:Procter & Gamble Hall\, Aronoff Center
 STATUS:CONFIRMED
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1b647eed248eb77c1cf1e936
 SUMMARY:Niladri Kumaar: The Space Between the Notes 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080410Z
 DTSTART:20261014T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Sitar 
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a6d01202242bd4ce32ae62db
 SUMMARY:The Sixties Show
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080410Z
 DTSTART:20261016T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } The Si
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:96fcb436814e8e321f448d1f
 SUMMARY:Outlander in Concert: Echoes Through the Highlands
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080410Z
 DTSTART:20261030T233000Z
 DESCRIPTION:Experience the official Outlander in-concert event! A live orch
 	estra performs Bear McCreary’s acclaimed score\, curated by showrunner Mat
@@ -143,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a9586b7213787bdc94971f0
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080410Z
 DTSTART:20261107T180000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -170,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d11409d2e15236f2161d35ea
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080410Z
 DTSTART:20261107T210000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e8cc66330853af02800175c
 SUMMARY:The Rock Orchestra by Candlelight
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080410Z
 DTSTART:20261119T010000Z
 DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	 Orchestra by Candlelight is set to electrify the USA once again. Prepare 
@@ -222,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06afd2d816a2b21770a22175
 SUMMARY:ELVIS TRIBUTE ARTIST SPECTACULAR
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080410Z
 DTSTART:20270117T003000Z
 DESCRIPTION:THE ELVIS TRIBUTE ARTIST SPECTACULAR is an era-by-era tribute c
 	oncert celebrating the music and magic of Elvis Presley. The concert begin

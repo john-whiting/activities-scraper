@@ -6,104 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Arts – Aronoff Center
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:d149d8479cf176a243bfe3c6
-SUMMARY:Cincinnati Playwrights Initiative: 2026/2027 New Voices Series
-DTSTAMP:20260915T080341Z
-DTSTART:20260915T230000Z
-DTEND:20260915T230000Z
-DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
-	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Cincin
-	nati Playwrights Initiative’s New Voices Series returns with a vibrant\, t
-	hought‑provoking season of new works! Five staged readings for just $45! T
-	his year’s lineup explores resilience\, life-changing choices\, family mys
-	teries\, unexpected connections\, and moral dilemmas that ripple across re
-	lationships and ambitions. From heartfelt humor to gripping introspection\
-	, each play offers fresh perspectives on hope\, identity\, and what might 
-	have been. Don’t miss this dynamic celebration of bold storytelling and em
-	erging voices! a { text-decoration: none\; color: #464feb\; } tr th\, tr t
-	d { border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } a 
-	{ text-decoration: none\; color: #464feb\; } tr th\, tr td { border: 1px s
-	olid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Following each perf
-	ormance\, we invite you to stay for live audience talkbacks\, offering the
-	 opportunity to share feedback and directly support the playwrights as the
-	y continue developing their scripts. The Opposite of Failure: A Full-Lengt
-	h Play by Nancy Robinson Crist Tuesday\, September 15\, 2026 a { text-deco
-	ration: none\; color: #464feb\; } tr th\, tr td { border: 1px solid #e6e6e
-	6\; } tr th { background-color: #f5f5f5\; } Martie has struggled to rebuil
-	d her life after her thirty-year marriage ended\, facing chronic depressio
-	n and unsuccessful treatments. Just as she begins to lose hope\, an unexpe
-	cted circle of people helps her realize that healing means both helping he
-	rself and accepting support from others. What Might Have Been: A Full-Leng
-	th Drama by Leo Bradley Tuesday\, October 20\, 2026 What Might Have Been f
-	ollows the trials and tribulations\, successes and failures\, happiness an
-	d sadness\, of two men\, one who follows a safe and conventional life and 
-	one who takes a riskier\, more unconventional one. An Evening of One Acts:
-	 by Paul Bergman & Jon Singer Tuesday\, November 17\, 20\n\nhttps://www.ci
-	ncinnatiarts.org/events/detail/cincinnati-playwrights-initiative-2026-2027
-	-new-voices-series
-URL:https://www.cincinnatiarts.org/events/detail/cincinnati-playwrights-ini
-	tiative-2026-2027-new-voices-series
-LOCATION:Fifth Third Bank Theater\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Theater
-END:VEVENT
-BEGIN:VEVENT
-UID:4d9ce664a96cda9ce3672d08
-SUMMARY:CPI - The Opposite of Failure 
-DTSTAMP:20260915T080341Z
-DTSTART:20260915T233000Z
-DESCRIPTION:The Opposite of Failure: A Full-Length Play by Nancy Robinson C
-	rist Synopsis: Martie has been trying to get back on her feet ever since h
-	er thirty-year marriage ended. Crippled by chronic depression\, she has tr
-	ied - without success - to find a treatment that works. But just when she 
-	thinks her life won’t get better\, hope arrives in the form of a philosoph
-	ical teen\, a flaky coworker\, an innovative doctor\, and a “flustrated” n
-	ephew. Martie learns that\, while it’s important for her to help herself\,
-	 it’s just as important to accept help from the other people sharing her c
-	orner of the world. Playwright Bio: Nancy Robinson Crist’s first play\, Ev
-	erything’s Relative\, was published by Dramatic Publishing in 1990. Over t
-	he next eight years she wrote The Case of the Disappearing Drumsticks\, a 
-	children’s play\; Murder in Mayberry\, a comedy\; Soul Survivors\, a comed
-	y-drama that received a staged reading at Lincoln Center and productions i
-	n Chicago and New York\; and Jack the Chipper\, a musical written with com
-	poser Mark Hollmann and produced in Chicago. She was hijacked by life for 
-	twenty-eight years before returning to her passion in 2026\, writing The O
-	pposite of Failure. She lives in Greendale\, Indiana\, with her cat and co
-	nfidante\, Javy.\n\nhttps://www.cincinnatiarts.org/events/detail/cpi-the-o
-	pposite-of-failure
-URL:https://www.cincinnatiarts.org/events/detail/cpi-the-opposite-of-failur
-	e
-LOCATION:Fifth Third Bank Theater\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Theater
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:c88923322588f379e6f057c1
-SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
-DTSTART:20260915T233000Z
-DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
-	way extravaganza that explodes with life and energy” (Entertainment Weekly
-	). Based on the classic American novel by F. Scott Fitzgerald\, the Tony A
-	ward®-winning new musical is an unforgettable journey of love\, wealth and
-	 tragedy that brings the Roaring Twenties to life on stage. Directed by Ma
-	rc Bruni (Beautiful: The Carole King Musical)\, this story of extravagance
-	 and longing features choreography by Dominique Kelley (So You Think You C
-	an Dance)\, a book by Kait Kerrigan (The Mad Ones) and a jazz- and pop-inf
-	luenced original score by Jason Howland (Little Women) and Nathan Tysen (P
-	aradise Square).\n\nhttps://www.cincinnatiarts.org/events/detail/the-great
-	-gatsby
-URL:https://www.cincinnatiarts.org/events/detail/the-great-gatsby
-LOCATION:Procter & Gamble Hall\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Theater
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:ec67a9b06c7b8097f9b99acc
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260916T233000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -125,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:27aa805a29bba633901c30c2
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260917T233000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -147,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddbb6b1b6c4d7a528d716986
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260918T233000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -169,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:038ccfa05e7cbc121263d827
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260919T180000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -191,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:881e27497bc01108feca3f55
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260919T233000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -213,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c36a56a3c3a42fe6a2697d4a
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260920T170000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -235,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fa33509914f4fc0df4d94f1e
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260920T223000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -257,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fdc571d80415548908c8e1fd
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260922T233000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -279,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1be20b8109a3167a1be02c58
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260923T233000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -301,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7d964febdaa8a7a9ee6bb77a
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260924T233000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -323,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7bf36563690caccf31be0ba8
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260925T233000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -345,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f045d8d5c823063de79cfac1
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260926T180000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -367,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2f84ff4509e159047d446825
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260926T233000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -389,7 +294,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:483c12e816718823ec986844
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260927T170000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -411,7 +316,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d6c3844af6180eff81a51b67
 SUMMARY:The Great Gatsby
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260927T223000Z
 DESCRIPTION:The party's roaring in Cincinnati! The Great Gatsby is a “Broad
 	way extravaganza that explodes with life and energy” (Entertainment Weekly
@@ -433,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:af9ba36a73de28f80b9b3efa
 SUMMARY:The Kaplan New Works Series
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20260918T233000Z
 DTEND:20260926T233000Z
 DESCRIPTION:Performance Times September 18\, 2026 7:30PM September 19\, 202
@@ -455,7 +360,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:89c4b95fbf19948c0aebbaf5
 SUMMARY:Mutual Dance Theatre presents South Chicago Dance Theatre
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261002T233000Z
 DESCRIPTION:South Chicago Dance Theatre October 2-3\, 2026 PRICES Starting 
 	at $39. $5 Early Bird Discount for tickets purchased by September 6. Senio
@@ -496,7 +401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6b140a7da7a3155a3371e2f0
 SUMMARY:Mutual Dance Theatre presents South Chicago Dance Theatre
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261003T233000Z
 DESCRIPTION:South Chicago Dance Theatre October 2-3\, 2026 PRICES Starting 
 	at $39. $5 Early Bird Discount for tickets purchased by September 6. Senio
@@ -537,7 +442,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:90978ebdc5c17ad6faa8da32
 SUMMARY:Jim Henson’s Fraggle Rock: Back to the Rock LIVE
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261003T180000Z
 DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the 
 	legend of the Celebration Stone – an ancient Fraggle treasure that has the
@@ -563,11 +468,11 @@ DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the
 	vity\, magical heartwarming moments\, hilarious and endearing new characte
 	rs\, and much more to make this stage production perfect for families with
 	 young first-time theater goers and for Fraggle Rock fans who remain young
-	 at heart. PRE-SHOW VIP MEET-AND-GREET EXPERIENCE – $60.00 The Fraggle Roc
-	k: Back to the Rock LIVE VIP meet-and-greet experience includes: Photo opp
-	ortunity with you and the Fraggles taken in front of a beautiful Fraggle R
-	ock background A one-of-a-kind Fraggle R\n\nhttps://www.cincinnatiarts.org
-	/events/detail/fraggle-rock-live
+	 at heart. a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
+	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Rock t
+	he Van Food Drive Join the Cincinnati Friars Club and Cincinnati Arts Asso
+	ciation in giving back during Jim Henson's Fr\n\nhttps://www.cincinnatiart
+	s.org/events/detail/fraggle-rock-live
 URL:https://www.cincinnatiarts.org/events/detail/fraggle-rock-live
 LOCATION:Procter & Gamble Hall\, Aronoff Center
 STATUS:CONFIRMED
@@ -577,7 +482,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1b647eed248eb77c1cf1e936
 SUMMARY:Niladri Kumaar: The Space Between the Notes 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261014T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Sitar 
@@ -610,7 +515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cda2ed3270af939a72df1e3d
 SUMMARY:Father Brown
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261015T230000Z
 DESCRIPTION:A new play based on G.K. Chesterton's The Innocence of Father B
 	rown Written by Patrick Rieger Directed by Jay Muldoon Stage Manager: Rose
@@ -632,7 +537,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a1fe4feefe608c3caff143c0
 SUMMARY:Father Brown
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261016T230000Z
 DESCRIPTION:A new play based on G.K. Chesterton's The Innocence of Father B
 	rown Written by Patrick Rieger Directed by Jay Muldoon Stage Manager: Rose
@@ -654,7 +559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7eb72338ceabdd51918ab415
 SUMMARY:Father Brown
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261017T180000Z
 DESCRIPTION:A new play based on G.K. Chesterton's The Innocence of Father B
 	rown Written by Patrick Rieger Directed by Jay Muldoon Stage Manager: Rose
@@ -676,7 +581,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:25fab18222f0826acdee2816
 SUMMARY:Father Brown
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261017T230000Z
 DESCRIPTION:A new play based on G.K. Chesterton's The Innocence of Father B
 	rown Written by Patrick Rieger Directed by Jay Muldoon Stage Manager: Rose
@@ -698,7 +603,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:94f31db067c6a8edf1029052
 SUMMARY:Father Brown
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261018T180000Z
 DESCRIPTION:A new play based on G.K. Chesterton's The Innocence of Father B
 	rown Written by Patrick Rieger Directed by Jay Muldoon Stage Manager: Rose
@@ -720,7 +625,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a6d01202242bd4ce32ae62db
 SUMMARY:The Sixties Show
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261016T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } The Si
@@ -760,7 +665,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b1cbd5e9bd7b18217f451e1f
 SUMMARY:BOOP! The Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261020T233000Z
 DESCRIPTION:For almost a century\, the Betty Boop® character has won hearts
 	 and inspired fans around the world with her trademark looks\, voice\, and
@@ -787,7 +692,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c3f1b0afec9b3919f85c6bb4
 SUMMARY:BOOP! The Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261021T233000Z
 DESCRIPTION:For almost a century\, the Betty Boop® character has won hearts
 	 and inspired fans around the world with her trademark looks\, voice\, and
@@ -814,7 +719,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e940f989169ca6d57042d86d
 SUMMARY:BOOP! The Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261022T233000Z
 DESCRIPTION:For almost a century\, the Betty Boop® character has won hearts
 	 and inspired fans around the world with her trademark looks\, voice\, and
@@ -841,7 +746,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5f7375df0482e1ae3539a63e
 SUMMARY:BOOP! The Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261023T233000Z
 DESCRIPTION:For almost a century\, the Betty Boop® character has won hearts
 	 and inspired fans around the world with her trademark looks\, voice\, and
@@ -868,7 +773,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c56183b6235c2d2662cb2b9a
 SUMMARY:BOOP! The Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261024T180000Z
 DESCRIPTION:For almost a century\, the Betty Boop® character has won hearts
 	 and inspired fans around the world with her trademark looks\, voice\, and
@@ -895,7 +800,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f9c02a5bfacf4680607f663a
 SUMMARY:BOOP! The Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261024T233000Z
 DESCRIPTION:For almost a century\, the Betty Boop® character has won hearts
 	 and inspired fans around the world with her trademark looks\, voice\, and
@@ -922,7 +827,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cbfcff972717d5930c078d53
 SUMMARY:BOOP! The Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261025T170000Z
 DESCRIPTION:For almost a century\, the Betty Boop® character has won hearts
 	 and inspired fans around the world with her trademark looks\, voice\, and
@@ -949,7 +854,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9b062ef83a3f98e320b92764
 SUMMARY:BOOP! The Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261025T223000Z
 DESCRIPTION:For almost a century\, the Betty Boop® character has won hearts
 	 and inspired fans around the world with her trademark looks\, voice\, and
@@ -976,7 +881,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:53573df704cfd7b27d909532
 SUMMARY:CPI - What Might Have Been
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261020T233000Z
 DESCRIPTION:What Might Have Been: A Full-Length Drama by Leo Bradley Synops
 	is: What Might Have Been follows the trials and tribulations\, successes a
@@ -1007,7 +912,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:adf916088e40be5564a989a2
 SUMMARY:Stern Lecture Series: Atul Gawande\, M.D.
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261027T230000Z
 DESCRIPTION:The Mary S. Stern Lecture with Atul Gawande\, M.D.: Rethinking 
 	Life\, Care\, and Dignity at the End What does it mean to live well — righ
@@ -1039,7 +944,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:96fcb436814e8e321f448d1f
 SUMMARY:Outlander in Concert: Echoes Through the Highlands
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261030T233000Z
 DESCRIPTION:Experience the official Outlander in-concert event! A live orch
 	estra performs Bear McCreary’s acclaimed score\, curated by showrunner Mat
@@ -1061,7 +966,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6792303de5262e3b33c2212b
 SUMMARY:A Taste of Ireland — The Irish Music & Dance Sensation
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261101T190000Z
 DESCRIPTION:Direct from off-Broadway and London’s West End\, the internatio
 	nally acclaimed A Taste of Ireland Company comes to the USA with its flags
@@ -1101,7 +1006,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:59afaf4bda9009c96635bcb1
 SUMMARY:Gravity & Other Myths: Ten Thousand Hours
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261106T003000Z
 DESCRIPTION:Everybody is a master of something. Blink\, step\, jump\, balan
 	ce\, flip\, fly. Gravity & Other Myths – eight acrobats and one musician –
@@ -1125,7 +1030,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a9586b7213787bdc94971f0
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261107T180000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -1152,7 +1057,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d11409d2e15236f2161d35ea
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261107T210000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -1179,7 +1084,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c23fecc9e4c591bb357b5f98
 SUMMARY:The Sound of Music
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261111T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -1208,7 +1113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fb5c944390d434baaecc8f27
 SUMMARY:The Sound of Music
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261112T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -1237,7 +1142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a2a08193ddfd6246fae0363c
 SUMMARY:The Sound of Music
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261113T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -1266,7 +1171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ca17630c473700b8ffcb75e3
 SUMMARY:The Sound of Music
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261114T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -1295,7 +1200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f51cc24d4a6c1a398aa5d299
 SUMMARY:The Sound of Music
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261114T190000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -1324,7 +1229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7e9bf2f1a71c44668ed4ecb
 SUMMARY:The Sound of Music
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261115T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -1353,7 +1258,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6caad5cbbad39527c5dc5e22
 SUMMARY:The Sound of Music
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261115T180000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -1382,7 +1287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c134e6d7c03cc78f0843a3a9
 SUMMARY:The Sound of Music
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261115T233000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -1411,7 +1316,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7407af01de35b4497aaa7296
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261114T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -1428,7 +1333,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2c8917bc5a352cc5db1c3dd6
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261115T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -1445,7 +1350,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6381035b7a6299ef83aff3b9
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261115T190000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -1462,7 +1367,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:09b665c348dec59bf35d165a
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261119T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -1479,7 +1384,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4ebe9e83b3af2b85f1bcad55
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261120T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -1496,7 +1401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3bc48745b5562b08a7780906
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261121T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -1513,7 +1418,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:209990c88a2ce9a01312dc23
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261122T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -1530,7 +1435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a0456797c2de749504afb23
 SUMMARY:CPI - An Evening of One Act Plays
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261118T003000Z
 DESCRIPTION:Two One-Act Plays in One Evening! Who Gets Grandma’s Eyeball: A
 	 One-Act Play by Paul Bergman Synopsis: Fun and the unexpected connect wit
@@ -1567,7 +1472,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e8cc66330853af02800175c
 SUMMARY:The Rock Orchestra by Candlelight
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261119T010000Z
 DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	 Orchestra by Candlelight is set to electrify the USA once again. Prepare 
@@ -1592,7 +1497,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ea8893a85e8248a6c6be991a
 SUMMARY:2026-27 CMT Mainstage Series
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261122T003000Z
 DTEND:20261122T003000Z
 DESCRIPTION:The SpongeBob Musical November 13 - 21\, 2026 Based on the Nick
@@ -1617,7 +1522,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ad44cb8d291c5b49792a5f84
 SUMMARY:An Evening with David Sedaris
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261122T003000Z
 DESCRIPTION:David Sedaris\, America’s best-selling humorist and social sati
 	rist\, returns following publication of his most recent book of short stor
@@ -1635,7 +1540,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:acd134a8a709f1da2b1b8e7d
 SUMMARY:O Christmas Tea: A British Comedy 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261129T003000Z
 DTEND:20261129T200000Z
 DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
@@ -1672,7 +1577,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:59a9e4dae4305157455d5b92
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261203T003000Z
 DTEND:20261213T230000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
@@ -1690,7 +1595,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:86228ae0200442b8aee97dce
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261205T010000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -1716,7 +1621,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3497e149a4a9d1234bc406a2
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261205T190000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -1742,7 +1647,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:edf186977fcde1f851f8dfe9
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261206T010000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -1768,7 +1673,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:155a98c46477fffcb9e94652
 SUMMARY:Sister's Christmas Catechism
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261206T190000Z
 DESCRIPTION:It's "CSI: Bethlehem" in this holiday mystery extravaganza by t
 	he author of the Late Nite Catechism series\, as Sister takes on the myste
@@ -1788,7 +1693,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4b07c85508cf345756ffdcdf
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261218T190000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -1817,7 +1722,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7ae385245c276f6919f8794
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261219T003000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -1846,7 +1751,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:efff50593da57185a438d336
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261219T190000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -1875,7 +1780,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12fa81ed6720701bdc880e16
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20261220T003000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -1904,7 +1809,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bc78721ea0bb769faac8d776
 SUMMARY:Bluey's Big Play
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270102T160000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -1943,7 +1848,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:845a59b9be175cdf2e226042
 SUMMARY:Bluey's Big Play
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270102T200000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -1982,7 +1887,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:961e7ab71dfa8b493c107ce6
 SUMMARY:Bluey's Big Play
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270103T160000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -2021,7 +1926,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e76fe3f715dfb8c88ba9fcd
 SUMMARY:SIX
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270106T003000Z
 DTEND:20270110T233000Z
 DESCRIPTION:On sale dates are tentative and subject to change. From Tudor Q
@@ -2040,7 +1945,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06afd2d816a2b21770a22175
 SUMMARY:ELVIS TRIBUTE ARTIST SPECTACULAR
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270117T003000Z
 DESCRIPTION:THE ELVIS TRIBUTE ARTIST SPECTACULAR is an era-by-era tribute c
 	oncert celebrating the music and magic of Elvis Presley. The concert begin
@@ -2075,7 +1980,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:27d1c152b73b45ce99aef2aa
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270120T003000Z
 DTEND:20270131T233000Z
 DESCRIPTION:On sale dates are tentative and subject to change. Winner of 6 
@@ -2095,7 +2000,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c0cca8185203aba80c87c14f
 SUMMARY:In Harmony 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270130T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -2112,7 +2017,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10f4a8ae1a85a3141c4512a4
 SUMMARY:In Harmony 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270130T200000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -2129,7 +2034,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46e6c68c0510d474a7eb5c42
 SUMMARY:In Harmony 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270131T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -2146,7 +2051,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fda63ab6982f38e862dae99e
 SUMMARY:In Harmony 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270206T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -2163,7 +2068,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2a4af444e99e08f1ac644d86
 SUMMARY:In Harmony 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270206T200000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -2180,7 +2085,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5e3eecc16539956ff4f343fc
 SUMMARY:In Harmony 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270207T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -2197,7 +2102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5859c40d3053a133d79d6acd
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270217T003000Z
 DTEND:20270228T233000Z
 DESCRIPTION:On sale dates are tentative and subject to change. Be Our Guest
@@ -2222,7 +2127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:388f3d9f7c8c051e03681938
 SUMMARY:Mutual Dance Theatre presents Boca Tuya of NYC
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270227T003000Z
 DESCRIPTION:Mutual Dance Theatre and the Jefferson James Contemporary Dance
 	 Theater Series present Boca Tuya of New York City "FULL OF SENSUAL VULNER
@@ -2263,7 +2168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e332189e0a906ce74cce501c
 SUMMARY:Mutual Dance Theatre presents Boca Tuya of NYC
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270228T003000Z
 DESCRIPTION:Mutual Dance Theatre and the Jefferson James Contemporary Dance
 	 Theater Series present Boca Tuya of New York City "FULL OF SENSUAL VULNER
@@ -2304,7 +2209,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1df72e9d4c072b498086c0cb
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270306T210000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
@@ -2328,7 +2233,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3a5d5773c25fb40cdae7928e
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270307T010000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
@@ -2352,7 +2257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c86db71ad407d0dc124321ea
 SUMMARY:The Outsiders
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270316T233000Z
 DTEND:20270328T170000Z
 DESCRIPTION:On sale dates are tentative and subject to change. The winner o
@@ -2380,7 +2285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d5c1ef468543427dbbe19ba4
 SUMMARY:It's a Small World 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270319T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2395,7 +2300,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9ffd8af9a286cfe3bfa85d40
 SUMMARY:It's a Small World 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270320T190000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2410,7 +2315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:857290fb29974eba888cb94f
 SUMMARY:It's a Small World 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270320T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2425,7 +2330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3528fe62f469fdb53c81c0f0
 SUMMARY:It's a Small World 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270326T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2440,7 +2345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1231fda71d0592d866ec1277
 SUMMARY:It's a Small World 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270327T190000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2455,7 +2360,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fc57dc07d514296080b9d506
 SUMMARY:It's a Small World 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270327T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2470,7 +2375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2b9d8d92050c2646b0e03511
 SUMMARY:CPI - Arc of Luminescence
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270330T233000Z
 DESCRIPTION:Arc of Luminescence: A Full-Length Play by Michael Defrancesco 
 	Synopsis: An artist/painter dies. His European collector\, executor\, and 
@@ -2497,7 +2402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8178af809beeb3e3d99caeaf
 SUMMARY:Director’s Vision: Two Voices
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270402T233000Z
 DTEND:20270404T170000Z
 DESCRIPTION:Performance Times April 2\, 2027 7:30PM April 3\, 2027 2:00PM A
@@ -2522,7 +2427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:de547e99652fd11defb6193e
 SUMMARY:The Family Series: Hansel and Gretel
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270409T223000Z
 DTEND:20270411T183000Z
 DESCRIPTION:Performance Times April 9\, 2027 6:30PM April 10\, 2027 11:00AM
@@ -2545,7 +2450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:09f6125c3f05ddfdfa7e9a65
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270414T233000Z
 DTEND:20270425T230000Z
 DESCRIPTION:On sale dates are tentative and subject to change. IT’S TIME TO
@@ -2571,7 +2476,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d8d503db500b88a6fcc7eccd
 SUMMARY:CPI - Behind the Scene  
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270427T233000Z
 DESCRIPTION:Behind the Scene: A Full-Length Comedy by Susan & Doug Decatur 
 	Synopsis: In 1933\, the movie industry is about to enact new censorship st
@@ -2601,7 +2506,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0539946c0277ca0eb986a549
 SUMMARY:Mutual Dance Theatre in Modern Mix '27
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270430T233000Z
 DESCRIPTION:Mutual Dance Theatre in MODERN MIX '27 PRICES: Starting at $29.
 	 $5 Early Bird Discount for tickets purchased by April 4\, 2027. Seniors/S
@@ -2642,7 +2547,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:59df698f1655ef260510ca7c
 SUMMARY:Mutual Dance Theatre in Modern Mix '27
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270501T233000Z
 DESCRIPTION:Mutual Dance Theatre in MODERN MIX '27 PRICES: Starting at $29.
 	 $5 Early Bird Discount for tickets purchased by April 4\, 2027. Seniors/S
@@ -2683,7 +2588,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f6521ae9d7197705e72d674d
 SUMMARY:School of Rock
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270507T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2702,7 +2607,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aba26ed860b6d622ecc647f6
 SUMMARY:School of Rock
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270508T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2721,7 +2626,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a06b59f090fbf52a269ffab
 SUMMARY:School of Rock
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270509T180000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2740,7 +2645,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e03b28a8a943eb8c995ad813
 SUMMARY:School of Rock
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270512T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2759,7 +2664,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:829489861cb4ef1309c7afbe
 SUMMARY:School of Rock
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270513T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2778,7 +2683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:50b4026f380648f7424a9a62
 SUMMARY:School of Rock
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270514T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2797,7 +2702,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:78d226d9ef6b3814d8a92dc1
 SUMMARY:School of Rock
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270515T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2816,7 +2721,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:444be051d1cafa6aa5fb9776
 SUMMARY:Hadestown
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270512T233000Z
 DTEND:20270516T223000Z
 DESCRIPTION:On sale dates are tentative and subject to change. COME SEE HOW
@@ -2841,7 +2746,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a05ca998f296e13dd3fdc5d1
 SUMMARY:Buena Vista Social Club
-DTSTAMP:20260915T080341Z
+DTSTAMP:20260916T080409Z
 DTSTART:20270601T233000Z
 DTEND:20270613T223000Z
 DESCRIPTION:On sale dates are tentative and subject to change. Step into th
