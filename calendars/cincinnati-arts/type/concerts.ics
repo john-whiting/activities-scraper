@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:90978ebdc5c17ad6faa8da32
 SUMMARY:Jim Henson’s Fraggle Rock: Back to the Rock LIVE
-DTSTAMP:20260916T080410Z
+DTSTAMP:20260917T080401Z
 DTSTART:20261003T180000Z
 DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the 
 	legend of the Celebration Stone – an ancient Fraggle treasure that has the
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1b647eed248eb77c1cf1e936
 SUMMARY:Niladri Kumaar: The Space Between the Notes 
-DTSTAMP:20260916T080410Z
+DTSTAMP:20260917T080401Z
 DTSTART:20261014T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Sitar 
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a6d01202242bd4ce32ae62db
 SUMMARY:The Sixties Show
-DTSTAMP:20260916T080410Z
+DTSTAMP:20260917T080401Z
 DTSTART:20261016T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } The Si
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:96fcb436814e8e321f448d1f
 SUMMARY:Outlander in Concert: Echoes Through the Highlands
-DTSTAMP:20260916T080410Z
+DTSTAMP:20260917T080401Z
 DTSTART:20261030T233000Z
 DESCRIPTION:Experience the official Outlander in-concert event! A live orch
 	estra performs Bear McCreary’s acclaimed score\, curated by showrunner Mat
@@ -143,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a9586b7213787bdc94971f0
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260916T080410Z
+DTSTAMP:20260917T080401Z
 DTSTART:20261107T180000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -170,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d11409d2e15236f2161d35ea
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260916T080410Z
+DTSTAMP:20260917T080401Z
 DTSTART:20261107T210000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e8cc66330853af02800175c
 SUMMARY:The Rock Orchestra by Candlelight
-DTSTAMP:20260916T080410Z
+DTSTAMP:20260917T080401Z
 DTSTART:20261119T010000Z
 DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	 Orchestra by Candlelight is set to electrify the USA once again. Prepare 
@@ -220,9 +220,38 @@ CATEGORIES:Concerts
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
+UID:452c22e214884d6e5d0edd92
+SUMMARY:William Shakespeare’s Romeo + Juliet Film in Concert
+DTSTAMP:20260917T080401Z
+DTSTART:20270113T003000Z
+DESCRIPTION:Celebrate the 30th anniversary of Baz Luhrmann’s iconic 1996 fi
+	lm with William Shakespeare’s Romeo + Juliet Film in Concert\, a live cine
+	matic concert experience featuring a big-screen presentation of the film\,
+	 elevated with live music\, atmospheric lighting\, and immersive concert s
+	tage production. As the film plays on screen\, a 12-piece hybrid ensemble 
+	performs the soundtrack and score live in sync with the action\, animating
+	 the vibrant world of Verona Beach. More than a traditional night at the m
+	ovies\, the production brings the film’s romance\, chaos\, and emotional i
+	ntensity off the screen and into the theater. Directed by Baz Luhrmann and
+	 starring Leonardo DiCaprio and Claire Danes\, William Shakespeare’s Romeo
+	 + Juliet reimagined the classic for a new generation with its stylized vi
+	suals\, modern energy\, and unforgettable soundtrack featuring Des’ree’s “
+	Kissing You\,” The Cardigans’ “Lovefool\,” Radiohead’s “Talk Show Host\,” 
+	and Garbage’s “#1 Crush.” Developed in collaboration with Disney Concerts\
+	, William Shakespeare’s Romeo + Juliet Film in Concert is a bold fusion of
+	 film\, music\, and live performance.\n\nhttps://www.cincinnatiarts.org/ev
+	ents/detail/romeo-and-juliet-in-concert
+URL:https://www.cincinnatiarts.org/events/detail/romeo-and-juliet-in-concer
+	t
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Concerts
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:06afd2d816a2b21770a22175
 SUMMARY:ELVIS TRIBUTE ARTIST SPECTACULAR
-DTSTAMP:20260916T080410Z
+DTSTAMP:20260917T080401Z
 DTSTART:20270117T003000Z
 DESCRIPTION:THE ELVIS TRIBUTE ARTIST SPECTACULAR is an era-by-era tribute c
 	oncert celebrating the music and magic of Elvis Presley. The concert begin
