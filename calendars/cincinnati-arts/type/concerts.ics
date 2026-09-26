@@ -6,49 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Arts – Concerts
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:90978ebdc5c17ad6faa8da32
-SUMMARY:Jim Henson’s Fraggle Rock: Back to the Rock LIVE
-DTSTAMP:20260925T080347Z
-DTSTART:20261003T180000Z
-DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the 
-	legend of the Celebration Stone – an ancient Fraggle treasure that has the
-	 power to bring everyone together for the greatest party of all time but w
-	as shattered and lost generations ago. As the Fraggles set off on an exhil
-	arating\, adventurous journey exploring exciting new caves within Fraggle 
-	Rock and even beyond\, they discover magic that they never knew existed an
-	d learn to work together to unite the lost pieces of the magical artifact.
-	 Can the Fraggles succeed in their quest to bring the Celebration Stone ba
-	ck to Fraggle Rock so everyone can enjoy the most incredible party in Frag
-	gle history? And\, along the way\, will they find something even more memo
-	rable and heartfelt than they could have ever imagined? Featuring gorgeous
-	 new walk-around versions of the Fraggles\; puppet-sized Doozers\; an appe
-	arance from a giant Gorg\; and exclusive\, new\, wondrous puppet creatures
-	 from the acclaimed Jim Henson’s Creature Shop\, along with fan-favorite s
-	ongs and exciting visual effects\, this all-new musical stage adventure we
-	lcomes audiences on a joyful\, nostalgia-filled trip to Fraggle Rock. Fill
-	ed with music\, laughter\, and imagination\, it’s an unforgettable live ex
-	perience that will have Silly Creatures of all ages dancing in the aisles!
-	 Written and directed by John Tartaglia (Avenue Q\, Shrek the Musical\, St
-	ephen Schwartz’s The Secret Silk)\, this first-ever\, live Fraggle show in
-	cludes fantastic in-theater immersive special effects\, audience interacti
-	vity\, magical heartwarming moments\, hilarious and endearing new characte
-	rs\, and much more to make this stage production perfect for families with
-	 young first-time theater goers and for Fraggle Rock fans who remain young
-	 at heart. a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
-	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Rock t
-	he Van Food Drive Join the Cincinnati Friars Club and Cincinnati Arts Asso
-	ciation in giving back during Jim Henson's Fr\n\nhttps://www.cincinnatiart
-	s.org/events/detail/fraggle-rock-live
-URL:https://www.cincinnatiarts.org/events/detail/fraggle-rock-live
-LOCATION:Procter & Gamble Hall\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Concerts
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:1b647eed248eb77c1cf1e936
 SUMMARY:Niladri Kumaar: The Space Between the Notes 
-DTSTAMP:20260925T080347Z
+DTSTAMP:20260926T080420Z
 DTSTART:20261014T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Sitar 
@@ -81,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a6d01202242bd4ce32ae62db
 SUMMARY:The Sixties Show
-DTSTAMP:20260925T080347Z
+DTSTAMP:20260926T080420Z
 DTSTART:20261016T233000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } The Si
@@ -121,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:96fcb436814e8e321f448d1f
 SUMMARY:Outlander in Concert: Echoes Through the Highlands
-DTSTAMP:20260925T080347Z
+DTSTAMP:20260926T080420Z
 DTSTART:20261030T233000Z
 DESCRIPTION:Experience the official Outlander in-concert event! A live orch
 	estra performs Bear McCreary’s acclaimed score\, curated by showrunner Mat
@@ -143,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a9586b7213787bdc94971f0
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260925T080347Z
+DTSTAMP:20260926T080420Z
 DTSTART:20261107T180000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -170,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d11409d2e15236f2161d35ea
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20260925T080347Z
+DTSTAMP:20260926T080420Z
 DTSTART:20261107T210000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -197,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e8cc66330853af02800175c
 SUMMARY:The Rock Orchestra by Candlelight
-DTSTAMP:20260925T080347Z
+DTSTAMP:20260926T080420Z
 DTSTART:20261119T010000Z
 DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	 Orchestra by Candlelight is set to electrify the USA once again. Prepare 
@@ -222,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9c02a03ef03ee122f25d86b2
 SUMMARY:Happy Holidays with the Mighty Wurlitzer
-DTSTAMP:20260925T080347Z
+DTSTAMP:20260926T080420Z
 DTSTART:20261205T000000Z
 DESCRIPTION:Presented by Friends of Music Hall\, Happy Holidays with the Mi
 	ghty Wurlitzer returns with an enchanting The Night Before Christmas-theme
@@ -253,9 +213,125 @@ CATEGORIES:Concerts
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
+UID:4b07c85508cf345756ffdcdf
+SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
+DTSTAMP:20260926T080420Z
+DTSTART:20261218T190000Z
+DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
+	ky Mountain High Experience®: A John Denver Christmas takes you back to th
+	e 1970s\, a golden era when John Denver's music lit up the airwaves and wa
+	rmed hearts across America. Acclaimed performer Rick Schuler brings it all
+	 back to life in a holiday concert you'll be talking about long after the 
+	season ends. Sing along to the Denver classics you know by heart: "Rocky M
+	ountain High\," "Take Me Home\, Country Roads\," "Annie's Song\," and "Sun
+	shine on My Shoulders." Then comes the holiday magic as the evening pays l
+	oving tribute to Denver's legendary Christmas specials with seasonal treas
+	ures like "Aspenglow\," "Silent Night\," "Joy to the World\," and "Chestnu
+	ts Roasting on an Open Fire" - the perfect soundtrack to the most wonderfu
+	l time of the year. Lifelong superfan or first-time listener\, it doesn't 
+	matter. You'll walk out inspired\, uplifted\, and full of holiday cheer. T
+	his is a celebration for all ages and one show this season you won't want 
+	to miss. Come experience the magic of John Denver\, live!\n\nhttps://www.c
+	incinnatiarts.org/events/detail/rocky-mountain-high-experience-john-denver
+	-christmas-26
+URL:https://www.cincinnatiarts.org/events/detail/rocky-mountain-high-experi
+	ence-john-denver-christmas-26
+LOCATION:Jarson-Kaplan Theater\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Concerts
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ae385245c276f6919f8794
+SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
+DTSTAMP:20260926T080420Z
+DTSTART:20261219T003000Z
+DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
+	ky Mountain High Experience®: A John Denver Christmas takes you back to th
+	e 1970s\, a golden era when John Denver's music lit up the airwaves and wa
+	rmed hearts across America. Acclaimed performer Rick Schuler brings it all
+	 back to life in a holiday concert you'll be talking about long after the 
+	season ends. Sing along to the Denver classics you know by heart: "Rocky M
+	ountain High\," "Take Me Home\, Country Roads\," "Annie's Song\," and "Sun
+	shine on My Shoulders." Then comes the holiday magic as the evening pays l
+	oving tribute to Denver's legendary Christmas specials with seasonal treas
+	ures like "Aspenglow\," "Silent Night\," "Joy to the World\," and "Chestnu
+	ts Roasting on an Open Fire" - the perfect soundtrack to the most wonderfu
+	l time of the year. Lifelong superfan or first-time listener\, it doesn't 
+	matter. You'll walk out inspired\, uplifted\, and full of holiday cheer. T
+	his is a celebration for all ages and one show this season you won't want 
+	to miss. Come experience the magic of John Denver\, live!\n\nhttps://www.c
+	incinnatiarts.org/events/detail/rocky-mountain-high-experience-john-denver
+	-christmas-26
+URL:https://www.cincinnatiarts.org/events/detail/rocky-mountain-high-experi
+	ence-john-denver-christmas-26
+LOCATION:Jarson-Kaplan Theater\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Concerts
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:efff50593da57185a438d336
+SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
+DTSTAMP:20260926T080420Z
+DTSTART:20261219T190000Z
+DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
+	ky Mountain High Experience®: A John Denver Christmas takes you back to th
+	e 1970s\, a golden era when John Denver's music lit up the airwaves and wa
+	rmed hearts across America. Acclaimed performer Rick Schuler brings it all
+	 back to life in a holiday concert you'll be talking about long after the 
+	season ends. Sing along to the Denver classics you know by heart: "Rocky M
+	ountain High\," "Take Me Home\, Country Roads\," "Annie's Song\," and "Sun
+	shine on My Shoulders." Then comes the holiday magic as the evening pays l
+	oving tribute to Denver's legendary Christmas specials with seasonal treas
+	ures like "Aspenglow\," "Silent Night\," "Joy to the World\," and "Chestnu
+	ts Roasting on an Open Fire" - the perfect soundtrack to the most wonderfu
+	l time of the year. Lifelong superfan or first-time listener\, it doesn't 
+	matter. You'll walk out inspired\, uplifted\, and full of holiday cheer. T
+	his is a celebration for all ages and one show this season you won't want 
+	to miss. Come experience the magic of John Denver\, live!\n\nhttps://www.c
+	incinnatiarts.org/events/detail/rocky-mountain-high-experience-john-denver
+	-christmas-26
+URL:https://www.cincinnatiarts.org/events/detail/rocky-mountain-high-experi
+	ence-john-denver-christmas-26
+LOCATION:Jarson-Kaplan Theater\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Concerts
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:12fa81ed6720701bdc880e16
+SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
+DTSTAMP:20260926T080420Z
+DTSTART:20261220T003000Z
+DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
+	ky Mountain High Experience®: A John Denver Christmas takes you back to th
+	e 1970s\, a golden era when John Denver's music lit up the airwaves and wa
+	rmed hearts across America. Acclaimed performer Rick Schuler brings it all
+	 back to life in a holiday concert you'll be talking about long after the 
+	season ends. Sing along to the Denver classics you know by heart: "Rocky M
+	ountain High\," "Take Me Home\, Country Roads\," "Annie's Song\," and "Sun
+	shine on My Shoulders." Then comes the holiday magic as the evening pays l
+	oving tribute to Denver's legendary Christmas specials with seasonal treas
+	ures like "Aspenglow\," "Silent Night\," "Joy to the World\," and "Chestnu
+	ts Roasting on an Open Fire" - the perfect soundtrack to the most wonderfu
+	l time of the year. Lifelong superfan or first-time listener\, it doesn't 
+	matter. You'll walk out inspired\, uplifted\, and full of holiday cheer. T
+	his is a celebration for all ages and one show this season you won't want 
+	to miss. Come experience the magic of John Denver\, live!\n\nhttps://www.c
+	incinnatiarts.org/events/detail/rocky-mountain-high-experience-john-denver
+	-christmas-26
+URL:https://www.cincinnatiarts.org/events/detail/rocky-mountain-high-experi
+	ence-john-denver-christmas-26
+LOCATION:Jarson-Kaplan Theater\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Concerts
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:452c22e214884d6e5d0edd92
 SUMMARY:William Shakespeare’s Romeo + Juliet Film in Concert
-DTSTAMP:20260925T080347Z
+DTSTAMP:20260926T080420Z
 DTSTART:20270113T003000Z
 DESCRIPTION:Celebrate the 30th anniversary of Baz Luhrmann’s iconic 1996 fi
 	lm with William Shakespeare’s Romeo + Juliet Film in Concert\, a live cine
@@ -284,7 +360,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06afd2d816a2b21770a22175
 SUMMARY:ELVIS TRIBUTE ARTIST SPECTACULAR
-DTSTAMP:20260925T080347Z
+DTSTAMP:20260926T080420Z
 DTSTART:20270117T003000Z
 DESCRIPTION:THE ELVIS TRIBUTE ARTIST SPECTACULAR is an era-by-era tribute c
 	oncert celebrating the music and magic of Elvis Presley. The concert begin
