@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:90978ebdc5c17ad6faa8da32
 SUMMARY:Jim Henson’s Fraggle Rock: Back to the Rock LIVE
-DTSTAMP:20260928T080913Z
+DTSTAMP:20260929T080420Z
 DTSTART:20261003T180000Z
 DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the 
 	legend of the Celebration Stone – an ancient Fraggle treasure that has the
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bc78721ea0bb769faac8d776
 SUMMARY:Bluey's Big Play
-DTSTAMP:20260928T080913Z
+DTSTAMP:20260929T080420Z
 DTSTART:20270102T160000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -87,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:845a59b9be175cdf2e226042
 SUMMARY:Bluey's Big Play
-DTSTAMP:20260928T080913Z
+DTSTAMP:20260929T080420Z
 DTSTART:20270102T200000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -126,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:961e7ab71dfa8b493c107ce6
 SUMMARY:Bluey's Big Play
-DTSTAMP:20260928T080913Z
+DTSTAMP:20260929T080420Z
 DTSTART:20270103T160000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
