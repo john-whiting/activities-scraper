@@ -6,49 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Arts – Family
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:90978ebdc5c17ad6faa8da32
-SUMMARY:Jim Henson’s Fraggle Rock: Back to the Rock LIVE
-DTSTAMP:20261003T124909Z
-DTSTART:20261003T180000Z
-DESCRIPTION:Gobo\, Red\, Mokey\, Wembley\, and Boober Fraggle discover the 
-	legend of the Celebration Stone – an ancient Fraggle treasure that has the
-	 power to bring everyone together for the greatest party of all time but w
-	as shattered and lost generations ago. As the Fraggles set off on an exhil
-	arating\, adventurous journey exploring exciting new caves within Fraggle 
-	Rock and even beyond\, they discover magic that they never knew existed an
-	d learn to work together to unite the lost pieces of the magical artifact.
-	 Can the Fraggles succeed in their quest to bring the Celebration Stone ba
-	ck to Fraggle Rock so everyone can enjoy the most incredible party in Frag
-	gle history? And\, along the way\, will they find something even more memo
-	rable and heartfelt than they could have ever imagined? Featuring gorgeous
-	 new walk-around versions of the Fraggles\; puppet-sized Doozers\; an appe
-	arance from a giant Gorg\; and exclusive\, new\, wondrous puppet creatures
-	 from the acclaimed Jim Henson’s Creature Shop\, along with fan-favorite s
-	ongs and exciting visual effects\, this all-new musical stage adventure we
-	lcomes audiences on a joyful\, nostalgia-filled trip to Fraggle Rock. Fill
-	ed with music\, laughter\, and imagination\, it’s an unforgettable live ex
-	perience that will have Silly Creatures of all ages dancing in the aisles!
-	 Written and directed by John Tartaglia (Avenue Q\, Shrek the Musical\, St
-	ephen Schwartz’s The Secret Silk)\, this first-ever\, live Fraggle show in
-	cludes fantastic in-theater immersive special effects\, audience interacti
-	vity\, magical heartwarming moments\, hilarious and endearing new characte
-	rs\, and much more to make this stage production perfect for families with
-	 young first-time theater goers and for Fraggle Rock fans who remain young
-	 at heart. a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
-	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } Rock t
-	he Van Food Drive Join the Cincinnati Friars Club and Cincinnati Arts Asso
-	ciation in giving back during Jim Henson's Fr\n\nhttps://www.cincinnatiart
-	s.org/events/detail/fraggle-rock-live
-URL:https://www.cincinnatiarts.org/events/detail/fraggle-rock-live
-LOCATION:Procter & Gamble Hall\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Family
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:bc78721ea0bb769faac8d776
 SUMMARY:Bluey's Big Play
-DTSTAMP:20261003T124909Z
+DTSTAMP:20261004T100503Z
 DTSTART:20270102T160000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -87,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:845a59b9be175cdf2e226042
 SUMMARY:Bluey's Big Play
-DTSTAMP:20261003T124909Z
+DTSTAMP:20261004T100503Z
 DTSTART:20270102T200000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -126,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:961e7ab71dfa8b493c107ce6
 SUMMARY:Bluey's Big Play
-DTSTAMP:20261003T124909Z
+DTSTAMP:20261004T100503Z
 DTSTART:20270103T160000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
