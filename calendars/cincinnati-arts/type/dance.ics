@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:6792303de5262e3b33c2212b
 SUMMARY:A Taste of Ireland — The Irish Music & Dance Sensation
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261101T190000Z
 DESCRIPTION:Direct from off-Broadway and London’s West End\, the internatio
 	nally acclaimed A Taste of Ireland Company comes to the USA with its flags
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 UID:b98ad1070bcfbe93c9b0802e
 SUMMARY:LIVE! In Concert with Over the Rhine and the Cincinnati Symphony Or
 	chestra
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261107T003000Z
 DTEND:20261108T003000Z
 DESCRIPTION:Performance Times November 6\, 2026 7:30PM November 7\, 2026 2:
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f178a423cf188b7d4f0f67f8
 SUMMARY:Mutual Dance Theatre in Up-Close '26
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261204T003000Z
 DESCRIPTION:Surround yourself in an enrapturing modern dance experience Up-
 	Close is Mutual Dance Theatre's own resident company\, performing in the r
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3538db8b196c2cca65fff841
 SUMMARY:Mutual Dance Theatre in Up-Close '26
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261205T003000Z
 DESCRIPTION:Surround yourself in an enrapturing modern dance experience Up-
 	Close is Mutual Dance Theatre's own resident company\, performing in the r
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2bf3988629eb296a8af6f92a
 SUMMARY:Mutual Dance Theatre in Up-Close '26
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261206T003000Z
 DESCRIPTION:Surround yourself in an enrapturing modern dance experience Up-
 	Close is Mutual Dance Theatre's own resident company\, performing in the r
@@ -193,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cd3b6f7cbf3a93f415eb30bf
 SUMMARY:Mutual Dance Theatre in Up-Close '26
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261212T003000Z
 DESCRIPTION:Surround yourself in an enrapturing modern dance experience Up-
 	Close is Mutual Dance Theatre's own resident company\, performing in the r
@@ -234,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d26edfafff24c0fda7cf523e
 SUMMARY:Mutual Dance Theatre in Up-Close '26
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261213T003000Z
 DESCRIPTION:Surround yourself in an enrapturing modern dance experience Up-
 	Close is Mutual Dance Theatre's own resident company\, performing in the r
@@ -275,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:86228ae0200442b8aee97dce
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261205T010000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -301,7 +301,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3497e149a4a9d1234bc406a2
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261205T190000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -327,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:edf186977fcde1f851f8dfe9
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261206T010000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -353,7 +353,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:afe598f0e6ca04d42cb134af
 SUMMARY:The Nutcracker
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20261218T003000Z
 DTEND:20261227T233000Z
 DESCRIPTION:Performance Times December 17\, 2026 7:30PM December 18\, 2026 
@@ -375,7 +375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2902349a5c58c6b09ecb3d8b
 SUMMARY:Romeo and Juliet
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20270213T003000Z
 DTEND:20270221T003000Z
 DESCRIPTION:Performance Times February 12\, 2027 7:30PM February 13\, 2027 
@@ -397,7 +397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:388f3d9f7c8c051e03681938
 SUMMARY:Mutual Dance Theatre presents Boca Tuya of NYC
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20270227T003000Z
 DESCRIPTION:Mutual Dance Theatre and the Jefferson James Contemporary Dance
 	 Theater Series present Boca Tuya of New York City "FULL OF SENSUAL VULNER
@@ -438,7 +438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e332189e0a906ce74cce501c
 SUMMARY:Mutual Dance Theatre presents Boca Tuya of NYC
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20270228T003000Z
 DESCRIPTION:Mutual Dance Theatre and the Jefferson James Contemporary Dance
 	 Theater Series present Boca Tuya of New York City "FULL OF SENSUAL VULNER
@@ -479,7 +479,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8178af809beeb3e3d99caeaf
 SUMMARY:Director’s Vision: Two Voices
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20270402T233000Z
 DTEND:20270404T170000Z
 DESCRIPTION:Performance Times April 2\, 2027 7:30PM April 3\, 2027 2:00PM A
@@ -504,7 +504,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:de547e99652fd11defb6193e
 SUMMARY:The Family Series: Hansel and Gretel
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20270409T223000Z
 DTEND:20270411T183000Z
 DESCRIPTION:Performance Times April 9\, 2027 6:30PM April 10\, 2027 11:00AM
@@ -527,7 +527,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0539946c0277ca0eb986a549
 SUMMARY:Mutual Dance Theatre in Modern Mix '27
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20270430T233000Z
 DESCRIPTION:Mutual Dance Theatre in MODERN MIX '27 PRICES: Starting at $29.
 	 $5 Early Bird Discount for tickets purchased by April 4\, 2027. Seniors/S
@@ -568,7 +568,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:59df698f1655ef260510ca7c
 SUMMARY:Mutual Dance Theatre in Modern Mix '27
-DTSTAMP:20261009T080602Z
+DTSTAMP:20261010T080338Z
 DTSTART:20270501T233000Z
 DESCRIPTION:Mutual Dance Theatre in MODERN MIX '27 PRICES: Starting at $29.
 	 $5 Early Bird Discount for tickets purchased by April 4\, 2027. Seniors/S
