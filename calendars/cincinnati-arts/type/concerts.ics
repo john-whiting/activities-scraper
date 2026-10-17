@@ -6,49 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Arts – Concerts
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:a6d01202242bd4ce32ae62db
-SUMMARY:The Sixties Show
-DTSTAMP:20261016T080350Z
-DTSTART:20261016T233000Z
-DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
-	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } The Si
-	xties Show from New York City is hailed as “The Greatest 1960s Musical Re-
-	Creation Show on Earth!” This popular\, award-winning off-Broadway product
-	ion is a high-energy\, multimedia\, immersive experience that transports a
-	udiences back to the 1960s through a live\, note-for-note re-creation conc
-	ert. The cast features current and former band members of The Who\, The Ra
-	scals\, and John Fogerty's Creedence Clearwater Revival. This cross-genera
-	tional crowd-pleaser has been selling out theaters and performing arts cen
-	ters across the country. The band is widely celebrated for its spot-on\, n
-	ote-for-note performances of iconic hits\, B-sides\, and deep album cuts f
-	rom some of the greatest songs of the 1960s. More than just a concert\, th
-	is high-energy production is a large-scale\, ambitious\, multimedia stage 
-	experience. It is enhanced by time-travel-themed special effects\, narrati
-	on\, authentic ’60s archival audio and newsreel footage\, and a dynamic li
-	ght show. This must-see\, larger-than-life production is nothing short of 
-	awe-inspiring. The band utilizes a state-of-the-art sound system while per
-	forming exclusively on authentic 1960s-era vintage and reissue instruments
-	 – just like the original artists and recordings. Combined with genuine 19
-	60s mod costumes\, this attention to detail adds to the authenticity and i
-	mpact of the performance. All music is performed live\, with no samples\, 
-	backing tracks\, or prerecorded elements of any kind. "An astonishing achi
-	evement – The Sixties Show delivers an unforgettable hit of pure musical a
-	nd storytelling brilliance!” “The music soars\, the visuals dazzle\, and t
-	he crowd can’t stop cheering – this Is a show for the ages!!” “A gorgeous 
-	collision of theater and rock ‘n’ roll – this show doesn’t just recreate h
-	istory... it resurrectsi it!!” " A wholly original theatrical thunderclap 
-	that rips open the timeline – stunning\, \n\nhttps://www.cincinnatiarts.or
-	g/events/detail/the-sixties-show
-URL:https://www.cincinnatiarts.org/events/detail/the-sixties-show
-LOCATION:Procter & Gamble Hall\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Concerts
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:96fcb436814e8e321f448d1f
 SUMMARY:Outlander in Concert: Echoes Through the Highlands
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20261030T233000Z
 DESCRIPTION:Experience the official Outlander in-concert event! A live orch
 	estra performs Bear McCreary’s acclaimed score\, curated by showrunner Mat
@@ -70,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a9586b7213787bdc94971f0
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20261107T180000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -97,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d11409d2e15236f2161d35ea
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20261107T210000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -124,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e8cc66330853af02800175c
 SUMMARY:The Rock Orchestra by Candlelight
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20261119T010000Z
 DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	 Orchestra by Candlelight is set to electrify the USA once again. Prepare 
@@ -149,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9c02a03ef03ee122f25d86b2
 SUMMARY:Happy Holidays with the Mighty Wurlitzer
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20261205T000000Z
 DESCRIPTION:Presented by Friends of Music Hall\, Happy Holidays with the Mi
 	ghty Wurlitzer returns with an enchanting The Night Before Christmas-theme
@@ -182,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4b07c85508cf345756ffdcdf
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20261218T190000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -211,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7ae385245c276f6919f8794
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20261219T003000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -240,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:efff50593da57185a438d336
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20261219T190000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -269,7 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12fa81ed6720701bdc880e16
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20261220T003000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -298,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:452c22e214884d6e5d0edd92
 SUMMARY:William Shakespeare’s Romeo + Juliet Film in Concert
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20270113T003000Z
 DESCRIPTION:Celebrate the 30th anniversary of Baz Luhrmann’s iconic 1996 fi
 	lm with William Shakespeare’s Romeo + Juliet Film in Concert\, a live cine
@@ -327,7 +287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06afd2d816a2b21770a22175
 SUMMARY:Elvis Tribute Artist Spectacular
-DTSTAMP:20261016T080350Z
+DTSTAMP:20261017T080329Z
 DTSTART:20270117T003000Z
 DESCRIPTION:THE ELVIS TRIBUTE ARTIST SPECTACULAR is an era-by-era tribute c
 	oncert celebrating the music and magic of Elvis Presley. The concert begin
