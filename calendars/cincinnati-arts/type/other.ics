@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:b716dbf0adb15be807aa38eb
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261025T080335Z
+DTSTAMP:20261026T080913Z
 DTSTART:20261030T230000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4d030e46d681bb5993c9f2ec
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261025T080335Z
+DTSTAMP:20261026T080913Z
 DTSTART:20261031T010000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3e44f0c04ed5ba4f3612e571
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20261025T080335Z
+DTSTAMP:20261026T080913Z
 DTSTART:20261106T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d6fafbe6b36ee71f4ef16289
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20261025T080335Z
+DTSTAMP:20261026T080913Z
 DTSTART:20261114T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -140,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:910bdfa99fc8dbe7dcff3533
 SUMMARY:Bricks & Beer: Cincinnati Music Hall History and Hops
-DTSTAMP:20261025T080335Z
+DTSTAMP:20261026T080913Z
 DTSTART:20261120T223000Z
 DESCRIPTION:Friends of Music Hall partners with Cincinnati breweries to bri
 	ng you a unique tour experience. Enter the world of late nineteenth-centur
@@ -164,337 +164,9 @@ CATEGORIES:Other
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:d481789501d69aa089581621
-SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20261025T080335Z
-DTSTART:20261025T120000Z
-DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
-	, the premier caffeinated event in the Midwest! With two days of coffee\, 
-	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
-	iss event. Limited capacity. Most time slots will sell out. Ticket prices 
-	include all fees and charges. Please consider adding a donation for Ohio R
-	iver Foundation\, producer of the Cincinnati Coffee Festival. After all\, 
-	Great Water Means Great Coffee! Enter at the time of your ticket and stay 
-	as long as you like. a { text-decoration: none\; color: #464feb\; } tr th\
-	, tr td { border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\
-	; } Coffee Connoisseur Weekend Pass BUY WEEKEND PASS Advance Price $42 Day
-	 Of Price $49 Looking for the ticket that delivers maximum flexibility and
-	 the ultimate festival experience? The Coffee Connoisseur Weekend Pass is 
-	your all‑access pass to a brew‑tiful weekend. With this pass\, you can att
-	end both Saturday and Sunday—no need to choose just one day. Enjoy demos\,
-	 live music\, the Latte Art Throwdown\, tastings\, shopping\, and more eac
-	h day. If one day simply isn’t enough\, come back for round two! Each day 
-	features different music\, different demonstrations\, and new tasting oppo
-	rtunities. Special Events included\, like the Latte Art Throwdown (Saturda
-	y at 2:15 PM) and Coffee & Chocolate Pairing (Sunday at 2:15 PM)\, as well
-	 as all demonstrations and musical performances. Bagels served until 9am. 
-	Daily Experiences & Entry Times ☕ VIP First Pour Advance Price $30 Day Of 
-	Price $37 8:00am VIP First Pour Bagels served until 9:00am It smells like 
-	coffee! Kick off your festival day with early VIP access. VIP First Pour g
-	uests enjoy a calm\, crowd‑free shopping and tasting hour before general a
-	dmission opens. With shorter lines and first pick of specialty chocolates\
-	, coffees\, and artisan treats\, it’s the perfect time to connect with ven
-	dors\, ask questions\, and explore with ease. 🌅 Early Brew Advance Price $
-	23 Day Of Price $29 9:00am Early Brew Start\n\nhttps://www.cincinnatiarts.
-	org/events/detail/cincinnati-coffee-festival-2026
-URL:https://www.cincinnatiarts.org/events/detail/cincinnati-coffee-festival
-	-2026
-LOCATION:Music Hall Ballroom\, Music Hall
-STATUS:CONFIRMED
-CATEGORIES:Other
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:8521b8c59c43cd976cbbae4b
-SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20261025T080335Z
-DTSTART:20261025T130000Z
-DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
-	, the premier caffeinated event in the Midwest! With two days of coffee\, 
-	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
-	iss event. Limited capacity. Most time slots will sell out. Ticket prices 
-	include all fees and charges. Please consider adding a donation for Ohio R
-	iver Foundation\, producer of the Cincinnati Coffee Festival. After all\, 
-	Great Water Means Great Coffee! Enter at the time of your ticket and stay 
-	as long as you like. a { text-decoration: none\; color: #464feb\; } tr th\
-	, tr td { border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\
-	; } Coffee Connoisseur Weekend Pass BUY WEEKEND PASS Advance Price $42 Day
-	 Of Price $49 Looking for the ticket that delivers maximum flexibility and
-	 the ultimate festival experience? The Coffee Connoisseur Weekend Pass is 
-	your all‑access pass to a brew‑tiful weekend. With this pass\, you can att
-	end both Saturday and Sunday—no need to choose just one day. Enjoy demos\,
-	 live music\, the Latte Art Throwdown\, tastings\, shopping\, and more eac
-	h day. If one day simply isn’t enough\, come back for round two! Each day 
-	features different music\, different demonstrations\, and new tasting oppo
-	rtunities. Special Events included\, like the Latte Art Throwdown (Saturda
-	y at 2:15 PM) and Coffee & Chocolate Pairing (Sunday at 2:15 PM)\, as well
-	 as all demonstrations and musical performances. Bagels served until 9am. 
-	Daily Experiences & Entry Times ☕ VIP First Pour Advance Price $30 Day Of 
-	Price $37 8:00am VIP First Pour Bagels served until 9:00am It smells like 
-	coffee! Kick off your festival day with early VIP access. VIP First Pour g
-	uests enjoy a calm\, crowd‑free shopping and tasting hour before general a
-	dmission opens. With shorter lines and first pick of specialty chocolates\
-	, coffees\, and artisan treats\, it’s the perfect time to connect with ven
-	dors\, ask questions\, and explore with ease. 🌅 Early Brew Advance Price $
-	23 Day Of Price $29 9:00am Early Brew Start\n\nhttps://www.cincinnatiarts.
-	org/events/detail/cincinnati-coffee-festival-2026
-URL:https://www.cincinnatiarts.org/events/detail/cincinnati-coffee-festival
-	-2026
-LOCATION:Music Hall Ballroom\, Music Hall
-STATUS:CONFIRMED
-CATEGORIES:Other
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:2c634c8146782bc0d92ca8ca
-SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20261025T080335Z
-DTSTART:20261025T140000Z
-DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
-	, the premier caffeinated event in the Midwest! With two days of coffee\, 
-	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
-	iss event. Limited capacity. Most time slots will sell out. Ticket prices 
-	include all fees and charges. Please consider adding a donation for Ohio R
-	iver Foundation\, producer of the Cincinnati Coffee Festival. After all\, 
-	Great Water Means Great Coffee! Enter at the time of your ticket and stay 
-	as long as you like. a { text-decoration: none\; color: #464feb\; } tr th\
-	, tr td { border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\
-	; } Coffee Connoisseur Weekend Pass BUY WEEKEND PASS Advance Price $42 Day
-	 Of Price $49 Looking for the ticket that delivers maximum flexibility and
-	 the ultimate festival experience? The Coffee Connoisseur Weekend Pass is 
-	your all‑access pass to a brew‑tiful weekend. With this pass\, you can att
-	end both Saturday and Sunday—no need to choose just one day. Enjoy demos\,
-	 live music\, the Latte Art Throwdown\, tastings\, shopping\, and more eac
-	h day. If one day simply isn’t enough\, come back for round two! Each day 
-	features different music\, different demonstrations\, and new tasting oppo
-	rtunities. Special Events included\, like the Latte Art Throwdown (Saturda
-	y at 2:15 PM) and Coffee & Chocolate Pairing (Sunday at 2:15 PM)\, as well
-	 as all demonstrations and musical performances. Bagels served until 9am. 
-	Daily Experiences & Entry Times ☕ VIP First Pour Advance Price $30 Day Of 
-	Price $37 8:00am VIP First Pour Bagels served until 9:00am It smells like 
-	coffee! Kick off your festival day with early VIP access. VIP First Pour g
-	uests enjoy a calm\, crowd‑free shopping and tasting hour before general a
-	dmission opens. With shorter lines and first pick of specialty chocolates\
-	, coffees\, and artisan treats\, it’s the perfect time to connect with ven
-	dors\, ask questions\, and explore with ease. 🌅 Early Brew Advance Price $
-	23 Day Of Price $29 9:00am Early Brew Start\n\nhttps://www.cincinnatiarts.
-	org/events/detail/cincinnati-coffee-festival-2026
-URL:https://www.cincinnatiarts.org/events/detail/cincinnati-coffee-festival
-	-2026
-LOCATION:Music Hall Ballroom\, Music Hall
-STATUS:CONFIRMED
-CATEGORIES:Other
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:e01ada7b30aa44e05226f979
-SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20261025T080335Z
-DTSTART:20261025T150000Z
-DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
-	, the premier caffeinated event in the Midwest! With two days of coffee\, 
-	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
-	iss event. Limited capacity. Most time slots will sell out. Ticket prices 
-	include all fees and charges. Please consider adding a donation for Ohio R
-	iver Foundation\, producer of the Cincinnati Coffee Festival. After all\, 
-	Great Water Means Great Coffee! Enter at the time of your ticket and stay 
-	as long as you like. a { text-decoration: none\; color: #464feb\; } tr th\
-	, tr td { border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\
-	; } Coffee Connoisseur Weekend Pass BUY WEEKEND PASS Advance Price $42 Day
-	 Of Price $49 Looking for the ticket that delivers maximum flexibility and
-	 the ultimate festival experience? The Coffee Connoisseur Weekend Pass is 
-	your all‑access pass to a brew‑tiful weekend. With this pass\, you can att
-	end both Saturday and Sunday—no need to choose just one day. Enjoy demos\,
-	 live music\, the Latte Art Throwdown\, tastings\, shopping\, and more eac
-	h day. If one day simply isn’t enough\, come back for round two! Each day 
-	features different music\, different demonstrations\, and new tasting oppo
-	rtunities. Special Events included\, like the Latte Art Throwdown (Saturda
-	y at 2:15 PM) and Coffee & Chocolate Pairing (Sunday at 2:15 PM)\, as well
-	 as all demonstrations and musical performances. Bagels served until 9am. 
-	Daily Experiences & Entry Times ☕ VIP First Pour Advance Price $30 Day Of 
-	Price $37 8:00am VIP First Pour Bagels served until 9:00am It smells like 
-	coffee! Kick off your festival day with early VIP access. VIP First Pour g
-	uests enjoy a calm\, crowd‑free shopping and tasting hour before general a
-	dmission opens. With shorter lines and first pick of specialty chocolates\
-	, coffees\, and artisan treats\, it’s the perfect time to connect with ven
-	dors\, ask questions\, and explore with ease. 🌅 Early Brew Advance Price $
-	23 Day Of Price $29 9:00am Early Brew Start\n\nhttps://www.cincinnatiarts.
-	org/events/detail/cincinnati-coffee-festival-2026
-URL:https://www.cincinnatiarts.org/events/detail/cincinnati-coffee-festival
-	-2026
-LOCATION:Music Hall Ballroom\, Music Hall
-STATUS:CONFIRMED
-CATEGORIES:Other
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:667d8fac2d4ba7ee9cbdd848
-SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20261025T080335Z
-DTSTART:20261025T160000Z
-DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
-	, the premier caffeinated event in the Midwest! With two days of coffee\, 
-	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
-	iss event. Limited capacity. Most time slots will sell out. Ticket prices 
-	include all fees and charges. Please consider adding a donation for Ohio R
-	iver Foundation\, producer of the Cincinnati Coffee Festival. After all\, 
-	Great Water Means Great Coffee! Enter at the time of your ticket and stay 
-	as long as you like. a { text-decoration: none\; color: #464feb\; } tr th\
-	, tr td { border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\
-	; } Coffee Connoisseur Weekend Pass BUY WEEKEND PASS Advance Price $42 Day
-	 Of Price $49 Looking for the ticket that delivers maximum flexibility and
-	 the ultimate festival experience? The Coffee Connoisseur Weekend Pass is 
-	your all‑access pass to a brew‑tiful weekend. With this pass\, you can att
-	end both Saturday and Sunday—no need to choose just one day. Enjoy demos\,
-	 live music\, the Latte Art Throwdown\, tastings\, shopping\, and more eac
-	h day. If one day simply isn’t enough\, come back for round two! Each day 
-	features different music\, different demonstrations\, and new tasting oppo
-	rtunities. Special Events included\, like the Latte Art Throwdown (Saturda
-	y at 2:15 PM) and Coffee & Chocolate Pairing (Sunday at 2:15 PM)\, as well
-	 as all demonstrations and musical performances. Bagels served until 9am. 
-	Daily Experiences & Entry Times ☕ VIP First Pour Advance Price $30 Day Of 
-	Price $37 8:00am VIP First Pour Bagels served until 9:00am It smells like 
-	coffee! Kick off your festival day with early VIP access. VIP First Pour g
-	uests enjoy a calm\, crowd‑free shopping and tasting hour before general a
-	dmission opens. With shorter lines and first pick of specialty chocolates\
-	, coffees\, and artisan treats\, it’s the perfect time to connect with ven
-	dors\, ask questions\, and explore with ease. 🌅 Early Brew Advance Price $
-	23 Day Of Price $29 9:00am Early Brew Start\n\nhttps://www.cincinnatiarts.
-	org/events/detail/cincinnati-coffee-festival-2026
-URL:https://www.cincinnatiarts.org/events/detail/cincinnati-coffee-festival
-	-2026
-LOCATION:Music Hall Ballroom\, Music Hall
-STATUS:CONFIRMED
-CATEGORIES:Other
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:7f9cb15e8fed6780fd55a20c
-SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20261025T080335Z
-DTSTART:20261025T170000Z
-DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
-	, the premier caffeinated event in the Midwest! With two days of coffee\, 
-	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
-	iss event. Limited capacity. Most time slots will sell out. Ticket prices 
-	include all fees and charges. Please consider adding a donation for Ohio R
-	iver Foundation\, producer of the Cincinnati Coffee Festival. After all\, 
-	Great Water Means Great Coffee! Enter at the time of your ticket and stay 
-	as long as you like. a { text-decoration: none\; color: #464feb\; } tr th\
-	, tr td { border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\
-	; } Coffee Connoisseur Weekend Pass BUY WEEKEND PASS Advance Price $42 Day
-	 Of Price $49 Looking for the ticket that delivers maximum flexibility and
-	 the ultimate festival experience? The Coffee Connoisseur Weekend Pass is 
-	your all‑access pass to a brew‑tiful weekend. With this pass\, you can att
-	end both Saturday and Sunday—no need to choose just one day. Enjoy demos\,
-	 live music\, the Latte Art Throwdown\, tastings\, shopping\, and more eac
-	h day. If one day simply isn’t enough\, come back for round two! Each day 
-	features different music\, different demonstrations\, and new tasting oppo
-	rtunities. Special Events included\, like the Latte Art Throwdown (Saturda
-	y at 2:15 PM) and Coffee & Chocolate Pairing (Sunday at 2:15 PM)\, as well
-	 as all demonstrations and musical performances. Bagels served until 9am. 
-	Daily Experiences & Entry Times ☕ VIP First Pour Advance Price $30 Day Of 
-	Price $37 8:00am VIP First Pour Bagels served until 9:00am It smells like 
-	coffee! Kick off your festival day with early VIP access. VIP First Pour g
-	uests enjoy a calm\, crowd‑free shopping and tasting hour before general a
-	dmission opens. With shorter lines and first pick of specialty chocolates\
-	, coffees\, and artisan treats\, it’s the perfect time to connect with ven
-	dors\, ask questions\, and explore with ease. 🌅 Early Brew Advance Price $
-	23 Day Of Price $29 9:00am Early Brew Start\n\nhttps://www.cincinnatiarts.
-	org/events/detail/cincinnati-coffee-festival-2026
-URL:https://www.cincinnatiarts.org/events/detail/cincinnati-coffee-festival
-	-2026
-LOCATION:Music Hall Ballroom\, Music Hall
-STATUS:CONFIRMED
-CATEGORIES:Other
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:92513e6ef6412061cedc0788
-SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20261025T080335Z
-DTSTART:20261025T180000Z
-DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
-	, the premier caffeinated event in the Midwest! With two days of coffee\, 
-	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
-	iss event. Limited capacity. Most time slots will sell out. Ticket prices 
-	include all fees and charges. Please consider adding a donation for Ohio R
-	iver Foundation\, producer of the Cincinnati Coffee Festival. After all\, 
-	Great Water Means Great Coffee! Enter at the time of your ticket and stay 
-	as long as you like. a { text-decoration: none\; color: #464feb\; } tr th\
-	, tr td { border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\
-	; } Coffee Connoisseur Weekend Pass BUY WEEKEND PASS Advance Price $42 Day
-	 Of Price $49 Looking for the ticket that delivers maximum flexibility and
-	 the ultimate festival experience? The Coffee Connoisseur Weekend Pass is 
-	your all‑access pass to a brew‑tiful weekend. With this pass\, you can att
-	end both Saturday and Sunday—no need to choose just one day. Enjoy demos\,
-	 live music\, the Latte Art Throwdown\, tastings\, shopping\, and more eac
-	h day. If one day simply isn’t enough\, come back for round two! Each day 
-	features different music\, different demonstrations\, and new tasting oppo
-	rtunities. Special Events included\, like the Latte Art Throwdown (Saturda
-	y at 2:15 PM) and Coffee & Chocolate Pairing (Sunday at 2:15 PM)\, as well
-	 as all demonstrations and musical performances. Bagels served until 9am. 
-	Daily Experiences & Entry Times ☕ VIP First Pour Advance Price $30 Day Of 
-	Price $37 8:00am VIP First Pour Bagels served until 9:00am It smells like 
-	coffee! Kick off your festival day with early VIP access. VIP First Pour g
-	uests enjoy a calm\, crowd‑free shopping and tasting hour before general a
-	dmission opens. With shorter lines and first pick of specialty chocolates\
-	, coffees\, and artisan treats\, it’s the perfect time to connect with ven
-	dors\, ask questions\, and explore with ease. 🌅 Early Brew Advance Price $
-	23 Day Of Price $29 9:00am Early Brew Start\n\nhttps://www.cincinnatiarts.
-	org/events/detail/cincinnati-coffee-festival-2026
-URL:https://www.cincinnatiarts.org/events/detail/cincinnati-coffee-festival
-	-2026
-LOCATION:Music Hall Ballroom\, Music Hall
-STATUS:CONFIRMED
-CATEGORIES:Other
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:c28c202e96fd714a9988f1fc
-SUMMARY:Cincinnati Coffee Festival 2026 
-DTSTAMP:20261025T080335Z
-DTSTART:20261025T190000Z
-DESCRIPTION:Deja brew!! We’re back for the 2026 Cincinnati Coffee Festival\
-	, the premier caffeinated event in the Midwest! With two days of coffee\, 
-	tea\, chocolate\, demonstrations\, latte art\, and fun\, this is a can’t-m
-	iss event. Limited capacity. Most time slots will sell out. Ticket prices 
-	include all fees and charges. Please consider adding a donation for Ohio R
-	iver Foundation\, producer of the Cincinnati Coffee Festival. After all\, 
-	Great Water Means Great Coffee! Enter at the time of your ticket and stay 
-	as long as you like. a { text-decoration: none\; color: #464feb\; } tr th\
-	, tr td { border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\
-	; } Coffee Connoisseur Weekend Pass BUY WEEKEND PASS Advance Price $42 Day
-	 Of Price $49 Looking for the ticket that delivers maximum flexibility and
-	 the ultimate festival experience? The Coffee Connoisseur Weekend Pass is 
-	your all‑access pass to a brew‑tiful weekend. With this pass\, you can att
-	end both Saturday and Sunday—no need to choose just one day. Enjoy demos\,
-	 live music\, the Latte Art Throwdown\, tastings\, shopping\, and more eac
-	h day. If one day simply isn’t enough\, come back for round two! Each day 
-	features different music\, different demonstrations\, and new tasting oppo
-	rtunities. Special Events included\, like the Latte Art Throwdown (Saturda
-	y at 2:15 PM) and Coffee & Chocolate Pairing (Sunday at 2:15 PM)\, as well
-	 as all demonstrations and musical performances. Bagels served until 9am. 
-	Daily Experiences & Entry Times ☕ VIP First Pour Advance Price $30 Day Of 
-	Price $37 8:00am VIP First Pour Bagels served until 9:00am It smells like 
-	coffee! Kick off your festival day with early VIP access. VIP First Pour g
-	uests enjoy a calm\, crowd‑free shopping and tasting hour before general a
-	dmission opens. With shorter lines and first pick of specialty chocolates\
-	, coffees\, and artisan treats\, it’s the perfect time to connect with ven
-	dors\, ask questions\, and explore with ease. 🌅 Early Brew Advance Price $
-	23 Day Of Price $29 9:00am Early Brew Start\n\nhttps://www.cincinnatiarts.
-	org/events/detail/cincinnati-coffee-festival-2026
-URL:https://www.cincinnatiarts.org/events/detail/cincinnati-coffee-festival
-	-2026
-LOCATION:Music Hall Ballroom\, Music Hall
-STATUS:CONFIRMED
-CATEGORIES:Other
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:adf916088e40be5564a989a2
 SUMMARY:Stern Lecture Series: Atul Gawande\, M.D.
-DTSTAMP:20261025T080335Z
+DTSTAMP:20261026T080913Z
 DTSTART:20261027T230000Z
 DESCRIPTION:The Mary S. Stern Lecture with Atul Gawande\, M.D.: Rethinking 
 	Life\, Care\, and Dignity at the End What does it mean to live well — righ
@@ -526,7 +198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ad44cb8d291c5b49792a5f84
 SUMMARY:An Evening with David Sedaris
-DTSTAMP:20261025T080335Z
+DTSTAMP:20261026T080913Z
 DTSTART:20261122T003000Z
 DESCRIPTION:David Sedaris\, America’s best-selling humorist and social sati
 	rist\, returns following publication of his most recent book of short stor
@@ -544,7 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a31f6511612cfc1675d960c
 SUMMARY:The Price is Right Live
-DTSTAMP:20261025T080335Z
+DTSTAMP:20261026T080913Z
 DTSTART:20270213T200000Z
 DESCRIPTION:THE PRICE IS RIGHT LIVE™ is the hit interactive stage show that
 	 gives eligible individuals the chance to hear their names called and “Com
@@ -577,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1df72e9d4c072b498086c0cb
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20261025T080335Z
+DTSTAMP:20261026T080913Z
 DTSTART:20270306T210000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
@@ -601,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3a5d5773c25fb40cdae7928e
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20261025T080335Z
+DTSTAMP:20261026T080913Z
 DTSTART:20270307T010000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
