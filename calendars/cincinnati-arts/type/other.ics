@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:b716dbf0adb15be807aa38eb
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261027T080352Z
+DTSTAMP:20261028T080324Z
 DTSTART:20261030T230000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4d030e46d681bb5993c9f2ec
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261027T080352Z
+DTSTAMP:20261028T080324Z
 DTSTART:20261031T010000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -76,41 +76,9 @@ CATEGORIES:Other
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:adf916088e40be5564a989a2
-SUMMARY:Stern Lecture Series: Atul Gawande\, M.D.
-DTSTAMP:20261027T080352Z
-DTSTART:20261027T230000Z
-DESCRIPTION:The Mary S. Stern Lecture with Atul Gawande\, M.D.: Rethinking 
-	Life\, Care\, and Dignity at the End What does it mean to live well — righ
-	t to the very end? Bestselling author\, acclaimed surgeon\, and public hea
-	lth leader Atul Gawande\, M.D.\, comes to Cincinnati for a powerful evenin
-	g exploring how medicine\, families\, and communities can better support q
-	uality of life in our most vulnerable moments. On Tuesday\, October 27\, 2
-	026\, at 7 p.m.\, the Cincinnati & Hamilton County Public Library will pre
-	sent The Mary S. Stern Lecture with Atul Gawande\, M.D. at the Aronoff Cen
-	ter for the Arts\, followed by a book signing. This ticketed event is made
-	 possible through an endowment to the The Library Foundation. Drawing from
-	 his groundbreaking book Being Mortal\, Gawande challenges how we think ab
-	out aging\, serious illness\, and end-of-life care — arguing that comfort\
-	, autonomy\, and human connection should be at the center of medical decis
-	ion-making. With clarity\, compassion\, and storytelling that resonates fa
-	r beyond medicine\, he invites audiences to consider how we can ensure not
-	 just a longer life\, but a better one. This conversation is relevant for 
-	caregivers\, healthcare professionals\, patients\, families\, and anyone n
-	avigating complex choices about care\, aging\, or what matters most at the
-	 end of life. To learn more about the Stern Lecture and Dr. Gawande\, and 
-	to see booklists and events tied to this event\, visit www.chpl.org/stern.
-	\n\nhttps://www.cincinnatiarts.org/events/detail/dr-atul-gawande
-URL:https://www.cincinnatiarts.org/events/detail/dr-atul-gawande
-LOCATION:Procter & Gamble Hall\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Other
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:3e44f0c04ed5ba4f3612e571
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20261027T080352Z
+DTSTAMP:20261028T080324Z
 DTSTART:20261106T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -141,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d6fafbe6b36ee71f4ef16289
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20261027T080352Z
+DTSTAMP:20261028T080324Z
 DTSTART:20261114T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -172,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:910bdfa99fc8dbe7dcff3533
 SUMMARY:Bricks & Beer: Cincinnati Music Hall History and Hops
-DTSTAMP:20261027T080352Z
+DTSTAMP:20261028T080324Z
 DTSTART:20261120T223000Z
 DESCRIPTION:Friends of Music Hall partners with Cincinnati breweries to bri
 	ng you a unique tour experience. Enter the world of late nineteenth-centur
@@ -198,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ad44cb8d291c5b49792a5f84
 SUMMARY:An Evening with David Sedaris
-DTSTAMP:20261027T080352Z
+DTSTAMP:20261028T080324Z
 DTSTART:20261122T003000Z
 DESCRIPTION:David Sedaris\, America’s best-selling humorist and social sati
 	rist\, returns following publication of his most recent book of short stor
@@ -216,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a31f6511612cfc1675d960c
 SUMMARY:The Price is Right Live
-DTSTAMP:20261027T080352Z
+DTSTAMP:20261028T080324Z
 DTSTART:20270213T200000Z
 DESCRIPTION:THE PRICE IS RIGHT LIVE™ is the hit interactive stage show that
 	 gives eligible individuals the chance to hear their names called and “Com
@@ -249,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1df72e9d4c072b498086c0cb
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20261027T080352Z
+DTSTAMP:20261028T080324Z
 DTSTART:20270306T210000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
@@ -273,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3a5d5773c25fb40cdae7928e
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20261027T080352Z
+DTSTAMP:20261028T080324Z
 DTSTART:20270307T010000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
