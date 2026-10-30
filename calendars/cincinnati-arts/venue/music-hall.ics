@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:b716dbf0adb15be807aa38eb
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261030T230000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4d030e46d681bb5993c9f2ec
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261031T010000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ef75dd869ad4bfdfa3eb74ac
 SUMMARY:Gil Shaham Plays Tchaikovsky
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261030T150000Z
 DTEND:20261031T233000Z
 DESCRIPTION:Performance Times October 30\, 2026 11:00AM October 31\, 2026 7
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3e44f0c04ed5ba4f3612e571
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261106T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -138,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d6fafbe6b36ee71f4ef16289
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261114T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 UID:b98ad1070bcfbe93c9b0802e
 SUMMARY:LIVE! In Concert with Over the Rhine and the Cincinnati Symphony Or
 	chestra
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261107T003000Z
 DTEND:20261108T003000Z
 DESCRIPTION:Performance Times November 6\, 2026 7:30PM November 7\, 2026 2:
@@ -191,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7a82c8c2c36d9474fa491c99
 SUMMARY:Louis Langrée Conducts Ravel
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261114T003000Z
 DTEND:20261115T003000Z
 DESCRIPTION:Performance Times November 13\, 2026 7:30PM November 14\, 2026 
@@ -222,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:910bdfa99fc8dbe7dcff3533
 SUMMARY:Bricks & Beer: Cincinnati Music Hall History and Hops
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261120T223000Z
 DESCRIPTION:Friends of Music Hall partners with Cincinnati breweries to bri
 	ng you a unique tour experience. Enter the world of late nineteenth-centur
@@ -248,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2a5f9364d6346c487c5b7577
 SUMMARY:Strauss Spectacular
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261122T003000Z
 DTEND:20261122T190000Z
 DESCRIPTION:Performance Times November 21\, 2026 7:30PM November 22\, 2026 
@@ -276,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:54d468efb0a0d8f2d4c6ab74
 SUMMARY:Disney's The Muppet Christmas Carol in Concert Live to Film
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261129T003000Z
 DTEND:20261129T190000Z
 DESCRIPTION:Performance Times November 28\, 2026 7:30PM November 29\, 2026 
@@ -302,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:688c6b4d8c750f33674d90eb
 SUMMARY:Conrad Tao\, Mozart & Prokofiev
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261204T160000Z
 DTEND:20261206T003000Z
 DESCRIPTION:Performance Times December 4\, 2026 11:00AM December 5\, 2026 7
@@ -331,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9c02a03ef03ee122f25d86b2
 SUMMARY:Happy Holidays with the Mighty Wurlitzer
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261205T000000Z
 DESCRIPTION:Presented by Friends of Music Hall\, Happy Holidays with the Mi
 	ghty Wurlitzer returns with an enchanting The Night Before Christmas-theme
@@ -364,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:32f833a88f1a592b3b47217c
 SUMMARY:Holiday Pops
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261211T160000Z
 DTEND:20261214T000000Z
 DESCRIPTION:Performance Times December 11\, 2026 11:00AM December 11\, 2026
@@ -387,9 +387,49 @@ STATUS:CONFIRMED
 CATEGORIES:Classical Music
 END:VEVENT
 BEGIN:VEVENT
+UID:8d67b0b8628db36f73caafdd
+SUMMARY:Winter Ball 2026
+DTSTAMP:20261030T080310Z
+DTSTART:20261213T010000Z
+DESCRIPTION:Join USA Dance Cincinnati for a magical evening of ballroom dan
+	cing at the beautiful Music Hall Ballroom as we celebrate the holiday seas
+	on with “Rocking Around the Christmas Tree!" Come dressed to impress in yo
+	ur formal or semi-formal attire and enjoy an enchanting evening filled wit
+	h music\, dancing\, holiday sparkle\, and the delight of friends—both new 
+	and old. Let DJ Ed Amrein keep your heart and feet moving all night long w
+	ith wonderful music for dancing and a festive atmosphere you won’t want to
+	 miss. A special highlight of the evening will be an exciting performance 
+	by Maura Garuccio & Przemek Fokt-Shierecki. Their artistry\, connection\, 
+	musicality\, and stage presence will bring an extra touch of enchantment t
+	o an already unforgettable night. Be sure to make this performance part of
+	 your Winter Ball experience! Attire: Formal or Semi-Formal Snacks/Drinks:
+	 Concessions will be available for purchase. While outside food and bevera
+	ges are not allowed\, guests may bring empty water bottles to fill at the 
+	venue. Seating: This event is GENERAL SEATING. If you have purchased ticke
+	ts and have a Group of 8 or more and would like to reserve a table\, pleas
+	e click HERE. Additional information can be found at www.usadancecincinnat
+	i.org/winterball. Doors: Doors will open at 7:30 PM Questions: Brenda Karr
+	 at usadance2006@gmail.com ✨ Come celebrate the season\, share the joy of 
+	dance\, and Rock Around the Christmas Tree with USA Dance Cincinnati! Perf
+	ormer Bios Maura Garuccio and Przemek “Shem” Fokt-Skierecki bring together
+	 decades of international experience\, artistry\, and passion for ballroom
+	 dance. Born in Brindisi\, Italy\, Maura is an internationally trained pro
+	fessional dancer\, coach\, and founder of International Ballroom Academy. 
+	She earned the prestigious title of Italian Champion in International Stan
+	dard in 2012 and has since received numerous teaching honors\, including T
+	op Female Teacher in the United States and Top Female Teacher in the Globa
+	l Dancesport Series. Known for\n\nhttps://www.cincinnatiarts.org/events/de
+	tail/winter-ball-26
+URL:https://www.cincinnatiarts.org/events/detail/winter-ball-26
+LOCATION:Music Hall Ballroom\, Music Hall
+STATUS:CONFIRMED
+CATEGORIES:Dance
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:afe598f0e6ca04d42cb134af
 SUMMARY:The Nutcracker
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20261218T003000Z
 DTEND:20261227T233000Z
 DESCRIPTION:Performance Times December 17\, 2026 7:30PM December 18\, 2026 
@@ -411,7 +451,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:660fbf2e1299d9715ca8e88b
 SUMMARY:NYE: Dancing in the Street: Music of Motown
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270101T010000Z
 DTEND:20270101T010000Z
 DESCRIPTION:Performance Times December 31\, 2026 8:00PM On New Year’s Eve\,
@@ -440,7 +480,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5296f3ec8e6313861fa8b4f9
 SUMMARY:Hook in Concert
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270103T003000Z
 DTEND:20270103T190000Z
 DESCRIPTION:Performance Times January 2\, 2027 7:30PM January 3\, 2027 2:00
@@ -467,7 +507,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dcb26b7738a8ebe9239f46cb
 SUMMARY:Cristi Conducts Brahms Symphony No. 3
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270109T003000Z
 DTEND:20270110T003000Z
 DESCRIPTION:Performance Times January 8\, 2027 7:30PM January 9\, 2027 7:30
@@ -497,7 +537,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a4261f833af55f95050a7c2
 SUMMARY:Come As You Are
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270115T160000Z
 DTEND:20270117T003000Z
 DESCRIPTION:Performance Times January 15\, 2027 11:00AM January 16\, 2027 7
@@ -526,7 +566,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3c0142abe120ff785dda0909
 SUMMARY:Don Quixote & Enescu Symphony No. 3
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270123T003000Z
 DTEND:20270124T003000Z
 DESCRIPTION:Performance Times January 22\, 2027 7:30PM January 23\, 2027 7:
@@ -557,7 +597,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:918d37f58f16fe79079b118a
 SUMMARY:A. R. Rahman
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270126T003000Z
 DTEND:20270127T003000Z
 DESCRIPTION:Performance Times January 25\, 2027 7:30PM January 26\, 2027 7:
@@ -580,7 +620,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6cc5885b50ee592b800e726a
 SUMMARY:Stravinsky X Kendrick Lamar
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270130T003000Z
 DTEND:20270131T003000Z
 DESCRIPTION:Performance Times January 29\, 2027 7:30PM January 30\, 2027 7:
@@ -606,7 +646,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0063e841388d6d1c73867a96
 SUMMARY:Tchaikovsky & Bruckner: Epic Romance
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270205T160000Z
 DTEND:20270207T003000Z
 DESCRIPTION:Performance Times Feburary 5\, 2027 11:00AM February 6\, 2027 7
@@ -632,7 +672,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2902349a5c58c6b09ecb3d8b
 SUMMARY:Romeo and Juliet
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270213T003000Z
 DTEND:20270221T003000Z
 DESCRIPTION:Performance Times February 12\, 2027 7:30PM February 13\, 2027 
@@ -654,7 +694,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:da4059c5efb1423162aeb90e
 SUMMARY:Beethoven & Berio
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270228T003000Z
 DTEND:20270228T190000Z
 DESCRIPTION:Performance Times February 27\, 2027 7:30PM February 28\, 2027 
@@ -682,7 +722,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7189fa248f96bf2d52c36e52
 SUMMARY:Extraordinary Women
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270306T003000Z
 DTEND:20270307T003000Z
 DESCRIPTION:Performance Times March 5\, 2027 7:30PM March 6\, 2027 7:30PM C
@@ -714,7 +754,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:467e2eef156de6a1957e1cc4
 SUMMARY:Bach St. Matthew Passion
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270314T003000Z
 DTEND:20270314T180000Z
 DESCRIPTION:Performance Times March 13\, 2027 7:30PM March 14\, 2027 2:00PM
@@ -741,7 +781,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecf1f628af23ecb6546b7fea
 SUMMARY:Billy Joel Songbook by Tony DeSare
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270319T233000Z
 DTEND:20270321T180000Z
 DESCRIPTION:Performance Times March 19\, 2027 7:30PM March 20\, 2027 7:30PM
@@ -768,7 +808,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f0c096dd509768338e4c2212
 SUMMARY:The Uninhabited Island
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270402T150000Z
 DTEND:20270403T233000Z
 DESCRIPTION:Performance Times April 2\, 2027 11:00AM April 3\, 2027 7:30PM 
@@ -795,7 +835,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:796fc1ea08838768595630c7
 SUMMARY:Play Ball!
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270403T143000Z
 DTEND:20270403T143000Z
 DESCRIPTION:Performance Times April 3\, 2027 10:30AM Step up to the plate f
@@ -817,7 +857,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:42d645323c5c8bea5b219f1c
 SUMMARY:Special Event! Lang Lang Plays Rachmaninoff
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270407T233000Z
 DTEND:20270407T233000Z
 DESCRIPTION:Performance Times April 7\, 2027 7:30PM A once-in-a-generation 
@@ -841,7 +881,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:44b7508742e59a6d8ee39164
 SUMMARY:Mozart & Prokofiev
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270410T233000Z
 DTEND:20270411T180000Z
 DESCRIPTION:Performance Times April 10\, 2027 7:30PM April 11\, 2027 2:00PM
@@ -870,7 +910,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1a9ec0833788794efa7c4fd5
 SUMMARY:Classical Roots
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270417T233000Z
 DTEND:20270417T233000Z
 DESCRIPTION:Performance Times April 17\, 2027 7:30PM For more than two deca
@@ -896,7 +936,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3760054df62071f5ac77e30b
 SUMMARY:Rachmaninoff Symphonic Dances
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270423T150000Z
 DTEND:20270424T233000Z
 DESCRIPTION:Performance Times April 23\, 2027 11:00AM April 24\, 2027 7:30P
@@ -928,7 +968,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5eb1dcdbfda9ed439c95a18b
 SUMMARY:American Originals: Bluegrass Summit
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270430T233000Z
 DTEND:20270502T180000Z
 DESCRIPTION:Performance Times April 30\, 2027 7:30PM May 1\, 2027 7:30PM Ma
@@ -957,7 +997,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b8cb5b9747b8b5eb5a55c7d2
 SUMMARY:May the Fourth: The Music of Star Wars
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270504T233000Z
 DTEND:20270504T233000Z
 DESCRIPTION:Performance Times May 4\, 2027 7:30PM May the Force be with you
@@ -981,7 +1021,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dd60d958f47766e85acc8e53
 SUMMARY:Cristi Conducts Mahler Symphony No. 9
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270508T233000Z
 DTEND:20270509T180000Z
 DESCRIPTION:Performance Times May 8\, 2027 7:30PM May 9\, 2027 2:00PM Mahle
@@ -1005,7 +1045,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:308f9c8f5b4136a1291ec280
 SUMMARY:Ray Chen\, Korngold & Shostakovich
-DTSTAMP:20261029T080327Z
+DTSTAMP:20261030T080310Z
 DTSTART:20270514T233000Z
 DTEND:20270515T233000Z
 DESCRIPTION:Performance Times May 14\, 2027 7:30PM May 15\, 2027 7:30PM Eac
