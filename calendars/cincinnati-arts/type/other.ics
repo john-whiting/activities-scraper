@@ -6,10 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Arts – Other
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:b716dbf0adb15be807aa38eb
+UID:9807949f59fa133cf85d8ade
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261030T080311Z
-DTSTART:20261030T230000Z
+DTSTAMP:20261031T080317Z
+DTSTART:20261113T010000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
 	 Landmark since 1975. It's also well known to paranormal enthusiasts as on
@@ -41,10 +41,45 @@ CATEGORIES:Other
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:4d030e46d681bb5993c9f2ec
+UID:7b837540abff5743f92a36ee
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261030T080311Z
-DTSTART:20261031T010000Z
+DTSTAMP:20261031T080317Z
+DTSTART:20261231T010000Z
+DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
+	e of Cincinnati's most iconic buildings and a designated National Historic
+	 Landmark since 1975. It's also well known to paranormal enthusiasts as on
+	e of the nation's most active sites\, with occurrences reported from the e
+	arly 1800s. Built upon the grounds of an old potter's field and purported 
+	to be haunted\, Travel Channel lists Music Hall as one of the most terrify
+	ing places in America. Additionally\, the building was featured in the Hal
+	loween 2014 episode of the TV show Ghost Hunters. For those fascinated by 
+	the history of this unique venue\, the Friends of Music Hall and Cincinnat
+	i Arts Association host special after-hours tours to show you a side of Mu
+	sic Hall not often seen by patrons attending performances. Tours include t
+	he following: • Knowledgeable guides from Friends of Music Hall relate the
+	 history of Music Hall's founding and evolution with additional stories ab
+	out the firsthand experiences of visitors and staff past and present. • To
+	urs will see public and private areas of the building not open to the typi
+	cal concertgoer. • Each tour is approximately 90 minutes long. Friends of 
+	Music Hall Frequently Asked Questions By purchasing a ticket you are also 
+	agreeing to certain terms and conditions in connection with the Tour. Part
+	icipants under 18 must be accompanied by parent or guardian. Event subject
+	 to cancellation and/or rescheduling. Tour involves significant walking an
+	d stairs however\, special accommodations and assistance can be provided. 
+	Please notify the box office of any special needs when booking tour ticket
+	. No video/audio recordings of the tour are permitted\n\nhttps://www.cinci
+	nnatiarts.org/events/detail/ghost-tours-1
+URL:https://www.cincinnatiarts.org/events/detail/ghost-tours-1
+LOCATION:Music Hall
+STATUS:CONFIRMED
+CATEGORIES:Other
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:f49aa05c717db44576c064e4
+SUMMARY:Ghost Tours of Music Hall
+DTSTAMP:20261031T080317Z
+DTSTART:20270115T010000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
 	 Landmark since 1975. It's also well known to paranormal enthusiasts as on
@@ -78,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3e44f0c04ed5ba4f3612e571
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20261106T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -109,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d6fafbe6b36ee71f4ef16289
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20261114T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -140,7 +175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:910bdfa99fc8dbe7dcff3533
 SUMMARY:Bricks & Beer: Cincinnati Music Hall History and Hops
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20261120T223000Z
 DESCRIPTION:Friends of Music Hall partners with Cincinnati breweries to bri
 	ng you a unique tour experience. Enter the world of late nineteenth-centur
@@ -166,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ad44cb8d291c5b49792a5f84
 SUMMARY:An Evening with David Sedaris
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20261122T003000Z
 DESCRIPTION:David Sedaris\, America’s best-selling humorist and social sati
 	rist\, returns following publication of his most recent book of short stor
@@ -184,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a31f6511612cfc1675d960c
 SUMMARY:The Price is Right Live
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20270213T200000Z
 DESCRIPTION:THE PRICE IS RIGHT LIVE™ is the hit interactive stage show that
 	 gives eligible individuals the chance to hear their names called and “Com
@@ -217,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1df72e9d4c072b498086c0cb
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20270306T210000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
@@ -241,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3a5d5773c25fb40cdae7928e
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20270307T010000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA

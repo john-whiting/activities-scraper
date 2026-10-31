@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:bc78721ea0bb769faac8d776
 SUMMARY:Bluey's Big Play
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20270102T160000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:845a59b9be175cdf2e226042
 SUMMARY:Bluey's Big Play
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20270102T200000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -86,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:961e7ab71dfa8b493c107ce6
 SUMMARY:Bluey's Big Play
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20270103T160000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0b568a8dce2a0b23c50a5db4
 SUMMARY:Jamming on the Job Live! - featuring 123 Andrés and Pierce Freelon
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20270417T143000Z
 DESCRIPTION:Jamming on the Job\, the hit podcast from PBS Kids\, turns into
 	 an interactive live show! Christina\, Andrés\, and Pierce Freelon (BoomBo
@@ -147,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:24b27e479d8efd8bf1eac48d
 SUMMARY:Jamming on the Job Live! - featuring 123 Andrés and Pierce Freelon
-DTSTAMP:20261030T080311Z
+DTSTAMP:20261031T080317Z
 DTSTART:20270417T173000Z
 DESCRIPTION:Jamming on the Job\, the hit podcast from PBS Kids\, turns into
 	 an interactive live show! Christina\, Andrés\, and Pierce Freelon (BoomBo
