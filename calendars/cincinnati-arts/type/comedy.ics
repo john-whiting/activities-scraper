@@ -6,11 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Arts – Comedy
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:acd134a8a709f1da2b1b8e7d
+UID:624b262f9ac8d4ef498d3242
 SUMMARY:O Christmas Tea: A British Comedy 
-DTSTAMP:20261101T080312Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261128T003000Z
-DTEND:20261129T200000Z
 DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
 	ups! Combining British propriety with an unabashed love for the unexpected
 	\, London’s three-time Impresario Award-winning duo steep an outrageously 
@@ -41,11 +40,123 @@ URL:https://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-
 LOCATION:Jarson-Kaplan Theater\, Aronoff Center
 STATUS:CONFIRMED
 CATEGORIES:Comedy
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:17a0d6c24ee05eac3d4069de
+SUMMARY:O Christmas Tea: A British Comedy 
+DTSTAMP:20261102T173106Z
+DTSTART:20261128T200000Z
+DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
+	ups! Combining British propriety with an unabashed love for the unexpected
+	\, London’s three-time Impresario Award-winning duo steep an outrageously 
+	funny and brilliantly inventive show reminiscent of classic British pantos
+	. Rich in wordplay\, comic physicality\, and cleverly crafted interactive 
+	elements\, O Christmas Tea is uproarious fun\, yet it is the duo’s boundle
+	ss imagination and endearing chemistry that provide the real magic and hea
+	rt of this play. When catastrophe strikes at James and Jamesy’s Christmas 
+	tea party\, flooding the world with tea\, the duo conjure wildly funny sol
+	utions to stay afloat\, and sweep the audience out to sea in a jolly aquat
+	ic escapade brimming with whimsy\, action\, and ingenuity in a celebration
+	 of friendship at Christmas. “Complete and utter fun… for all ages.” ★★★★★
+	 CBC “Outrageously funny\, magnificently written\, beautifully choreograph
+	ed.” ★★★★★ London Free Press “An ode to the idea that anything is possible
+	.” ★★★★★ Torontoist “I cannot think of a show that will leave you more pro
+	foundly happy than this.” ★★★★★ Stage Door Hailed as “a child’s imaginatio
+	n on steroids” by London Free Press and “a masterpiece of physical comedy”
+	 by Theatre In London\, critics rave for the charismatic James & Jamesy. A
+	 must-see performance on the international comedy circuit since 2015\, thi
+	s unstoppable duo is regarded as “one of the most popular fringe duos ever
+	” (CBC). If the cost is beyond your means\, we invite you to select the Su
+	bsidized Ticket option Can't make it on November 27-29? Nov 24: Muncie\, I
+	N Dec 19: Dayton\, OH Visit OChristmasTea.com for the full 60-city tour!\n
+	\nhttps://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-c
+	omedy
+URL:https://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-
+	comedy
+LOCATION:Jarson-Kaplan Theater\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Comedy
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:ed201f1a742e2056eb4f6cdf
+SUMMARY:O Christmas Tea: A British Comedy 
+DTSTAMP:20261102T173106Z
+DTSTART:20261129T003000Z
+DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
+	ups! Combining British propriety with an unabashed love for the unexpected
+	\, London’s three-time Impresario Award-winning duo steep an outrageously 
+	funny and brilliantly inventive show reminiscent of classic British pantos
+	. Rich in wordplay\, comic physicality\, and cleverly crafted interactive 
+	elements\, O Christmas Tea is uproarious fun\, yet it is the duo’s boundle
+	ss imagination and endearing chemistry that provide the real magic and hea
+	rt of this play. When catastrophe strikes at James and Jamesy’s Christmas 
+	tea party\, flooding the world with tea\, the duo conjure wildly funny sol
+	utions to stay afloat\, and sweep the audience out to sea in a jolly aquat
+	ic escapade brimming with whimsy\, action\, and ingenuity in a celebration
+	 of friendship at Christmas. “Complete and utter fun… for all ages.” ★★★★★
+	 CBC “Outrageously funny\, magnificently written\, beautifully choreograph
+	ed.” ★★★★★ London Free Press “An ode to the idea that anything is possible
+	.” ★★★★★ Torontoist “I cannot think of a show that will leave you more pro
+	foundly happy than this.” ★★★★★ Stage Door Hailed as “a child’s imaginatio
+	n on steroids” by London Free Press and “a masterpiece of physical comedy”
+	 by Theatre In London\, critics rave for the charismatic James & Jamesy. A
+	 must-see performance on the international comedy circuit since 2015\, thi
+	s unstoppable duo is regarded as “one of the most popular fringe duos ever
+	” (CBC). If the cost is beyond your means\, we invite you to select the Su
+	bsidized Ticket option Can't make it on November 27-29? Nov 24: Muncie\, I
+	N Dec 19: Dayton\, OH Visit OChristmasTea.com for the full 60-city tour!\n
+	\nhttps://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-c
+	omedy
+URL:https://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-
+	comedy
+LOCATION:Jarson-Kaplan Theater\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Comedy
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:456f29d187981d00206b0f80
+SUMMARY:O Christmas Tea: A British Comedy 
+DTSTAMP:20261102T173106Z
+DTSTART:20261129T200000Z
+DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
+	ups! Combining British propriety with an unabashed love for the unexpected
+	\, London’s three-time Impresario Award-winning duo steep an outrageously 
+	funny and brilliantly inventive show reminiscent of classic British pantos
+	. Rich in wordplay\, comic physicality\, and cleverly crafted interactive 
+	elements\, O Christmas Tea is uproarious fun\, yet it is the duo’s boundle
+	ss imagination and endearing chemistry that provide the real magic and hea
+	rt of this play. When catastrophe strikes at James and Jamesy’s Christmas 
+	tea party\, flooding the world with tea\, the duo conjure wildly funny sol
+	utions to stay afloat\, and sweep the audience out to sea in a jolly aquat
+	ic escapade brimming with whimsy\, action\, and ingenuity in a celebration
+	 of friendship at Christmas. “Complete and utter fun… for all ages.” ★★★★★
+	 CBC “Outrageously funny\, magnificently written\, beautifully choreograph
+	ed.” ★★★★★ London Free Press “An ode to the idea that anything is possible
+	.” ★★★★★ Torontoist “I cannot think of a show that will leave you more pro
+	foundly happy than this.” ★★★★★ Stage Door Hailed as “a child’s imaginatio
+	n on steroids” by London Free Press and “a masterpiece of physical comedy”
+	 by Theatre In London\, critics rave for the charismatic James & Jamesy. A
+	 must-see performance on the international comedy circuit since 2015\, thi
+	s unstoppable duo is regarded as “one of the most popular fringe duos ever
+	” (CBC). If the cost is beyond your means\, we invite you to select the Su
+	bsidized Ticket option Can't make it on November 27-29? Nov 24: Muncie\, I
+	N Dec 19: Dayton\, OH Visit OChristmasTea.com for the full 60-city tour!\n
+	\nhttps://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-c
+	omedy
+URL:https://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-
+	comedy
+LOCATION:Jarson-Kaplan Theater\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Comedy
+DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
 UID:155a98c46477fffcb9e94652
 SUMMARY:Sister's Christmas Catechism
-DTSTAMP:20261101T080312Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261206T190000Z
 DESCRIPTION:It's "CSI: Bethlehem" in this holiday mystery extravaganza by t
 	he author of the Late Nite Catechism series\, as Sister takes on the myste

@@ -6,26 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Bengals (Home) – Paycor Stadium
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:d85a44418968741182cc0a9b
-SUMMARY:Tennessee Titans at Cincinnati Bengals
-DTSTAMP:20261101T080312Z
-DTSTART:20261101T180000Z
-DTEND:20261101T210000Z
-DESCRIPTION:Watch the game on CBS or Game Pass: https://www.bengals.com/gam
-	e-day/2026/regular-season/week-8-titans/\n--\nDownload official Cincinnati
-	 Bengals app:\niOS (https://apps.apple.com/app/cincinnati-bengals/id492570
-	103)\n\nAndroid (https://play.google.com/store/apps/details?id=com.yinzcam
-	.nfl.bengals&hl=en_US)\n\nhttps://www.bengals.com\n\n\nhttps://www.bengals
-	.com/schedule/
-URL:https://www.bengals.com/schedule/
-LOCATION:Paycor Stadium\, Cincinnati
-STATUS:CONFIRMED
-CATEGORIES:Football,Regular Season
-END:VEVENT
-BEGIN:VEVENT
-UID:0ac71302c94d81187ed140c9
+UID:87afb32cf14f892eecaa1300
 SUMMARY:Pittsburgh Steelers at Cincinnati Bengals
-DTSTAMP:20261101T080312Z
+DTSTAMP:20261102T173107Z
 DTSTART:20261116T012000Z
 DTEND:20261116T042000Z
 DESCRIPTION:Watch the game on NBC / UNIVERSO or Game Pass: https://www.beng
@@ -40,9 +23,9 @@ STATUS:CONFIRMED
 CATEGORIES:Football,Regular Season
 END:VEVENT
 BEGIN:VEVENT
-UID:848d16fe6029f3515fb6c091
+UID:189b7852fcafcaac04fed7c9
 SUMMARY:New Orleans Saints at Cincinnati Bengals
-DTSTAMP:20261101T080312Z
+DTSTAMP:20261102T173107Z
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 DESCRIPTION:Watch the game on CBS or Game Pass: https://www.bengals.com/gam
@@ -57,9 +40,9 @@ STATUS:CONFIRMED
 CATEGORIES:Football,Regular Season
 END:VEVENT
 BEGIN:VEVENT
-UID:de0497c6541abcf0175d714b
+UID:11469123db2d67769d211bfc
 SUMMARY:Kansas City Chiefs at Cincinnati Bengals
-DTSTAMP:20261101T080312Z
+DTSTAMP:20261102T173107Z
 DTSTART:20261213T212500Z
 DTEND:20261214T002500Z
 DESCRIPTION:Watch the game on FOX or Game Pass: https://www.bengals.com/gam
@@ -74,9 +57,9 @@ STATUS:CONFIRMED
 CATEGORIES:Football,Regular Season
 END:VEVENT
 BEGIN:VEVENT
-UID:495fdc8991f263e55c04f957
+UID:d32b4f5f05e82bc615038613
 SUMMARY:Baltimore Ravens at Cincinnati Bengals
-DTSTAMP:20261101T080312Z
+DTSTAMP:20261102T173107Z
 DTSTART:20270101T011500Z
 DTEND:20270101T041500Z
 DESCRIPTION:Watch the game on Prime Video or Game Pass: https://www.bengals

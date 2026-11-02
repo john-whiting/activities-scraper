@@ -6,49 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Arts – Aronoff Center
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:6792303de5262e3b33c2212b
-SUMMARY:A Taste of Ireland — The Irish Music & Dance Sensation
-DTSTAMP:20261101T080311Z
-DTSTART:20261101T190000Z
-DESCRIPTION:Direct from off-Broadway and London’s West End\, the internatio
-	nally acclaimed A Taste of Ireland Company comes to the USA with its flags
-	hip production — A Taste of Ireland — The Irish Music & Dance Sensation. L
-	augh\, cry\, and jig into the night with a production that is Celtic\, for
-	 this generation. Performed by former World Irish dance champions\, and fe
-	aturing dancers from Lord of the Dance\, Riverdance\, and the recent West 
-	End cast of Éireann\, A Taste of Ireland brings the spirit and energy of m
-	odern Ireland to life with a pint of Irish wit. Watch world-class performe
-	rs blend melodic folk mash-ups\, live jaw-dropping acapella tap battles\, 
-	and heartfelt storytelling in a live celebration of Irish music and dance.
-	 Featuring revamped classics of "Danny Boy\," "Tell Me Ma\," "Wild Rover\,
-	" and many more well-known songs\, the show’s reimagined contemporary scor
-	e blossoms alongside the brash Irish charm of the live dance cast. A Taste
-	 of Ireland merges cultural traditions\, modern flair\, and craic galore t
-	o deliver a performance that has been leaving audiences across the globe j
-	igging on their feet for the last decade. Wherever audiences come from\, t
-	he show finds them. For those who have travelled to Ireland\, it is a view
-	 that reaches back across the Atlantic. For those whose parents or grandpa
-	rents carried a few songs and stories with them\, it is a heritage felt\, 
-	not described. And for those who have never thought of themselves as Irish
-	 at all\, it is the kind of night that leaves them feeling as though there
-	 has been a little Irish in them all along. A Taste of Ireland is exactly 
-	what it promises: a taste of everything you love about Ireland\, with a ge
-	nerous helping of more\, and having gathered a social following of over 40
-	0\,000 and growing\, it has and continues to win over audiences across the
-	 globe. With a strictly limited US run\, see A Taste of Ireland in 2026 be
-	fore it takes off around the globe once again. Find a seat\, bring a loved
-	 one\, and for two hours\, lose yourself i\n\nhttps://www.cincinnatiarts.o
-	rg/events/detail/a-taste-of-ireland
-URL:https://www.cincinnatiarts.org/events/detail/a-taste-of-ireland
-LOCATION:Procter & Gamble Hall\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Dance
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:59afaf4bda9009c96635bcb1
 SUMMARY:Gravity & Other Myths: Ten Thousand Hours
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261106T003000Z
 DESCRIPTION:Everybody is a master of something. Blink\, step\, jump\, balan
 	ce\, flip\, fly. Gravity & Other Myths – eight acrobats and one musician –
@@ -72,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a9586b7213787bdc94971f0
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261107T180000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -99,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d11409d2e15236f2161d35ea
 SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261107T210000Z
 DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
 	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
@@ -126,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c23fecc9e4c591bb357b5f98
 SUMMARY:The Sound of Music
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261111T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -155,7 +115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fb5c944390d434baaecc8f27
 SUMMARY:The Sound of Music
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261112T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -184,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a2a08193ddfd6246fae0363c
 SUMMARY:The Sound of Music
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261113T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -213,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ca17630c473700b8ffcb75e3
 SUMMARY:The Sound of Music
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261114T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -242,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f51cc24d4a6c1a398aa5d299
 SUMMARY:The Sound of Music
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261114T190000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -271,7 +231,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7e9bf2f1a71c44668ed4ecb
 SUMMARY:The Sound of Music
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261115T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -300,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6caad5cbbad39527c5dc5e22
 SUMMARY:The Sound of Music
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261115T180000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -329,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c134e6d7c03cc78f0843a3a9
 SUMMARY:The Sound of Music
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261115T233000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -358,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7407af01de35b4497aaa7296
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261114T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -388,7 +348,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2c8917bc5a352cc5db1c3dd6
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261115T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -418,7 +378,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6381035b7a6299ef83aff3b9
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261115T190000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -448,7 +408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:09b665c348dec59bf35d165a
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261119T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -478,7 +438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4ebe9e83b3af2b85f1bcad55
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261120T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -508,7 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3bc48745b5562b08a7780906
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261121T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -538,7 +498,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:209990c88a2ce9a01312dc23
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261122T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The Spongebob Musical follows SpongeBob SquarePants’ attempts
@@ -568,7 +528,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a0456797c2de749504afb23
 SUMMARY:CPI - An Evening of One Act Plays
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261118T003000Z
 DESCRIPTION:Two One-Act Plays in One Evening! Who Gets Grandma’s Eyeball: A
 	 One-Act Play by Paul Bergman Synopsis: Fun and the unexpected connect wit
@@ -605,7 +565,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9e8cc66330853af02800175c
 SUMMARY:The Rock Orchestra by Candlelight
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261119T010000Z
 DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	 Orchestra by Candlelight is set to electrify the USA once again. Prepare 
@@ -630,7 +590,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ea8893a85e8248a6c6be991a
 SUMMARY:2026-27 CMT Mainstage Series
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261122T003000Z
 DTEND:20261122T003000Z
 DESCRIPTION:The SpongeBob Musical November 13 - 21\, 2026 Based on the Nick
@@ -655,7 +615,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ad44cb8d291c5b49792a5f84
 SUMMARY:An Evening with David Sedaris
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261122T003000Z
 DESCRIPTION:David Sedaris\, America’s best-selling humorist and social sati
 	rist\, returns following publication of his most recent book of short stor
@@ -671,11 +631,10 @@ CATEGORIES:Other
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:acd134a8a709f1da2b1b8e7d
+UID:624b262f9ac8d4ef498d3242
 SUMMARY:O Christmas Tea: A British Comedy 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261128T003000Z
-DTEND:20261129T200000Z
 DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
 	ups! Combining British propriety with an unabashed love for the unexpected
 	\, London’s three-time Impresario Award-winning duo steep an outrageously 
@@ -706,11 +665,123 @@ URL:https://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-
 LOCATION:Jarson-Kaplan Theater\, Aronoff Center
 STATUS:CONFIRMED
 CATEGORIES:Comedy
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:17a0d6c24ee05eac3d4069de
+SUMMARY:O Christmas Tea: A British Comedy 
+DTSTAMP:20261102T173106Z
+DTSTART:20261128T200000Z
+DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
+	ups! Combining British propriety with an unabashed love for the unexpected
+	\, London’s three-time Impresario Award-winning duo steep an outrageously 
+	funny and brilliantly inventive show reminiscent of classic British pantos
+	. Rich in wordplay\, comic physicality\, and cleverly crafted interactive 
+	elements\, O Christmas Tea is uproarious fun\, yet it is the duo’s boundle
+	ss imagination and endearing chemistry that provide the real magic and hea
+	rt of this play. When catastrophe strikes at James and Jamesy’s Christmas 
+	tea party\, flooding the world with tea\, the duo conjure wildly funny sol
+	utions to stay afloat\, and sweep the audience out to sea in a jolly aquat
+	ic escapade brimming with whimsy\, action\, and ingenuity in a celebration
+	 of friendship at Christmas. “Complete and utter fun… for all ages.” ★★★★★
+	 CBC “Outrageously funny\, magnificently written\, beautifully choreograph
+	ed.” ★★★★★ London Free Press “An ode to the idea that anything is possible
+	.” ★★★★★ Torontoist “I cannot think of a show that will leave you more pro
+	foundly happy than this.” ★★★★★ Stage Door Hailed as “a child’s imaginatio
+	n on steroids” by London Free Press and “a masterpiece of physical comedy”
+	 by Theatre In London\, critics rave for the charismatic James & Jamesy. A
+	 must-see performance on the international comedy circuit since 2015\, thi
+	s unstoppable duo is regarded as “one of the most popular fringe duos ever
+	” (CBC). If the cost is beyond your means\, we invite you to select the Su
+	bsidized Ticket option Can't make it on November 27-29? Nov 24: Muncie\, I
+	N Dec 19: Dayton\, OH Visit OChristmasTea.com for the full 60-city tour!\n
+	\nhttps://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-c
+	omedy
+URL:https://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-
+	comedy
+LOCATION:Jarson-Kaplan Theater\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Comedy
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:ed201f1a742e2056eb4f6cdf
+SUMMARY:O Christmas Tea: A British Comedy 
+DTSTAMP:20261102T173106Z
+DTSTART:20261129T003000Z
+DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
+	ups! Combining British propriety with an unabashed love for the unexpected
+	\, London’s three-time Impresario Award-winning duo steep an outrageously 
+	funny and brilliantly inventive show reminiscent of classic British pantos
+	. Rich in wordplay\, comic physicality\, and cleverly crafted interactive 
+	elements\, O Christmas Tea is uproarious fun\, yet it is the duo’s boundle
+	ss imagination and endearing chemistry that provide the real magic and hea
+	rt of this play. When catastrophe strikes at James and Jamesy’s Christmas 
+	tea party\, flooding the world with tea\, the duo conjure wildly funny sol
+	utions to stay afloat\, and sweep the audience out to sea in a jolly aquat
+	ic escapade brimming with whimsy\, action\, and ingenuity in a celebration
+	 of friendship at Christmas. “Complete and utter fun… for all ages.” ★★★★★
+	 CBC “Outrageously funny\, magnificently written\, beautifully choreograph
+	ed.” ★★★★★ London Free Press “An ode to the idea that anything is possible
+	.” ★★★★★ Torontoist “I cannot think of a show that will leave you more pro
+	foundly happy than this.” ★★★★★ Stage Door Hailed as “a child’s imaginatio
+	n on steroids” by London Free Press and “a masterpiece of physical comedy”
+	 by Theatre In London\, critics rave for the charismatic James & Jamesy. A
+	 must-see performance on the international comedy circuit since 2015\, thi
+	s unstoppable duo is regarded as “one of the most popular fringe duos ever
+	” (CBC). If the cost is beyond your means\, we invite you to select the Su
+	bsidized Ticket option Can't make it on November 27-29? Nov 24: Muncie\, I
+	N Dec 19: Dayton\, OH Visit OChristmasTea.com for the full 60-city tour!\n
+	\nhttps://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-c
+	omedy
+URL:https://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-
+	comedy
+LOCATION:Jarson-Kaplan Theater\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Comedy
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:456f29d187981d00206b0f80
+SUMMARY:O Christmas Tea: A British Comedy 
+DTSTAMP:20261102T173106Z
+DTSTART:20261129T200000Z
+DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
+	ups! Combining British propriety with an unabashed love for the unexpected
+	\, London’s three-time Impresario Award-winning duo steep an outrageously 
+	funny and brilliantly inventive show reminiscent of classic British pantos
+	. Rich in wordplay\, comic physicality\, and cleverly crafted interactive 
+	elements\, O Christmas Tea is uproarious fun\, yet it is the duo’s boundle
+	ss imagination and endearing chemistry that provide the real magic and hea
+	rt of this play. When catastrophe strikes at James and Jamesy’s Christmas 
+	tea party\, flooding the world with tea\, the duo conjure wildly funny sol
+	utions to stay afloat\, and sweep the audience out to sea in a jolly aquat
+	ic escapade brimming with whimsy\, action\, and ingenuity in a celebration
+	 of friendship at Christmas. “Complete and utter fun… for all ages.” ★★★★★
+	 CBC “Outrageously funny\, magnificently written\, beautifully choreograph
+	ed.” ★★★★★ London Free Press “An ode to the idea that anything is possible
+	.” ★★★★★ Torontoist “I cannot think of a show that will leave you more pro
+	foundly happy than this.” ★★★★★ Stage Door Hailed as “a child’s imaginatio
+	n on steroids” by London Free Press and “a masterpiece of physical comedy”
+	 by Theatre In London\, critics rave for the charismatic James & Jamesy. A
+	 must-see performance on the international comedy circuit since 2015\, thi
+	s unstoppable duo is regarded as “one of the most popular fringe duos ever
+	” (CBC). If the cost is beyond your means\, we invite you to select the Su
+	bsidized Ticket option Can't make it on November 27-29? Nov 24: Muncie\, I
+	N Dec 19: Dayton\, OH Visit OChristmasTea.com for the full 60-city tour!\n
+	\nhttps://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-c
+	omedy
+URL:https://www.cincinnatiarts.org/events/detail/o-christmas-tea-a-british-
+	comedy
+LOCATION:Jarson-Kaplan Theater\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Comedy
+DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
 UID:59a9e4dae4305157455d5b92
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261203T003000Z
 DTEND:20261213T230000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
@@ -728,7 +799,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:86228ae0200442b8aee97dce
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261205T010000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -754,7 +825,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3497e149a4a9d1234bc406a2
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261205T190000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -780,7 +851,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:edf186977fcde1f851f8dfe9
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261206T010000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -806,7 +877,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:155a98c46477fffcb9e94652
 SUMMARY:Sister's Christmas Catechism
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261206T190000Z
 DESCRIPTION:It's "CSI: Bethlehem" in this holiday mystery extravaganza by t
 	he author of the Late Nite Catechism series\, as Sister takes on the myste
@@ -826,7 +897,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4b07c85508cf345756ffdcdf
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261218T190000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -855,7 +926,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7ae385245c276f6919f8794
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261219T003000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -884,7 +955,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:efff50593da57185a438d336
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261219T190000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -913,7 +984,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12fa81ed6720701bdc880e16
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20261220T003000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -942,7 +1013,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bc78721ea0bb769faac8d776
 SUMMARY:Bluey's Big Play
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270102T160000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -981,7 +1052,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:845a59b9be175cdf2e226042
 SUMMARY:Bluey's Big Play
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270102T200000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -1020,7 +1091,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:961e7ab71dfa8b493c107ce6
 SUMMARY:Bluey's Big Play
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270103T160000Z
 DESCRIPTION:This is Bluey’s Big Play\, for Real Life! When Dad feels like a
 	 little bit of Sunday afternoon time out\, Bluey and Bingo have other plan
@@ -1057,11 +1128,10 @@ CATEGORIES:Family
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:9e76fe3f715dfb8c88ba9fcd
+UID:2f1f57f498220f5d64c6696c
 SUMMARY:SIX
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270106T003000Z
-DTEND:20270110T233000Z
 DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
 	ke the microphone to remix five hundred years of historical heartbreak int
 	o a Euphoric Celebration of 21st-century girl power! This new original mus
@@ -1074,11 +1144,145 @@ URL:https://www.cincinnatiarts.org/events/detail/six-27
 LOCATION:Procter & Gamble Hall\, Aronoff Center
 STATUS:CONFIRMED
 CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:c45fdf2797247c060b747498
+SUMMARY:SIX
+DTSTAMP:20261102T173106Z
+DTSTART:20270107T003000Z
+DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
+	ke the microphone to remix five hundred years of historical heartbreak int
+	o a Euphoric Celebration of 21st-century girl power! This new original mus
+	ical is the global sensation that everyone is losing their head over! The 
+	New York Times says SIX “TOTALLY RULES!” (Critic's Pick) and The Washingto
+	n Post hails SIX as “Exactly the kind of energizing\, inspirational illumi
+	nation this town aches for!"\n\nhttps://www.cincinnatiarts.org/events/deta
+	il/six-27
+URL:https://www.cincinnatiarts.org/events/detail/six-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:6a865ec7caccd9aebcdeb927
+SUMMARY:SIX
+DTSTAMP:20261102T173106Z
+DTSTART:20270108T003000Z
+DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
+	ke the microphone to remix five hundred years of historical heartbreak int
+	o a Euphoric Celebration of 21st-century girl power! This new original mus
+	ical is the global sensation that everyone is losing their head over! The 
+	New York Times says SIX “TOTALLY RULES!” (Critic's Pick) and The Washingto
+	n Post hails SIX as “Exactly the kind of energizing\, inspirational illumi
+	nation this town aches for!"\n\nhttps://www.cincinnatiarts.org/events/deta
+	il/six-27
+URL:https://www.cincinnatiarts.org/events/detail/six-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:f31e49c50a08797852d94853
+SUMMARY:SIX
+DTSTAMP:20261102T173106Z
+DTSTART:20270109T003000Z
+DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
+	ke the microphone to remix five hundred years of historical heartbreak int
+	o a Euphoric Celebration of 21st-century girl power! This new original mus
+	ical is the global sensation that everyone is losing their head over! The 
+	New York Times says SIX “TOTALLY RULES!” (Critic's Pick) and The Washingto
+	n Post hails SIX as “Exactly the kind of energizing\, inspirational illumi
+	nation this town aches for!"\n\nhttps://www.cincinnatiarts.org/events/deta
+	il/six-27
+URL:https://www.cincinnatiarts.org/events/detail/six-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:1f0eb93de4d9304793bff40b
+SUMMARY:SIX
+DTSTAMP:20261102T173106Z
+DTSTART:20270109T190000Z
+DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
+	ke the microphone to remix five hundred years of historical heartbreak int
+	o a Euphoric Celebration of 21st-century girl power! This new original mus
+	ical is the global sensation that everyone is losing their head over! The 
+	New York Times says SIX “TOTALLY RULES!” (Critic's Pick) and The Washingto
+	n Post hails SIX as “Exactly the kind of energizing\, inspirational illumi
+	nation this town aches for!"\n\nhttps://www.cincinnatiarts.org/events/deta
+	il/six-27
+URL:https://www.cincinnatiarts.org/events/detail/six-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:921b251f12b082d79b8dbcd9
+SUMMARY:SIX
+DTSTAMP:20261102T173106Z
+DTSTART:20270110T003000Z
+DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
+	ke the microphone to remix five hundred years of historical heartbreak int
+	o a Euphoric Celebration of 21st-century girl power! This new original mus
+	ical is the global sensation that everyone is losing their head over! The 
+	New York Times says SIX “TOTALLY RULES!” (Critic's Pick) and The Washingto
+	n Post hails SIX as “Exactly the kind of energizing\, inspirational illumi
+	nation this town aches for!"\n\nhttps://www.cincinnatiarts.org/events/deta
+	il/six-27
+URL:https://www.cincinnatiarts.org/events/detail/six-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc591dfe1a413f7f4ee4cf6
+SUMMARY:SIX
+DTSTAMP:20261102T173106Z
+DTSTART:20270110T180000Z
+DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
+	ke the microphone to remix five hundred years of historical heartbreak int
+	o a Euphoric Celebration of 21st-century girl power! This new original mus
+	ical is the global sensation that everyone is losing their head over! The 
+	New York Times says SIX “TOTALLY RULES!” (Critic's Pick) and The Washingto
+	n Post hails SIX as “Exactly the kind of energizing\, inspirational illumi
+	nation this town aches for!"\n\nhttps://www.cincinnatiarts.org/events/deta
+	il/six-27
+URL:https://www.cincinnatiarts.org/events/detail/six-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:51429de581c04d39c116ced4
+SUMMARY:SIX
+DTSTAMP:20261102T173106Z
+DTSTART:20270110T233000Z
+DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
+	ke the microphone to remix five hundred years of historical heartbreak int
+	o a Euphoric Celebration of 21st-century girl power! This new original mus
+	ical is the global sensation that everyone is losing their head over! The 
+	New York Times says SIX “TOTALLY RULES!” (Critic's Pick) and The Washingto
+	n Post hails SIX as “Exactly the kind of energizing\, inspirational illumi
+	nation this town aches for!"\n\nhttps://www.cincinnatiarts.org/events/deta
+	il/six-27
+URL:https://www.cincinnatiarts.org/events/detail/six-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
 UID:452c22e214884d6e5d0edd92
 SUMMARY:William Shakespeare’s Romeo + Juliet Film in Concert
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270113T003000Z
 DESCRIPTION:Celebrate the 30th anniversary of Baz Luhrmann’s iconic 1996 fi
 	lm with William Shakespeare’s Romeo + Juliet Film in Concert\, a live cine
@@ -1107,7 +1311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06afd2d816a2b21770a22175
 SUMMARY:Elvis Tribute Artist Spectacular
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270117T003000Z
 DESCRIPTION:THE ELVIS TRIBUTE ARTIST SPECTACULAR is an era-by-era tribute c
 	oncert celebrating the music and magic of Elvis Presley. The concert begin
@@ -1142,7 +1346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:27d1c152b73b45ce99aef2aa
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270120T003000Z
 DTEND:20270131T233000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
@@ -1161,7 +1365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8d672ca971205fcd4bae1c90
 SUMMARY:MAROONED! A Space Comedy
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270123T190000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } An ast
@@ -1181,7 +1385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c0cca8185203aba80c87c14f
 SUMMARY:In Harmony 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270130T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1198,7 +1402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10f4a8ae1a85a3141c4512a4
 SUMMARY:In Harmony 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270130T200000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1215,7 +1419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46e6c68c0510d474a7eb5c42
 SUMMARY:In Harmony 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270131T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1232,7 +1436,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fda63ab6982f38e862dae99e
 SUMMARY:In Harmony 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270206T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1249,7 +1453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2a4af444e99e08f1ac644d86
 SUMMARY:In Harmony 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270206T200000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1266,7 +1470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5e3eecc16539956ff4f343fc
 SUMMARY:In Harmony 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270207T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1283,7 +1487,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a31f6511612cfc1675d960c
 SUMMARY:The Price is Right Live
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270213T200000Z
 DESCRIPTION:THE PRICE IS RIGHT LIVE™ is the hit interactive stage show that
 	 gives eligible individuals the chance to hear their names called and “Com
@@ -1314,11 +1518,10 @@ CATEGORIES:Other
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:5859c40d3053a133d79d6acd
+UID:660fe8a8567bc4e674c57ff6
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270217T003000Z
-DTEND:20270228T233000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
 	hanting and timeless tale\, filled with the romance and grandeur audiences
@@ -1337,11 +1540,387 @@ URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
 LOCATION:Procter & Gamble Hall\, Aronoff Center
 STATUS:CONFIRMED
 CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:85ce45023f3adfb4686816e0
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270218T003000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:3b2c67552b3b0d77fd02646e
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270219T003000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:45cdf7b97d07ec7220a70386
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270220T003000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:b952b56a304b6ebd9bf36169
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270220T190000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:79b81f829d2c67c962ac8c74
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270221T003000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:867afe97042934507a7c064d
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270221T180000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:51c9dad946f75f6c6738b4e0
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270221T233000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:bcef1121fb777cae6a143901
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270224T003000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:0e98f18b6cd4c1b7b18c6a99
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270225T003000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:7f72fb486e49a34e4b02e7c5
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270226T003000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:ee641c691cf5abde623ef20d
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270227T003000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:7075b682fc24b706a47789e5
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270227T190000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:85fb89dba04a0910ed060a5a
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270228T003000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:e052871823d82e8a5c7fb988
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270228T180000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:f176529e7c4bb2756e6a8cc0
+SUMMARY:Disney’s Beauty and the Beast
+DTSTAMP:20261102T173106Z
+DTSTART:20270228T233000Z
+DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
+	rican touring production of the beloved musical in over 25 years. This enc
+	hanting and timeless tale\, filled with the romance and grandeur audiences
+	 know and love\, has been brought to life like never before\, with spectac
+	ular new sets and dazzling costumes. The show boasts the Oscar®-winning an
+	d Tony Award®-nominated score\, including the classic songs “Be Our Guest”
+	 and “Beauty and the Beast.” Reuniting to create this new production are m
+	embers of the original Tony Award®-winning artistic team\, including compo
+	ser Alan Menken\, lyricist Tim Rice\, book writer Linda Woolverton\, with 
+	direction and choreography by Matt West\, scenic design by Stanley A. Meye
+	r\, costume design by Ann Hould-Ward and lighting design by Natasha Katz. 
+	Beauty and the Beast is the beloved musical that will fill your heart with
+	 joy and Disney magic.\n\nhttps://www.cincinnatiarts.org/events/detail/bea
+	uty-and-the-beast-27
+URL:https://www.cincinnatiarts.org/events/detail/beauty-and-the-beast-27
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
 UID:388f3d9f7c8c051e03681938
 SUMMARY:Mutual Dance Theatre presents Boca Tuya of NYC
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270227T003000Z
 DESCRIPTION:PARENTAL ADVISORY: This production includes non-sexual artistic
 	 nudity (visible breasts under a mesh top). Parents and guardians are enco
@@ -1380,7 +1959,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e332189e0a906ce74cce501c
 SUMMARY:Mutual Dance Theatre presents Boca Tuya of NYC
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270228T003000Z
 DESCRIPTION:PARENTAL ADVISORY: This production includes non-sexual artistic
 	 nudity (visible breasts under a mesh top). Parents and guardians are enco
@@ -1419,7 +1998,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1df72e9d4c072b498086c0cb
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270306T210000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
@@ -1443,7 +2022,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3a5d5773c25fb40cdae7928e
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270307T010000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
@@ -1465,11 +2044,10 @@ CATEGORIES:Other
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:c86db71ad407d0dc124321ea
+UID:2650b113d653521f3133daf1
 SUMMARY:The Outsiders
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270316T233000Z
-DTEND:20270328T170000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
 	rd Coppola’s iconic film\, this thrilling new musical features a book by A
@@ -1490,11 +2068,417 @@ URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
 LOCATION:Procter & Gamble Hall\, Aronoff Center
 STATUS:CONFIRMED
 CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:b31a44ee7da86472116b629e
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270317T233000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:bcb9fac510364d83e45a7ba9
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270318T233000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:605ef6e36e685c747d179759
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270319T233000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:ba1a4aef0d25c039875b733a
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270320T180000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:b3c5b6178b32c2c3f6f1db47
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270320T233000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:db0984db80d80b15cfe11256
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270321T170000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:82b0428c84d7b610b8ca47bb
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270321T223000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:bf8aa67f7c1473b342256144
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270323T233000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:f483e31a66fcfcbb8f80da80
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270324T233000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:4feb47ab8685111be25440c6
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270325T233000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:52900d37359632cc8bbead44
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270326T170000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:a825e7c6099bcc3b7cc262a8
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270326T233000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:e7e775ba1528aa14a3acf7ec
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270327T180000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:7693af33b512562f91b03402
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270327T233000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:2e417ab053f7e614849daf53
+SUMMARY:The Outsiders
+DTSTAMP:20261102T173106Z
+DTSTART:20270328T170000Z
+DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
+	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
+	rd Coppola’s iconic film\, this thrilling new musical features a book by A
+	dam Rapp with Justin Levine\, music and lyrics by Jamestown Revival (Jonat
+	han Clay & Zach Chance) and Tony Award® winner Justin Levine\, music super
+	vision\, orchestration\, and arrangements by JUSTIN LEVINE\, choreography 
+	by Rick Kuperman & Jeff Kuperman\, and direction by Tony Award® winner Dan
+	ya Taymor. Entertainment Weekly says\, "The Outsiders has the power to ins
+	pire an entire generation." In Tulsa\, Oklahoma\, 1967\, Ponyboy Curtis\, 
+	his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle
+	 with their affluent rivals\, the Socs. The Outsiders navigates the comple
+	xities of self-discovery as the Greasers dream about who they want to beco
+	me in a world that may never accept them. With a dynamic original score\, 
+	The Outsiders is a story of friendship\, family\, belonging…and the realiz
+	ation that there is still “lots of good in the world.”\n\nhttps://www.cinc
+	innatiarts.org/events/detail/the-outsiders
+URL:https://www.cincinnatiarts.org/events/detail/the-outsiders
+LOCATION:Procter & Gamble Hall\, Aronoff Center
+STATUS:CONFIRMED
+CATEGORIES:Theater
+DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
 UID:d5c1ef468543427dbbe19ba4
 SUMMARY:It's a Small World 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270319T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -1509,7 +2493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9ffd8af9a286cfe3bfa85d40
 SUMMARY:It's a Small World 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270320T190000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -1524,7 +2508,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:857290fb29974eba888cb94f
 SUMMARY:It's a Small World 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270320T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -1539,7 +2523,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3528fe62f469fdb53c81c0f0
 SUMMARY:It's a Small World 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270326T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -1554,7 +2538,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1231fda71d0592d866ec1277
 SUMMARY:It's a Small World 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270327T190000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -1569,7 +2553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fc57dc07d514296080b9d506
 SUMMARY:It's a Small World 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270327T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -1584,7 +2568,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2b9d8d92050c2646b0e03511
 SUMMARY:CPI - Arc of Luminescence
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270330T233000Z
 DESCRIPTION:Arc of Luminescence: A Full-Length Play by Michael Defrancesco 
 	Synopsis: An artist/painter dies. His European collector\, executor\, and 
@@ -1611,7 +2595,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ff96ff0a00fcb029d0e2ab4a
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270330T233000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -1630,7 +2614,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b5b4a2e5301cc27df28e8b14
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270331T233000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -1649,7 +2633,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cf5a68d810df8904cc78523f
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270401T233000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -1668,7 +2652,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9318d784208d83375f2183d9
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270402T233000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -1687,7 +2671,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:be0cda2b72dc41ead23951ce
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270403T170000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -1706,7 +2690,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a39c6e22377f037b76a391cc
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270403T233000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -1725,7 +2709,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:688612a6fe77d2ec588993f9
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270404T170000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -1744,7 +2728,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8178af809beeb3e3d99caeaf
 SUMMARY:Director’s Vision: Two Voices
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270402T233000Z
 DTEND:20270404T170000Z
 DESCRIPTION:Performance Times April 2\, 2027 7:30PM April 3\, 2027 2:00PM A
@@ -1769,7 +2753,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:de547e99652fd11defb6193e
 SUMMARY:The Family Series: Hansel and Gretel
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270409T223000Z
 DTEND:20270411T183000Z
 DESCRIPTION:Performance Times April 9\, 2027 6:30PM April 10\, 2027 11:00AM
@@ -1792,7 +2776,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:09f6125c3f05ddfdfa7e9a65
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270414T233000Z
 DTEND:20270425T230000Z
 DESCRIPTION:On sale dates are tentative and subject to change. IT’S TIME TO
@@ -1818,7 +2802,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0b568a8dce2a0b23c50a5db4
 SUMMARY:Jamming on the Job Live! - featuring 123 Andrés and Pierce Freelon
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270417T143000Z
 DESCRIPTION:Jamming on the Job\, the hit podcast from PBS Kids\, turns into
 	 an interactive live show! Christina\, Andrés\, and Pierce Freelon (BoomBo
@@ -1840,7 +2824,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:24b27e479d8efd8bf1eac48d
 SUMMARY:Jamming on the Job Live! - featuring 123 Andrés and Pierce Freelon
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270417T173000Z
 DESCRIPTION:Jamming on the Job\, the hit podcast from PBS Kids\, turns into
 	 an interactive live show! Christina\, Andrés\, and Pierce Freelon (BoomBo
@@ -1862,7 +2846,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d8d503db500b88a6fcc7eccd
 SUMMARY:CPI - Behind the Scene  
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270427T233000Z
 DESCRIPTION:Behind the Scene: A Full-Length Comedy by Susan & Doug Decatur 
 	Synopsis: In 1933\, the movie industry is about to enact new censorship st
@@ -1892,7 +2876,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0539946c0277ca0eb986a549
 SUMMARY:Mutual Dance Theatre in Modern Mix '27
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270430T233000Z
 DESCRIPTION:Mutual Dance Theatre in MODERN MIX '27 PRICES: Starting at $29.
 	 $5 Early Bird Discount for tickets purchased by April 4\, 2027. Seniors/S
@@ -1933,7 +2917,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:59df698f1655ef260510ca7c
 SUMMARY:Mutual Dance Theatre in Modern Mix '27
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270501T233000Z
 DESCRIPTION:Mutual Dance Theatre in MODERN MIX '27 PRICES: Starting at $29.
 	 $5 Early Bird Discount for tickets purchased by April 4\, 2027. Seniors/S
@@ -1974,7 +2958,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f6521ae9d7197705e72d674d
 SUMMARY:School of Rock
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270507T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -1993,7 +2977,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aba26ed860b6d622ecc647f6
 SUMMARY:School of Rock
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270508T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2012,7 +2996,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a06b59f090fbf52a269ffab
 SUMMARY:School of Rock
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270509T180000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2031,7 +3015,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e03b28a8a943eb8c995ad813
 SUMMARY:School of Rock
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270512T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2050,7 +3034,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:829489861cb4ef1309c7afbe
 SUMMARY:School of Rock
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270513T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2069,7 +3053,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:50b4026f380648f7424a9a62
 SUMMARY:School of Rock
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270514T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2088,7 +3072,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:78d226d9ef6b3814d8a92dc1
 SUMMARY:School of Rock
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270515T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2107,7 +3091,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:444be051d1cafa6aa5fb9776
 SUMMARY:Hadestown
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270512T233000Z
 DTEND:20270516T223000Z
 DESCRIPTION:On sale dates are tentative and subject to change. COME SEE HOW
@@ -2132,7 +3116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a05ca998f296e13dd3fdc5d1
 SUMMARY:Buena Vista Social Club
-DTSTAMP:20261101T080311Z
+DTSTAMP:20261102T173106Z
 DTSTART:20270601T233000Z
 DTEND:20270613T223000Z
 DESCRIPTION:On sale dates are tentative and subject to change. Step into th
