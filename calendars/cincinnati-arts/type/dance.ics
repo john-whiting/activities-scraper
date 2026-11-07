@@ -6,31 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Arts – Dance
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:b98ad1070bcfbe93c9b0802e
-SUMMARY:LIVE! In Concert with Over the Rhine and the Cincinnati Symphony Or
-	chestra
-DTSTAMP:20261106T080312Z
-DTSTART:20261107T003000Z
-DTEND:20261108T003000Z
-DESCRIPTION:Performance Times November 6\, 2026 7:30PM November 7\, 2026 2:
-	00PM November 7\, 2026 7:30PM LIVE! celebrates the music of Over the Rhine
-	\, the sound of the CSO\, and the artistry of Cincinnati Ballet\; a powerf
-	ul reminder of how the arts bring Cincinnati together. These new creations
-	 will be choreographed by Young Soon Hue\, David Morse\, and Kenneth Tinda
-	ll. This larger-than-life program offers a powerful\, immersive performanc
-	e experience that you won’t want to miss. Info & Ordering Cincinnati Balle
-	t Box Office 513-621-5282 1801 Gilbert Avenue | Cincinnati\, OH 45202 Addi
-	tional Info and Hours\n\nhttps://www.cincinnatiarts.org/events/detail/ball
-	et-live-26
-URL:https://www.cincinnatiarts.org/events/detail/ballet-live-26
-LOCATION:Springer Auditorium\, Music Hall
-STATUS:CONFIRMED
-CATEGORIES:Dance
-END:VEVENT
-BEGIN:VEVENT
 UID:f178a423cf188b7d4f0f67f8
 SUMMARY:Mutual Dance Theatre in Up-Close '26
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20261204T003000Z
 DESCRIPTION:Surround yourself in an enrapturing modern dance experience Up-
 	Close is Mutual Dance Theatre's own resident company\, performing in the r
@@ -71,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3538db8b196c2cca65fff841
 SUMMARY:Mutual Dance Theatre in Up-Close '26
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20261205T003000Z
 DESCRIPTION:Surround yourself in an enrapturing modern dance experience Up-
 	Close is Mutual Dance Theatre's own resident company\, performing in the r
@@ -112,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2bf3988629eb296a8af6f92a
 SUMMARY:Mutual Dance Theatre in Up-Close '26
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20261206T003000Z
 DESCRIPTION:Surround yourself in an enrapturing modern dance experience Up-
 	Close is Mutual Dance Theatre's own resident company\, performing in the r
@@ -153,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cd3b6f7cbf3a93f415eb30bf
 SUMMARY:Mutual Dance Theatre in Up-Close '26
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20261212T003000Z
 DESCRIPTION:Surround yourself in an enrapturing modern dance experience Up-
 	Close is Mutual Dance Theatre's own resident company\, performing in the r
@@ -194,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d26edfafff24c0fda7cf523e
 SUMMARY:Mutual Dance Theatre in Up-Close '26
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20261213T003000Z
 DESCRIPTION:Surround yourself in an enrapturing modern dance experience Up-
 	Close is Mutual Dance Theatre's own resident company\, performing in the r
@@ -235,7 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:86228ae0200442b8aee97dce
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20261205T010000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -261,7 +239,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3497e149a4a9d1234bc406a2
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20261205T190000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -287,7 +265,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:edf186977fcde1f851f8dfe9
 SUMMARY:David Choate's Hot Chocolate 2026
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20261206T010000Z
 DESCRIPTION:The holiday tradition Cincinnati has embraced is back! Now in i
 	ts 6th spectacular year\, David Choate's Hot Chocolate: An African America
@@ -313,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8d67b0b8628db36f73caafdd
 SUMMARY:Winter Ball 2026
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20261213T010000Z
 DESCRIPTION:Join USA Dance Cincinnati for a magical evening of ballroom dan
 	cing at the beautiful Music Hall Ballroom as we celebrate the holiday seas
@@ -353,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:afe598f0e6ca04d42cb134af
 SUMMARY:The Nutcracker
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20261218T003000Z
 DTEND:20261227T233000Z
 DESCRIPTION:Performance Times December 17\, 2026 7:30PM December 18\, 2026 
@@ -375,7 +353,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2902349a5c58c6b09ecb3d8b
 SUMMARY:Romeo and Juliet
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20270213T003000Z
 DTEND:20270221T003000Z
 DESCRIPTION:Performance Times February 12\, 2027 7:30PM February 13\, 2027 
@@ -397,7 +375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:388f3d9f7c8c051e03681938
 SUMMARY:Mutual Dance Theatre presents Boca Tuya of NYC
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20270227T003000Z
 DESCRIPTION:PARENTAL ADVISORY: This production includes non-sexual artistic
 	 nudity (visible breasts under a mesh top). Parents and guardians are enco
@@ -436,7 +414,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e332189e0a906ce74cce501c
 SUMMARY:Mutual Dance Theatre presents Boca Tuya of NYC
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20270228T003000Z
 DESCRIPTION:PARENTAL ADVISORY: This production includes non-sexual artistic
 	 nudity (visible breasts under a mesh top). Parents and guardians are enco
@@ -475,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8178af809beeb3e3d99caeaf
 SUMMARY:Director’s Vision: Two Voices
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20270402T233000Z
 DTEND:20270404T170000Z
 DESCRIPTION:Performance Times April 2\, 2027 7:30PM April 3\, 2027 2:00PM A
@@ -500,7 +478,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:de547e99652fd11defb6193e
 SUMMARY:The Family Series: Hansel and Gretel
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20270409T223000Z
 DTEND:20270411T183000Z
 DESCRIPTION:Performance Times April 9\, 2027 6:30PM April 10\, 2027 11:00AM
@@ -523,7 +501,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0539946c0277ca0eb986a549
 SUMMARY:Mutual Dance Theatre in Modern Mix '27
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20270430T233000Z
 DESCRIPTION:Mutual Dance Theatre in MODERN MIX '27 PRICES: Starting at $29.
 	 $5 Early Bird Discount for tickets purchased by April 4\, 2027. Seniors/S
@@ -564,7 +542,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:59df698f1655ef260510ca7c
 SUMMARY:Mutual Dance Theatre in Modern Mix '27
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20270501T233000Z
 DESCRIPTION:Mutual Dance Theatre in MODERN MIX '27 PRICES: Starting at $29.
 	 $5 Early Bird Discount for tickets purchased by April 4\, 2027. Seniors/S
@@ -605,7 +583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:de370f8dccc24f1cb46abe47
 SUMMARY:Riverdance 30 - The New Generation
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20270525T233000Z
 DESCRIPTION:Experience the original phenomenon. A thrilling celebration of 
 	music and dance\, Riverdance returns in a spectacular new production with 
@@ -627,7 +605,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:66546c179c0a70cee74b78d8
 SUMMARY:Riverdance 30 - The New Generation
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20270526T233000Z
 DESCRIPTION:Experience the original phenomenon. A thrilling celebration of 
 	music and dance\, Riverdance returns in a spectacular new production with 
@@ -649,7 +627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:05322ab53c35fb280e72f2c3
 SUMMARY:Riverdance 30 - The New Generation
-DTSTAMP:20261106T080312Z
+DTSTAMP:20261107T080312Z
 DTSTART:20270527T233000Z
 DESCRIPTION:Experience the original phenomenon. A thrilling celebration of 
 	music and dance\, Riverdance returns in a spectacular new production with 
