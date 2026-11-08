@@ -6,63 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Arts – Concerts
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4a9586b7213787bdc94971f0
-SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20261107T080312Z
-DTSTART:20261107T180000Z
-DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
-	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
-	Along Live! brings Disney’s beloved hit Frozen to the big screen — complet
-	e with on‑screen lyrics\, audience participation moments\, and a magical l
-	ive introduction from Ice Princess Tara - our sparkling hostess for both s
-	hows. Tara takes the stage before the film to welcome families\, warm up t
-	he crowd\, and invite everyone to join the adventure. Her enchanting prese
-	nce sets the perfect tone as Anna\, Elsa\, Olaf\, and the entire kingdom o
-	f Arendelle come to life in this interactive musical event. Sing along to 
-	all your favorite songs\, including “Do You Want to Build a Snowman\,” “Lo
-	ve Is an Open Door\,” and the global phenomenon “Let It Go.” Costumes are 
-	encouraged\, voices are required\, and the magic is guaranteed. Bring the 
-	whole family and experience Frozen like never before — as a joyful\, high‑
-	energy\, community sing‑along celebration.\n\nhttps://www.cincinnatiarts.o
-	rg/events/detail/disneys-frozen-movie-sing-along
-URL:https://www.cincinnatiarts.org/events/detail/disneys-frozen-movie-sing-
-	along
-LOCATION:Jarson-Kaplan Theater\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Concerts
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:d11409d2e15236f2161d35ea
-SUMMARY:Disney's Frozen Movie Sing-Along
-DTSTAMP:20261107T080312Z
-DTSTART:20261107T210000Z
-DESCRIPTION:Disney's FROZEN Movie Sing-Along with Special Guest Hostess "Ic
-	e Princess Tara" Get ready to “Let It Go” and sing your heart out as Sing‑
-	Along Live! brings Disney’s beloved hit Frozen to the big screen — complet
-	e with on‑screen lyrics\, audience participation moments\, and a magical l
-	ive introduction from Ice Princess Tara - our sparkling hostess for both s
-	hows. Tara takes the stage before the film to welcome families\, warm up t
-	he crowd\, and invite everyone to join the adventure. Her enchanting prese
-	nce sets the perfect tone as Anna\, Elsa\, Olaf\, and the entire kingdom o
-	f Arendelle come to life in this interactive musical event. Sing along to 
-	all your favorite songs\, including “Do You Want to Build a Snowman\,” “Lo
-	ve Is an Open Door\,” and the global phenomenon “Let It Go.” Costumes are 
-	encouraged\, voices are required\, and the magic is guaranteed. Bring the 
-	whole family and experience Frozen like never before — as a joyful\, high‑
-	energy\, community sing‑along celebration.\n\nhttps://www.cincinnatiarts.o
-	rg/events/detail/disneys-frozen-movie-sing-along
-URL:https://www.cincinnatiarts.org/events/detail/disneys-frozen-movie-sing-
-	along
-LOCATION:Jarson-Kaplan Theater\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Concerts
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:9e8cc66330853af02800175c
 SUMMARY:The Rock Orchestra by Candlelight
-DTSTAMP:20261107T080312Z
+DTSTAMP:20261108T080244Z
 DTSTART:20261119T010000Z
 DESCRIPTION:After mesmerizing audiences across Europe and the UK\, The Rock
 	 Orchestra by Candlelight is set to electrify the USA once again. Prepare 
@@ -87,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9c02a03ef03ee122f25d86b2
 SUMMARY:Happy Holidays with the Mighty Wurlitzer
-DTSTAMP:20261107T080312Z
+DTSTAMP:20261108T080244Z
 DTSTART:20261205T000000Z
 DESCRIPTION:Presented by Friends of Music Hall\, Happy Holidays with the Mi
 	ghty Wurlitzer returns with an enchanting The Night Before Christmas-theme
@@ -120,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4b07c85508cf345756ffdcdf
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261107T080312Z
+DTSTAMP:20261108T080244Z
 DTSTART:20261218T190000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -149,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7ae385245c276f6919f8794
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261107T080312Z
+DTSTAMP:20261108T080244Z
 DTSTART:20261219T003000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -178,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:efff50593da57185a438d336
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261107T080312Z
+DTSTAMP:20261108T080244Z
 DTSTART:20261219T190000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -207,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:12fa81ed6720701bdc880e16
 SUMMARY:Rocky Mountain High Experience®: John Denver Christmas
-DTSTAMP:20261107T080312Z
+DTSTAMP:20261108T080244Z
 DTSTART:20261220T003000Z
 DESCRIPTION:Get ready to fall in love with the holidays all over again! Roc
 	ky Mountain High Experience®: A John Denver Christmas takes you back to th
@@ -236,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:452c22e214884d6e5d0edd92
 SUMMARY:William Shakespeare’s Romeo + Juliet Film in Concert
-DTSTAMP:20261107T080312Z
+DTSTAMP:20261108T080244Z
 DTSTART:20270113T003000Z
 DESCRIPTION:Celebrate the 30th anniversary of Baz Luhrmann’s iconic 1996 fi
 	lm with William Shakespeare’s Romeo + Juliet Film in Concert\, a live cine
@@ -265,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06afd2d816a2b21770a22175
 SUMMARY:Elvis Tribute Artist Spectacular
-DTSTAMP:20261107T080312Z
+DTSTAMP:20261108T080244Z
 DTSTART:20270117T003000Z
 DESCRIPTION:THE ELVIS TRIBUTE ARTIST SPECTACULAR is an era-by-era tribute c
 	oncert celebrating the music and magic of Elvis Presley. The concert begin
