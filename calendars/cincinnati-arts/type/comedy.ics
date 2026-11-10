@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:2a0f522846e049aaa14de6a4
 SUMMARY:O Christmas Tea: A British Comedy 
-DTSTAMP:20261109T080321Z
+DTSTAMP:20261110T080313Z
 DTSTART:20261127T200000Z
 DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
 	ups! Combining British propriety with an unabashed love for the unexpected
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:624b262f9ac8d4ef498d3242
 SUMMARY:O Christmas Tea: A British Comedy 
-DTSTAMP:20261109T080321Z
+DTSTAMP:20261110T080313Z
 DTSTART:20261128T003000Z
 DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
 	ups! Combining British propriety with an unabashed love for the unexpected
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:17a0d6c24ee05eac3d4069de
 SUMMARY:O Christmas Tea: A British Comedy 
-DTSTAMP:20261109T080321Z
+DTSTAMP:20261110T080313Z
 DTSTART:20261128T200000Z
 DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
 	ups! Combining British propriety with an unabashed love for the unexpected
@@ -113,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ed201f1a742e2056eb4f6cdf
 SUMMARY:O Christmas Tea: A British Comedy 
-DTSTAMP:20261109T080321Z
+DTSTAMP:20261110T080313Z
 DTSTART:20261129T003000Z
 DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
 	ups! Combining British propriety with an unabashed love for the unexpected
@@ -148,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:456f29d187981d00206b0f80
 SUMMARY:O Christmas Tea: A British Comedy 
-DTSTAMP:20261109T080321Z
+DTSTAMP:20261110T080313Z
 DTSTART:20261129T200000Z
 DESCRIPTION:Fans of Monty Python\, Mr. Bean\, and Dr. Seuss… Grab your teac
 	ups! Combining British propriety with an unabashed love for the unexpected
@@ -183,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:155a98c46477fffcb9e94652
 SUMMARY:Sister's Christmas Catechism
-DTSTAMP:20261109T080321Z
+DTSTAMP:20261110T080313Z
 DTSTART:20261206T190000Z
 DESCRIPTION:It's "CSI: Bethlehem" in this holiday mystery extravaganza by t
 	he author of the Late Nite Catechism series\, as Sister takes on the myste
