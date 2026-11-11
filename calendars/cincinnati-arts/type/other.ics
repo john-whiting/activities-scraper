@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:9807949f59fa133cf85d8ade
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261110T080313Z
+DTSTAMP:20261111T080310Z
 DTSTART:20261113T010000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7b837540abff5743f92a36ee
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261110T080313Z
+DTSTAMP:20261111T080310Z
 DTSTART:20261231T010000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f49aa05c717db44576c064e4
 SUMMARY:Ghost Tours of Music Hall
-DTSTAMP:20261110T080313Z
+DTSTAMP:20261111T080310Z
 DTSTART:20270115T010000Z
 DESCRIPTION:Friends of Music Hall presents a spooky look at Music Hall\, on
 	e of Cincinnati's most iconic buildings and a designated National Historic
@@ -113,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d6fafbe6b36ee71f4ef16289
 SUMMARY:Outdoor Building Tour of Cincinnati Music Hall
-DTSTAMP:20261110T080313Z
+DTSTAMP:20261111T080310Z
 DTSTART:20261114T160000Z
 DESCRIPTION:NOTE: Outdoor Building Tours meet on the front steps of Music H
 	all at 1241 Elm Street. Join the Friends of Music Hall's (FMH) knowledgeab
@@ -144,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:910bdfa99fc8dbe7dcff3533
 SUMMARY:Bricks & Beer: Cincinnati Music Hall History and Hops
-DTSTAMP:20261110T080313Z
+DTSTAMP:20261111T080310Z
 DTSTART:20261120T223000Z
 DESCRIPTION:Friends of Music Hall partners with Cincinnati breweries to bri
 	ng you a unique tour experience. Enter the world of late nineteenth-centur
@@ -170,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ad44cb8d291c5b49792a5f84
 SUMMARY:An Evening with David Sedaris
-DTSTAMP:20261110T080313Z
+DTSTAMP:20261111T080310Z
 DTSTART:20261122T003000Z
 DESCRIPTION:David Sedaris\, America’s best-selling humorist and social sati
 	rist\, returns following publication of his most recent book of short stor
@@ -188,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4a31f6511612cfc1675d960c
 SUMMARY:The Price is Right Live
-DTSTAMP:20261110T080313Z
+DTSTAMP:20261111T080310Z
 DTSTART:20270213T200000Z
 DESCRIPTION:THE PRICE IS RIGHT LIVE™ is the hit interactive stage show that
 	 gives eligible individuals the chance to hear their names called and “Com
@@ -221,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1df72e9d4c072b498086c0cb
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20261110T080313Z
+DTSTAMP:20261111T080310Z
 DTSTART:20270306T210000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
@@ -245,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3a5d5773c25fb40cdae7928e
 SUMMARY:CON MAN: A True Crime Magic Show
-DTSTAMP:20261110T080313Z
+DTSTAMP:20261111T080310Z
 DTSTART:20270307T010000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } CON MA
