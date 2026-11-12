@@ -6,38 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Cincinnati Arts – Theater
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fb5c944390d434baaecc8f27
-SUMMARY:The Sound of Music
-DTSTAMP:20261111T080310Z
-DTSTART:20261112T003000Z
-DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
-	 things.” With its timeless story and irresistibly charming score\, this R
-	odgers & Hammerstein classic isn’t just meant to be enjoyed - it’s meant t
-	o be shared. Now\, a critically acclaimed North American tour brings the c
-	herished musical to stages across the country to teach a new generation to
-	 sing. Directed by three-time Tony Award® winner Jack O’Brien (Hairspray)\
-	, this vibrant and romantic tale of Maria and the von Trapp family will ca
-	ptivate audiences with its universal themes of love\, resilience and the p
-	ower of music. Featuring beloved songs like “Do-Re-Mi\,” “Sixteen Going on
-	 Seventeen” and “Edelweiss\,” The Sound of Music is the iconic tale of a s
-	pirited nun who chooses not to live behind closed doors - and\, by followi
-	ng her heart\, learns to climb every mountain. The Sound of Music features
-	 music by Richard Rodgers\, lyrics by Oscar Hammerstein II\, and book by H
-	oward Lindsay and Russel Crouse\, suggested by The Trapp Family Singers by
-	 Maria Augusta Trapp. The 1965 Oscar®-winning film recently celebrated its
-	 60th anniversary and continues to be one of the most successful movie mus
-	icals of all time.\n\nhttps://www.cincinnatiarts.org/events/detail/the-sou
-	nd-of-music
-URL:https://www.cincinnatiarts.org/events/detail/the-sound-of-music
-LOCATION:Procter & Gamble Hall\, Aronoff Center
-STATUS:CONFIRMED
-CATEGORIES:Theater
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:a2a08193ddfd6246fae0363c
 SUMMARY:The Sound of Music
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261113T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -66,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ca17630c473700b8ffcb75e3
 SUMMARY:The Sound of Music
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261114T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -95,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f51cc24d4a6c1a398aa5d299
 SUMMARY:The Sound of Music
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261114T190000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -124,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d7e9bf2f1a71c44668ed4ecb
 SUMMARY:The Sound of Music
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261115T003000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -153,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6caad5cbbad39527c5dc5e22
 SUMMARY:The Sound of Music
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261115T180000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -182,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c134e6d7c03cc78f0843a3a9
 SUMMARY:The Sound of Music
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261115T233000Z
 DESCRIPTION:For 65 years\, The Sound of Music has been one of our “favorite
 	 things.” With its timeless story and irresistibly charming score\, this R
@@ -211,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7407af01de35b4497aaa7296
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261114T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The SpongeBob Musical follows SpongeBob SquarePants’ attempts
@@ -241,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2c8917bc5a352cc5db1c3dd6
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261115T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The SpongeBob Musical follows SpongeBob SquarePants’ attempts
@@ -271,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6381035b7a6299ef83aff3b9
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261115T190000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The SpongeBob Musical follows SpongeBob SquarePants’ attempts
@@ -301,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:09b665c348dec59bf35d165a
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261119T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The SpongeBob Musical follows SpongeBob SquarePants’ attempts
@@ -331,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4ebe9e83b3af2b85f1bcad55
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261120T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The SpongeBob Musical follows SpongeBob SquarePants’ attempts
@@ -361,7 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3bc48745b5562b08a7780906
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261121T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The SpongeBob Musical follows SpongeBob SquarePants’ attempts
@@ -391,7 +362,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:209990c88a2ce9a01312dc23
 SUMMARY:The SpongeBob Musical
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261122T003000Z
 DESCRIPTION:Based on the Nickelodeon animated television series SpongeBob S
 	quarePants\, The SpongeBob Musical follows SpongeBob SquarePants’ attempts
@@ -421,7 +392,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a0456797c2de749504afb23
 SUMMARY:CPI - An Evening of One Act Plays
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261118T003000Z
 DESCRIPTION:Two One-Act Plays in One Evening! Who Gets Grandma’s Eyeball: A
 	 One-Act Play by Paul Bergman Synopsis: Fun and the unexpected connect wit
@@ -458,7 +429,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ea8893a85e8248a6c6be991a
 SUMMARY:2026-27 CMT Mainstage Series
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261122T003000Z
 DTEND:20261122T003000Z
 DESCRIPTION:The SpongeBob Musical November 13 - 21\, 2026 Based on the Nick
@@ -483,7 +454,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d2a109e4285ae3927b856836
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261203T003000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -501,7 +472,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e4929cd35d630048aab1addd
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261204T003000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -519,7 +490,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4e12ea7937f0f3afa6bc8fea
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261205T003000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -537,7 +508,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:437ba5dcc254cdd0ebb68c79
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261205T180000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -555,7 +526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:929c9ffdc0a75c96314e24e9
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261205T210000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -573,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b70bbb714502aa7f017413b0
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261206T003000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -591,7 +562,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7f22791d8f49c96a0cd3f960
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261206T170000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -609,7 +580,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b184d068ecfe1a912196940b
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261206T200000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -627,7 +598,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f8c847c748a53dfd1a3da55a
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261206T230000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -645,7 +616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8953e02a477e0e77c024bd4a
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261210T003000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -663,7 +634,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4d301f9074724c0a49bdefb4
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261211T003000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -681,7 +652,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2714c3fc1af1104f90a6bc9f
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261212T003000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -699,7 +670,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5d6f5134a93b4e986695ac23
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261212T180000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -717,7 +688,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6bfadf0583058cd2f6458364
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261212T210000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -735,7 +706,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6c5b522f137d4959fc14016c
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261213T003000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -753,7 +724,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:57e0a3fc59f78d0961e5b023
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261213T170000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -771,7 +742,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3f56365c7f4d202c7a02d5cd
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261213T200000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -789,7 +760,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6d1c67c0dbc3df59172bac4f
 SUMMARY:'Twas The Night Before...
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20261213T230000Z
 DESCRIPTION:Cirque du Soleil's holiday-themed family theatrical spectacle a
 	rrives in Cincinnati this December. ‘Twas the Night Before... is an exhila
@@ -807,7 +778,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2f1f57f498220f5d64c6696c
 SUMMARY:SIX
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270106T003000Z
 DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
 	ke the microphone to remix five hundred years of historical heartbreak int
@@ -826,7 +797,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c45fdf2797247c060b747498
 SUMMARY:SIX
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270107T003000Z
 DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
 	ke the microphone to remix five hundred years of historical heartbreak int
@@ -845,7 +816,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a865ec7caccd9aebcdeb927
 SUMMARY:SIX
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270108T003000Z
 DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
 	ke the microphone to remix five hundred years of historical heartbreak int
@@ -864,7 +835,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f31e49c50a08797852d94853
 SUMMARY:SIX
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270109T003000Z
 DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
 	ke the microphone to remix five hundred years of historical heartbreak int
@@ -883,7 +854,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1f0eb93de4d9304793bff40b
 SUMMARY:SIX
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270109T190000Z
 DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
 	ke the microphone to remix five hundred years of historical heartbreak int
@@ -902,7 +873,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:921b251f12b082d79b8dbcd9
 SUMMARY:SIX
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270110T003000Z
 DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
 	ke the microphone to remix five hundred years of historical heartbreak int
@@ -921,7 +892,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2cc591dfe1a413f7f4ee4cf6
 SUMMARY:SIX
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270110T180000Z
 DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
 	ke the microphone to remix five hundred years of historical heartbreak int
@@ -940,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:51429de581c04d39c116ced4
 SUMMARY:SIX
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270110T233000Z
 DESCRIPTION:From Tudor Queens to Pop Icons\, the SIX wives of Henry VIII ta
 	ke the microphone to remix five hundred years of historical heartbreak int
@@ -959,7 +930,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:03d784f1d4b21ffe876912a8
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270120T003000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -978,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a775188d754b48f840e3b62b
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270121T003000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -997,7 +968,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c91fbacf36d987c852f1c787
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270122T003000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1016,7 +987,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:809a690145125de85ab051e5
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270123T003000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1035,7 +1006,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a9a801118e6d8cf90b29d438
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270123T190000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1054,7 +1025,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:378430c81543b47d37a05d16
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270124T003000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1073,7 +1044,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a3c1a83a196f18240260774
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270124T180000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1092,7 +1063,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06737d870ffcd3062c74564c
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270124T233000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1111,7 +1082,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8fb6ee1a6ff6af67080647f9
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270127T003000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1130,7 +1101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:540eae6ec4126a1ca40d490b
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270128T003000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1149,7 +1120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5aecaae6784efa75031345ef
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270129T003000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1168,7 +1139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:080e53533d84bda1a1f6ef9b
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270130T003000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1187,7 +1158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:da0b2b57f13afc33ead22c00
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270130T190000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1206,7 +1177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b2cc982f9a387641756d3c28
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270131T003000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1225,7 +1196,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ff7e71ec798e010572f5145c
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270131T180000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1244,7 +1215,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3cbe3ce9d95634ae465c90d7
 SUMMARY:Maybe Happy Ending
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270131T233000Z
 DESCRIPTION:Winner of 6 Tony Awards®\, including Best Musical\, Maybe Happy
 	 Ending tells the deeply human story of a chance encounter that sparks con
@@ -1263,7 +1234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8d672ca971205fcd4bae1c90
 SUMMARY:MAROONED! A Space Comedy
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270123T190000Z
 DESCRIPTION:a { text-decoration: none\; color: #464feb\; } tr th\, tr td { 
 	border: 1px solid #e6e6e6\; } tr th { background-color: #f5f5f5\; } An ast
@@ -1283,7 +1254,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c0cca8185203aba80c87c14f
 SUMMARY:In Harmony 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270130T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1300,7 +1271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:10f4a8ae1a85a3141c4512a4
 SUMMARY:In Harmony 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270130T200000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1317,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46e6c68c0510d474a7eb5c42
 SUMMARY:In Harmony 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270131T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1334,7 +1305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fda63ab6982f38e862dae99e
 SUMMARY:In Harmony 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270206T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1351,7 +1322,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2a4af444e99e08f1ac644d86
 SUMMARY:In Harmony 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270206T200000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1368,7 +1339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5e3eecc16539956ff4f343fc
 SUMMARY:In Harmony 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270207T003000Z
 DESCRIPTION:In Harmony is a musical journey where life and song blend seaml
 	essly. This Studio Series event celebrates musical theatre favorites from 
@@ -1385,7 +1356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:660fe8a8567bc4e674c57ff6
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270217T003000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1410,7 +1381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:85ce45023f3adfb4686816e0
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270218T003000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1435,7 +1406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3b2c67552b3b0d77fd02646e
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270219T003000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1460,7 +1431,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:45cdf7b97d07ec7220a70386
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270220T003000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1485,7 +1456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b952b56a304b6ebd9bf36169
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270220T190000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1510,7 +1481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:79b81f829d2c67c962ac8c74
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270221T003000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1535,7 +1506,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:867afe97042934507a7c064d
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270221T180000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1560,7 +1531,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:51c9dad946f75f6c6738b4e0
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270221T233000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1585,7 +1556,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bcef1121fb777cae6a143901
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270224T003000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1610,7 +1581,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0e98f18b6cd4c1b7b18c6a99
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270225T003000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1635,7 +1606,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7f72fb486e49a34e4b02e7c5
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270226T003000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1660,7 +1631,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ee641c691cf5abde623ef20d
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270227T003000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1685,7 +1656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7075b682fc24b706a47789e5
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270227T190000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1710,7 +1681,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:85fb89dba04a0910ed060a5a
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270228T003000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1735,7 +1706,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e052871823d82e8a5c7fb988
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270228T180000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1760,7 +1731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f176529e7c4bb2756e6a8cc0
 SUMMARY:Disney’s Beauty and the Beast
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270228T233000Z
 DESCRIPTION:Be Our Guest at Beauty and the Beast\, Disney’s first North Ame
 	rican touring production of the beloved musical in over 25 years. This enc
@@ -1785,7 +1756,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2650b113d653521f3133daf1
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270316T233000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -1812,7 +1783,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b31a44ee7da86472116b629e
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270317T233000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -1839,7 +1810,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bcb9fac510364d83e45a7ba9
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270318T233000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -1866,7 +1837,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:605ef6e36e685c747d179759
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270319T233000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -1893,7 +1864,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ba1a4aef0d25c039875b733a
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270320T180000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -1920,7 +1891,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b3c5b6178b32c2c3f6f1db47
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270320T233000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -1947,7 +1918,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:db0984db80d80b15cfe11256
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270321T170000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -1974,7 +1945,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:82b0428c84d7b610b8ca47bb
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270321T223000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -2001,7 +1972,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bf8aa67f7c1473b342256144
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270323T233000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -2028,7 +1999,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f483e31a66fcfcbb8f80da80
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270324T233000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -2055,7 +2026,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4feb47ab8685111be25440c6
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270325T233000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -2082,7 +2053,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:52900d37359632cc8bbead44
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270326T170000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -2109,7 +2080,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a825e7c6099bcc3b7cc262a8
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270326T233000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -2136,7 +2107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e7e775ba1528aa14a3acf7ec
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270327T180000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -2163,7 +2134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7693af33b512562f91b03402
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270327T233000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -2190,7 +2161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2e417ab053f7e614849daf53
 SUMMARY:The Outsiders
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270328T170000Z
 DESCRIPTION:The winner of four 2024 Tony Awards®\, including Best Musical\,
 	 is The Outsiders. Adapted from S.E. HINTON’s seminal novel and Francis Fo
@@ -2217,7 +2188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d5c1ef468543427dbbe19ba4
 SUMMARY:It's a Small World 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270319T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2232,7 +2203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9ffd8af9a286cfe3bfa85d40
 SUMMARY:It's a Small World 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270320T190000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2247,7 +2218,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:857290fb29974eba888cb94f
 SUMMARY:It's a Small World 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270320T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2262,7 +2233,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3528fe62f469fdb53c81c0f0
 SUMMARY:It's a Small World 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270326T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2277,7 +2248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1231fda71d0592d866ec1277
 SUMMARY:It's a Small World 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270327T190000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2292,7 +2263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fc57dc07d514296080b9d506
 SUMMARY:It's a Small World 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270327T233000Z
 DESCRIPTION:Prepare to "step in time" to the music of the Sherman Brothers!
 	 The beloved songs of Mary Poppins\, The Jungle Book\, and many more come 
@@ -2307,7 +2278,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2b9d8d92050c2646b0e03511
 SUMMARY:CPI - Arc of Luminescence
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270330T233000Z
 DESCRIPTION:Arc of Luminescence: A Full-Length Play by Michael Defrancesco 
 	Synopsis: An artist/painter dies. His European collector\, executor\, and 
@@ -2334,7 +2305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ff96ff0a00fcb029d0e2ab4a
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270330T233000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -2353,7 +2324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b5b4a2e5301cc27df28e8b14
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270331T233000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -2372,7 +2343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cf5a68d810df8904cc78523f
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270401T233000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -2391,7 +2362,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9318d784208d83375f2183d9
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270402T233000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -2410,7 +2381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:be0cda2b72dc41ead23951ce
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270403T170000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -2429,7 +2400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a39c6e22377f037b76a391cc
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270403T233000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -2448,7 +2419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:688612a6fe77d2ec588993f9
 SUMMARY:Menopause The Musical®
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270404T170000Z
 DESCRIPTION:Four women at a lingerie sale have nothing in common but a blac
 	k lace bra AND memory loss\, hot flashes\, night sweats\, not enough sex\,
@@ -2467,7 +2438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dba756bdb2f3a281f3be48e0
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270414T233000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2493,7 +2464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:236aad9016a6858a95de8533
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270415T233000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2519,7 +2490,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8aa1389a98501d8301aea0f3
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270416T233000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2545,7 +2516,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:723cbb86318513508c024d93
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270417T173000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2571,7 +2542,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5d4d3732626df25fce8d9fbf
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270417T233000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2597,7 +2568,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:db598f13de61c1a2c1f0f874
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270418T170000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2623,7 +2594,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2e5be6593c117935a30162ae
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270418T230000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2649,7 +2620,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b3681a0be179bf83d508f3d1
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270420T233000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2675,7 +2646,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3e9f749914aa377f4191bfce
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270421T233000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2701,7 +2672,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0b0cae45e533bd57b992e67c
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270422T233000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2727,7 +2698,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:704c808b1e595f1105ac271b
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270423T170000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2753,7 +2724,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f149552b42341b85a7304151
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270423T233000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2779,7 +2750,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4d889490f8568d6e677096b0
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270424T173000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2805,7 +2776,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7ad05761456312e5d1adb8c9
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270424T233000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2831,7 +2802,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b368ea397122883144c3ec26
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270425T170000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2857,7 +2828,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c751913d41dc124f79a74be0
 SUMMARY:Harry Potter and the Cursed Child 
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270425T230000Z
 DESCRIPTION:IT’S TIME TO BELIEVE IN MAGIC Broadway’s spellbinding spectacul
 	ar Harry Potter and the Cursed Child is coming to Cincinnati. Join the nex
@@ -2883,7 +2854,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d8d503db500b88a6fcc7eccd
 SUMMARY:CPI - Behind the Scene  
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270427T233000Z
 DESCRIPTION:Behind the Scene: A Full-Length Comedy by Susan & Doug Decatur 
 	Synopsis: In 1933\, the movie industry is about to enact new censorship st
@@ -2913,7 +2884,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f6521ae9d7197705e72d674d
 SUMMARY:School of Rock
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270507T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2932,7 +2903,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aba26ed860b6d622ecc647f6
 SUMMARY:School of Rock
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270508T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2951,7 +2922,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a06b59f090fbf52a269ffab
 SUMMARY:School of Rock
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270509T180000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2970,7 +2941,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e03b28a8a943eb8c995ad813
 SUMMARY:School of Rock
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270512T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -2989,7 +2960,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:829489861cb4ef1309c7afbe
 SUMMARY:School of Rock
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270513T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -3008,7 +2979,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:50b4026f380648f7424a9a62
 SUMMARY:School of Rock
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270514T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -3027,7 +2998,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:78d226d9ef6b3814d8a92dc1
 SUMMARY:School of Rock
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270515T233000Z
 DESCRIPTION:Andrew Lloyd Webber’s award-winning smash hit musical School of
 	 Rock is based on the hilarious hit movie. It follows Dewey Finn\, a faile
@@ -3046,7 +3017,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:444be051d1cafa6aa5fb9776
 SUMMARY:Hadestown
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270512T233000Z
 DTEND:20270516T223000Z
 DESCRIPTION:COME SEE HOW THE WORLD COULD BE. Welcome to Hadestown\, where a
@@ -3071,7 +3042,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a05ca998f296e13dd3fdc5d1
 SUMMARY:Buena Vista Social Club
-DTSTAMP:20261111T080310Z
+DTSTAMP:20261112T080318Z
 DTSTART:20270601T233000Z
 DTEND:20270613T223000Z
 DESCRIPTION:Step into the heart of Cuba\, beyond the glitz of the Tropicana
